@@ -11,7 +11,7 @@ export function Navigation() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-[var(--bg)]/95 backdrop-blur-md">
+    <header className="sticky top-0 z-50 bg-[var(--bg)] backdrop-blur-md">
       <div className="mx-auto max-w-[1400px] px-6 lg:px-10">
         {/* Top bar */}
         <div className="flex items-center justify-between h-14 lg:h-16">
