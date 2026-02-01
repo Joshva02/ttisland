@@ -1,0 +1,208 @@
+{
+  "source": "http://tntisland.com/casinos.html",
+  "page_title": "Trinidad & Tobago Casinos",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Casino",
+      "type": "casino",
+      "address": "Contact Information"
+    },
+    {
+      "name": "Casablanca",
+      "type": "casino",
+      "address": "Long Circular Road\nSt. James"
+    },
+    {
+      "name": "Crystal Palace",
+      "type": "casino",
+      "phone": [
+        "639-9747"
+      ],
+      "address": "Cor. Milford. & Mt. Marie Roads\nTobago"
+    },
+    {
+      "name": "Club 1 Private Members Club",
+      "type": "casino",
+      "phone": [
+        "223-2248",
+        "223-2249"
+      ],
+      "address": "2nd Floor, One Woodbrook Place\n1111 Woodbrook\nPort Of Spain"
+    },
+    {
+      "name": "Club Casanovas",
+      "type": "casino",
+      "phone": [
+        "662-1253"
+      ],
+      "address": "10 Macoya Road\nTunapuna"
+    },
+    {
+      "name": "Club Monte Carlo",
+      "type": "casino",
+      "address": "Princess Margaret Street\nSan Fernando"
+    },
+    {
+      "name": "Club Phoenix",
+      "type": "casino",
+      "phone": [
+        "664-0463"
+      ],
+      "address": "19 Woodford Street\nChaguanas"
+    },
+    {
+      "name": "Club Play 2 Win",
+      "type": "casino",
+      "address": "60-62 Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Club Regal",
+      "type": "casino",
+      "phone": [
+        "652-8100"
+      ],
+      "address": "cor. Sutton and Mucurapo Streets\nSan Fernando"
+    },
+    {
+      "name": "Club Rio",
+      "type": "casino",
+      "phone": [
+        "652-3745"
+      ],
+      "address": "20 Cipero Road\nSan Fernando"
+    },
+    {
+      "name": "Deuces Casino",
+      "type": "casino",
+      "address": "Independence Square\nPort of Spain"
+    },
+    {
+      "name": "Flamingo Private Members Club",
+      "type": "casino",
+      "address": "High Street\nPrinces Town"
+    },
+    {
+      "name": "Golden Tulip Kapok Hotel",
+      "type": "casino",
+      "phone": [
+        "622-9677"
+      ],
+      "address": "Cotton Hill, 16-18 St. Clair\nPort of Spain"
+    },
+    {
+      "name": "Goldgate Casino & Pub",
+      "type": "casino",
+      "address": "Independence Square (next to Royal Castle)\nPort-of-Spain"
+    },
+    {
+      "name": "Island Club Casino",
+      "type": "casino",
+      "phone": [
+        "645-3333"
+      ],
+      "address": "City of Grand Bazaar\nCor. Churchill Roosebelt & Uriah Butler Hwys\nValsayn"
+    },
+    {
+      "name": "Orange Hill Road",
+      "type": "casino",
+      "extra_info": "Scarborough\nTel: 639-4434\nLa Bonne Vie Casino",
+      "phone": [
+        "657-9278"
+      ],
+      "address": "South Trunk Road Road\nLa Romain"
+    },
+    {
+      "name": "South Trunk Road",
+      "type": "casino",
+      "extra_info": "La Romaine\nTel: 653-7210\nSportsman Casino",
+      "address": "Fitt Street\nWoodbrook"
+    },
+    {
+      "name": "Royalton Casino",
+      "type": "casino",
+      "phone": [
+        "631-8500"
+      ],
+      "address": "Crown Point Beach Hotel\nCrown Point"
+    },
+    {
+      "name": "Sands Casino",
+      "type": "casino",
+      "phone": [
+        "653-7465"
+      ],
+      "address": "Prince of Wales & Coffee Streets\nSan Fernando"
+    },
+    {
+      "name": "Santa Rosa Park",
+      "type": "casino",
+      "phone": [
+        "646-0952"
+      ],
+      "address": "Churchill Roosevelt Hwy\nArima"
+    },
+    {
+      "name": "The City of Grand Bazaar",
+      "type": "casino",
+      "phone": [
+        "645-3333"
+      ],
+      "address": "Valsayn"
+    },
+    {
+      "name": "The Upstairs Members Club",
+      "type": "casino",
+      "phone": [
+        "301-2849"
+      ],
+      "address": "Arouca Junction\nArouca"
+    },
+    {
+      "name": "Vybz City Casino",
+      "type": "casino",
+      "phone": [
+        "227-2565"
+      ],
+      "address": "Library Corner\nSan Fernando"
+    },
+    {
+      "name": "Xando",
+      "type": "casino",
+      "address": "Trinidad"
+    },
+    {
+      "name": "Xante",
+      "type": "casino",
+      "phone": [
+        "622-2272"
+      ],
+      "address": "30A Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Jen-Mar Business Machines",
+      "type": "casino",
+      "locations": [
+        {
+          "phone": [
+            "657-2003"
+          ],
+          "address": "14A Coffee Street\nSan Fernando"
+        }
+      ]
+    },
+    {
+      "name": "Ma Pau",
+      "type": "casino",
+      "locations": [
+        {
+          "phone": [
+            "627-6214"
+          ],
+          "address": "Cor. French Street & Ariapita Avenue\nWoodbrook"
+        }
+      ]
+    }
+  ]
+}

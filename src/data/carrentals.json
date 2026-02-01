@@ -1,0 +1,1116 @@
+{
+  "source": "http://tntisland.com/carrentals.html",
+  "page_title": "Trinidad & Tobago Car Rentals",
+  "category": "transportation",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "4 A Rentals",
+      "type": "car_rental",
+      "phone": [
+        "688-5498"
+      ],
+      "address": "Sherwood Park\nTobago"
+    },
+    {
+      "name": "AA+ Auto Rentals & Taxi Services",
+      "type": "car_rental",
+      "email": [
+        "gosinesunil@hotmail.com"
+      ],
+      "extra_info": "email: AA+ Auto Rentals & Taxi Services",
+      "phone": [
+        "355-8665"
+      ],
+      "address": "#30 Xavier Street\nOrchard Gardens, Chaguanas"
+    },
+    {
+      "name": "A-1 Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "638-8125"
+      ],
+      "address": "66 Churchill Roosevelt Highway\nSan Juan"
+    },
+    {
+      "name": "A-Class Auto Rentals",
+      "type": "car_rental",
+      "email": [
+        "krcenterprises@tstt.net.tt"
+      ],
+      "extra_info": "email: A-Class Auto Rentals",
+      "phone": [
+        "662-8025"
+      ],
+      "address": "St. Helena Village\nPiarco\nFax: 663-6462"
+    },
+    {
+      "name": "Airport Express",
+      "type": "car_rental",
+      "phone": [
+        "669-4332"
+      ],
+      "address": "St. Helena Village\nPiarco"
+    },
+    {
+      "name": "Alamo Car Rental",
+      "type": "car_rental",
+      "phone": [
+        "639-0644"
+      ],
+      "address": "A.N.R. Robinson International Airport\nCrown Point\nTobago"
+    },
+    {
+      "name": "Alfred's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-7448"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Ali's Car Rental & Guesthouse",
+      "type": "car_rental",
+      "phone": [
+        "691-5984"
+      ],
+      "address": "LP 3 George Street\nCanaan\nTobago"
+    },
+    {
+      "name": "Anil's Auto Rentals Ltd.",
+      "type": "car_rental",
+      "phone": [
+        "740-2464",
+        "323-"
+      ],
+      "address": "Petit Valley/Diego Martin\nCARS(2277)"
+    },
+    {
+      "name": "Anzoategui Rentals",
+      "type": "car_rental",
+      "phone": [
+        "669-9184"
+      ],
+      "address": "Chin Chin Road\nCunupia"
+    },
+    {
+      "name": "Arrow Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "645-4608"
+      ],
+      "address": "St. Augustine"
+    },
+    {
+      "name": "Autogenics",
+      "type": "car_rental",
+      "email": [
+        "autogen@tstt.net.tt"
+      ],
+      "extra_info": "email: Autogenics",
+      "phone": [
+        "622-6419"
+      ],
+      "address": "100A Saddle Road\nMaraval\nTel1/Fax: 622-7763"
+    },
+    {
+      "name": "AutoPal Rental Service Ltd.",
+      "type": "car_rental",
+      "email": [
+        "autopalrentalservices@gmail.com"
+      ],
+      "extra_info": "email: autopalrentalservices@gmail.com",
+      "phone": [
+        "748-9620",
+        "767-3016",
+        "332-9681"
+      ],
+      "address": "Arima"
+    },
+    {
+      "name": "Auto Image Rental",
+      "type": "car_rental",
+      "email": [
+        "rmaraj@carib-link.net"
+      ],
+      "extra_info": "email: Auto Image",
+      "phone": [
+        "662-1201",
+        "680-8078"
+      ],
+      "address": "Valpark Shopping Plaza\nValsayn"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "car_rental",
+      "extra_info": "Piarco\nTel1: 669-2277\nTel2: 669-1759\n94-98 Gooding Village\nSan Fernando\nTel1: 657-7368\nTel2: 657-3177\nFax: 657-3984\n33-35 Cap-de-Ville Road\nPoint Fortin\nTel1: 648-2163\nTel2: 648-7368\n16-16 Pioneer Drive\nSanta Flora\nTel: 649-5866\nCrown Point Airport\nTobago\nTel: 639-0644\n6 Milton Road\nBalmain\nCouva\nTel/Fax: 679-7368\nAutocenter Car Rentals",
+      "phone": [
+        "628-4400"
+      ],
+      "address": "6 Ariapita Avenue\nPort of Spain"
+    },
+    {
+      "name": "Crown Point Airport",
+      "type": "car_rental",
+      "extra_info": "Tobago\nTel: 639-4400\nBacchus Car Rentals",
+      "phone": [
+        "622-5588"
+      ],
+      "address": "37 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "Baird's Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-2528"
+      ],
+      "address": "Sangster's Hill Road\nScarborough\nTobago"
+    },
+    {
+      "name": "Banwari Experience",
+      "type": "car_rental",
+      "phone": [
+        "624-8687"
+      ],
+      "address": "64 Princess Street\nPort of Spain"
+    },
+    {
+      "name": "Basic Rentals",
+      "type": "car_rental",
+      "phone": [
+        "627-0521"
+      ],
+      "address": "1 Cornelio Street\nWoodbrook"
+    },
+    {
+      "name": "Baypoint Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8512"
+      ],
+      "address": "Tropikist Beach Hotel\nCrown Point\nTobago"
+    },
+    {
+      "name": "Birdi Car Rental",
+      "type": "car_rental",
+      "phone": [
+        "721-6970"
+      ],
+      "address": "Courland Bush Trace\nBlack Rock\nTobago"
+    },
+    {
+      "name": "Budget Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "669-3831"
+      ],
+      "address": "Terminal Building\nPiarco International Airport\nTel\nFax: 669-1635"
+    },
+    {
+      "name": "C & J Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-0061"
+      ],
+      "address": "22 Canaan Feeder Road\nCanaan\nTobago"
+    },
+    {
+      "name": "Car-Bee Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "622-8755"
+      ],
+      "address": "41 Mucurapo Road\nSt. James"
+    },
+    {
+      "name": "Carlton James Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8084"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Carro Rentals",
+      "type": "car_rental",
+      "email": [
+        "Carrorentals@gmail.com"
+      ],
+      "extra_info": "email: Carro Rentals",
+      "phone": [
+        "784-3617",
+        "721-9960"
+      ],
+      "address": "Plymouth\nTobago"
+    },
+    {
+      "name": "Central Equipment Rentals",
+      "type": "car_rental",
+      "phone": [
+        "636-2535"
+      ],
+      "address": "45 Preysal Village\nCouva"
+    },
+    {
+      "name": "Southern Main Road",
+      "type": "car_rental",
+      "extra_info": "Claxton Bay\nTel: 659-3015\nCrop Stock Auto Rentals",
+      "phone": [
+        "639-9154"
+      ],
+      "address": "Canaan Main Road\nCanaan\nTobago"
+    },
+    {
+      "name": "Cupen's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "632-8736"
+      ],
+      "address": "Morne Coco Road\nPetit Valley"
+    },
+    {
+      "name": "Store Bay Local Road",
+      "type": "car_rental",
+      "extra_info": "Tobago\nTel: 639-8082\nDrive It",
+      "phone": [
+        "624-5945"
+      ],
+      "address": "99 Abercromby Street\nPort of Spain"
+    },
+    {
+      "name": "E&D Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "645-7054"
+      ],
+      "address": "1A College Trace\nSt. Augustine"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "car_rental",
+      "email": [
+        "taylor.carrental@gmail.comt"
+      ],
+      "extra_info": "Piarco\nTel: 669-2342\nCrew Inn, Western Main Road\nChaguaramas\nTel: 634-2154\nStore Bay Local Road\nCrown Point Airport\nTobago\nTel: 660-8728\nElite Car Rentals\nemail: Elite Car Rentals",
+      "phone": [
+        "284-6869"
+      ],
+      "address": "Port of Spain"
+    },
+    {
+      "name": "Emerald Island Car Rentals",
+      "type": "car_rental",
+      "email": [
+        "tasia1@tstt.net.tt"
+      ],
+      "extra_info": "email: Emerald Island Car Rentals",
+      "phone": [
+        "639-7342"
+      ],
+      "address": "Carnbee #1\nCarnbee\nTobago"
+    },
+    {
+      "name": "Piarco Call Center",
+      "type": "car_rental",
+      "email": [
+        "xcarentals@tstt.net.tt",
+        "xcarentals@yahoo.com"
+      ],
+      "extra_info": "Piarco Airport\nTel: 646-4746\nFax: 646-2868\nExclusive Car Rental\nemail #1: Exclusive Car Rental\nemail #2: Exclusive Car Rental",
+      "phone": [
+        "634-2915"
+      ],
+      "address": "Skinners Yard\nWestern Main Road\nChaguaramas\n24 hour Hotline #1: 632-7812\n24 hour Hotline #2: 678-9938"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "car_rental",
+      "extra_info": "Piraco\nTel: 669-6157\n7 Western Main Road\nCarenage\nTel: 694-1494\nExecutive Limousine Service",
+      "phone": [
+        "625-1170"
+      ],
+      "address": "11 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "Frankie's Tours & Rentals",
+      "type": "car_rental",
+      "phone": [
+        "631-0369"
+      ],
+      "address": "Mt. Irvine Beach Facility Car Park\nTobago"
+    },
+    {
+      "name": "Furness Rent-A-Car",
+      "type": "car_rental",
+      "phone": [
+        "627-4959"
+      ],
+      "address": "1 Richmond Street\nPort of Spain"
+    },
+    {
+      "name": "Genesis Rent-A-Car",
+      "type": "car_rental",
+      "phone": [
+        "639-5555"
+      ],
+      "address": "Summerhill\nScarborough\nTobago"
+    },
+    {
+      "name": "George's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8295"
+      ],
+      "address": "Sherwood Park\nCaranbee\nTobago"
+    },
+    {
+      "name": "Graham's Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-1094"
+      ],
+      "address": "Union Village Whim\nTobago"
+    },
+    {
+      "name": "Harvey Jack Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-9453"
+      ],
+      "address": "66 Blue Heron Drive\nMount Pleasant\nTobago"
+    },
+    {
+      "name": "Hill Crest Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-5208",
+        "733-8851"
+      ],
+      "address": "47 Mt. Pelier Trace\nTobago\nTel1"
+    },
+    {
+      "name": "Island Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-3170"
+      ],
+      "address": "Burnett Street\nScarborough\nTobago"
+    },
+    {
+      "name": "Island Cars Trinidad Ltd",
+      "type": "car_rental",
+      "email": [
+        "customerservice@islandcarsonline.com"
+      ],
+      "extra_info": "email: Island Car Ltd",
+      "phone": [
+        "646-4746"
+      ],
+      "address": "Trinidad"
+    },
+    {
+      "name": "Ivor J Black & White Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-3170"
+      ],
+      "address": "Pigott Street\nScarborough\nTobago"
+    },
+    {
+      "name": "J Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "679-2208"
+      ],
+      "address": "Southern Main Road\nCouva"
+    },
+    {
+      "name": "JAGS Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "662-4157"
+      ],
+      "address": "21 Jackson Street\nCurepe"
+    },
+    {
+      "name": "James & Sons Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-9585"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "James Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8084"
+      ],
+      "address": "Crown Point, Tobago"
+    },
+    {
+      "name": "Japanese Motor Plaza",
+      "type": "car_rental",
+      "phone": [
+        "665-7804"
+      ],
+      "address": "154 Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Jeffrey's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "663-5333"
+      ],
+      "address": "2 Bryce Road\nSt. Augstine"
+    },
+    {
+      "name": "Johnny's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "674-0463"
+      ],
+      "address": "2 Eastern Main Road\nSilvermill, San Juan"
+    },
+    {
+      "name": "Jordan's Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-1032"
+      ],
+      "address": "Signal Hill\nTobago"
+    },
+    {
+      "name": "KCNN Car Rentals",
+      "type": "car_rental",
+      "email": [
+        "kcnn@tstt.net.tt"
+      ],
+      "extra_info": "email: KCNN Car Rentals",
+      "phone": [
+        "682-2888"
+      ],
+      "address": "283 Humming Bird Avenue\nSou Sou Lands, New Grange\nTobago"
+    },
+    {
+      "name": "K Dam Ltd",
+      "type": "car_rental",
+      "phone": [
+        "639-0506"
+      ],
+      "address": "Main Street\nBuccoo\nTobago"
+    },
+    {
+      "name": "Southern Main Road",
+      "type": "car_rental",
+      "email": [
+        "krista_shuttle@tstt.net.tt"
+      ],
+      "extra_info": "Caroni\nTel: 645-5182\n32 Ariapita Avenue\nWoodbrook\nTel: 622-9073\nHilton Hotel\nPort of Spain\nTel: 624-3211\next. 6087\nKrista's Executive Tours & Rentals Ltd\nemail: Krista's Executive Tours & Rentals Ltd",
+      "phone": [
+        "689-7546",
+        "637-3544"
+      ],
+      "address": "#3 Alfred Drive\nCrystal Stream Avenue\nDiego Martin"
+    },
+    {
+      "name": "LA Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "667-0160"
+      ],
+      "address": "32 Tunapuna Road\nArima"
+    },
+    {
+      "name": "Lamont's Car Rentals",
+      "type": "car_rental",
+      "address": "165 Centeno Street\nMarabella\nTel:"
+    },
+    {
+      "name": "Lazzari Rentals",
+      "type": "car_rental",
+      "phone": [
+        "652-3458"
+      ],
+      "address": "96 Mon Repos Street\nSan Fernando"
+    },
+    {
+      "name": "Lee Roi Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-0240"
+      ],
+      "address": "Hampden Lowlands\nTobago"
+    },
+    {
+      "name": "M B Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-0757"
+      ],
+      "address": "Canaan\nTobago"
+    },
+    {
+      "name": "Crown Point",
+      "type": "car_rental",
+      "extra_info": "Tobago\nTel: 639-9209\nMauge's Car Rentals",
+      "phone": [
+        "625-2335"
+      ],
+      "address": "15 Gordon Street\nPort of Spain"
+    },
+    {
+      "name": "Millenium Sales",
+      "type": "car_rental",
+      "phone": [
+        "633-7363"
+      ],
+      "address": "42 Abbe Poujade Street\nCarenage"
+    },
+    {
+      "name": "Mundo Car Rental and Transport Service",
+      "type": "car_rental",
+      "email": [
+        "baldmark@tstt.net.tt",
+        "anthonyseverin@hotmail.com"
+      ],
+      "extra_info": "email: Mundo Car Rental or\nemail: Mundo Car Rental",
+      "phone": [
+        "639-0717",
+        "688-5249"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Murray Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-7460"
+      ],
+      "address": "Milford Road\nBon Accord\nTobago"
+    },
+    {
+      "name": "Ocean Point Auto Rentals",
+      "type": "car_rental",
+      "email": [
+        "autorentals@oceanpoint.com"
+      ],
+      "extra_info": "email: Ocean Pt. Car Rental",
+      "phone": [
+        "639-0973"
+      ],
+      "address": "Scarborough\nTobago"
+    },
+    {
+      "name": "P L Singh Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "652-4208"
+      ],
+      "address": "56 fifth Aveneue, Maharaj Lands\nSan Fernando"
+    },
+    {
+      "name": "Peter's Gremili's Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8400"
+      ],
+      "address": "Lighthouse Road\nCrown Point\nTobago"
+    },
+    {
+      "name": "Saddle Road",
+      "type": "car_rental",
+      "extra_info": "Maraval\nTel: 629-3038\nPrestige Car Rentals",
+      "phone": [
+        "653-2222"
+      ],
+      "address": "20 Gooding Village, Cipero Street\nSan Fernando"
+    },
+    {
+      "name": "San Fernando",
+      "type": "car_rental",
+      "extra_info": "Tel: 652-3705\nTobago\nTel: 639-2293\nQuashie's Rentals",
+      "phone": [
+        "688-5249"
+      ],
+      "address": "Crown Point International Airport\nTobago"
+    },
+    {
+      "name": "Rattan's Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-8271"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Reesal's Auto Rental",
+      "type": "car_rental",
+      "phone": [
+        "669-4933",
+        "669-3330",
+        "750-2693"
+      ],
+      "address": "Piarco Airport\nPiarco"
+    },
+    {
+      "name": "Rent-A-Car",
+      "type": "car_rental",
+      "phone": [
+        "657-9062"
+      ],
+      "address": "53 Duncan Village\nSan Fernando"
+    },
+    {
+      "name": "Rental Concepts, Car & Taxi Services Ltd.",
+      "type": "car_rental",
+      "email": [
+        "rentalconcepts@gmail.com"
+      ],
+      "extra_info": "email: Rental Concepts, Car & Taxi Services Ltd.",
+      "phone": [
+        "679-5359",
+        "494-8585 (24",
+        "703-2261"
+      ],
+      "address": "LP 107 Balmain Main Road\nCouva\nHrs)"
+    },
+    {
+      "name": "Rentals Plus Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "665-3323"
+      ],
+      "address": "435 Circular Drive\nLange Park"
+    },
+    {
+      "name": "Ripspeed Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "665-9851"
+      ],
+      "address": "Uriah Butler Highway\nCharlieville"
+    },
+    {
+      "name": "Rocky Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-5819"
+      ],
+      "address": "Barton's Building\nStore Bay Local Road\nCrown Point\nTobago"
+    },
+    {
+      "name": "Rollock's Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-0328"
+      ],
+      "address": "Store Bay Local Road\nCrown Point Airport\nTobago"
+    },
+    {
+      "name": "Sav-A-lot Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "669-2226"
+      ],
+      "address": "Piarco International Airport\nPiarco"
+    },
+    {
+      "name": "Seven Eleven Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "622-7369"
+      ],
+      "address": "83 Saddle Road\nMaraval"
+    },
+    {
+      "name": "Sheppy's Car Rental",
+      "type": "car_rental",
+      "phone": [
+        "639-1543",
+        "631-8277"
+      ],
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Sherman's Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-2292"
+      ],
+      "address": "Lambeau Village\nTobago"
+    },
+    {
+      "name": "Sigma Car Dealers",
+      "type": "car_rental",
+      "phone": [
+        "659-3452"
+      ],
+      "address": "Poui Avenuue & Southern Main Road\nPlaisance Park. Claxton Bay"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "car_rental",
+      "extra_info": "Piarco\nTel: 669-5417\n67-69 Southern Main Road\nPoint Lisas\nTel: 636-7959\nGrafton Beach Resort\nTobago\nTel: 639-0030\nSixt Rent-A-Car",
+      "phone": [
+        "669-7498"
+      ],
+      "address": "Piarco Airport\nGolden Grove Road\nPiarco"
+    },
+    {
+      "name": "Speedy's Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-7038"
+      ],
+      "address": "Store Bay Road, Crown Point\nTobago"
+    },
+    {
+      "name": "Spence Rental Service",
+      "type": "car_rental",
+      "phone": [
+        "639-8082",
+        "620-0090"
+      ],
+      "address": "Store Bay Local Road\nCrown Point\nTobago"
+    },
+    {
+      "name": "So Car Rental",
+      "type": "car_rental",
+      "phone": [
+        "663-2804"
+      ],
+      "address": "12 Bowen Street\nTunapuna"
+    },
+    {
+      "name": "Isthmus Road",
+      "type": "car_rental",
+      "extra_info": "Point Galeota\nTel: 630-4777\nPt Lisas Main Road\nPoint Lisas\nTel: 679-2424\n70-80 Richmond Street\nPort of Spain\nTel: 625-2461\nEl Socorro Road Extension\nSan Juan\nTel: 675-2424\nBel Air Hotel Airprot\nPiaco\nTel: 669-2424\nSouthern Taxi Services",
+      "phone": [
+        "652-8294"
+      ],
+      "address": "27-29 Circular Road\nSan Fernando"
+    },
+    {
+      "name": "Stewart Auto Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-3397"
+      ],
+      "address": "Kirk Street\nScarborough, Tobago"
+    },
+    {
+      "name": "Sunrise Tours & Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "639-3397"
+      ],
+      "address": "Marie's Place, Old Grafton Road\nPleasant Prospect'\nGrafton\nTobago\nTel/Fax: 639-0089\nSunshine Motors & RentalsMilford Road\nTobago"
+    },
+    {
+      "name": "Sunshine Rentals Ltd.",
+      "type": "car_rental",
+      "phone": [
+        "683-4671"
+      ],
+      "address": "19 Drayton Street\nSan Fernando\nTe2: 657-2007"
+    },
+    {
+      "name": "Taylor's Rental",
+      "type": "car_rental",
+      "phone": [
+        "354-5743"
+      ],
+      "address": "Depot Road\nCastara\nTobago"
+    },
+    {
+      "name": "Ted's Sunshine Tours",
+      "type": "car_rental",
+      "phone": [
+        "639-0547"
+      ],
+      "address": "Store Bay Local Road\nCrown Point\nTobago"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "car_rental",
+      "extra_info": "Piarco\nTel: 669-0602\nCrown Point Airport\nTobago\nTel: 639-8111\nTobago Car Rentals",
+      "phone": [
+        "639-0350"
+      ],
+      "address": "Crown Point Airport\nTobago"
+    },
+    {
+      "name": "Turtle Beach",
+      "type": "car_rental",
+      "extra_info": "Tobago\nTel: 639-2851\nTobago United Rentals",
+      "phone": [
+        "639-9973"
+      ],
+      "address": "Store Bay Local Road\nCrown Point\nTobago"
+    },
+    {
+      "name": "Tragarete Car Rentals",
+      "type": "car_rental",
+      "phone": [
+        "623-3025"
+      ],
+      "address": "75 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "1 Prince Charles Street, Cross Crossing",
+      "type": "car_rental",
+      "extra_info": "San Fernando\nTel:\nV K Rentals",
+      "phone": [
+        "639-9395"
+      ],
+      "address": "Old Grange Inn\nMt. Irvine\nTobago"
+    },
+    {
+      "name": "XTRA Lease & Rental Company Ltd.",
+      "type": "car_rental",
+      "email": [
+        "mycar@xtrarentals.com"
+      ],
+      "extra_info": "email #1 XTRA Lease & Rental Company Ltd.",
+      "phone": [
+        "672-3096",
+        "355-0812",
+        "665-3759"
+      ],
+      "address": "1 Marajh Drive\nEnterprise\nChaguanas"
+    },
+    {
+      "name": "Waukie's Car Rental",
+      "type": "car_rental",
+      "phone": [
+        "639-9072",
+        "631-0286",
+        "631-0287"
+      ],
+      "address": "Mt. Pleasant\nTobago\nYes Tourism#7 De Freitas Drive\nAll Fields Trace\nLowlands\nTobago"
+    },
+    {
+      "name": "Zebeck Auto Rental",
+      "type": "car_rental",
+      "phone": [
+        "653-8462"
+      ],
+      "address": "12 Rushworth Street\nSan Fernando"
+    },
+    {
+      "name": "Auto Rental1",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "675-7368",
+            "675-2258"
+          ],
+          "address": "Head Office\nLady Young Road\nMorvant"
+        }
+      ]
+    },
+    {
+      "name": "Autocenter Car Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "628-4400"
+          ],
+          "address": "6 Ariapita Avenue\nPort of Spain"
+        }
+      ]
+    },
+    {
+      "name": "Convenient Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "634-4017"
+          ],
+          "address": "7 Western Main Road\nChaguaramas"
+        }
+      ]
+    },
+    {
+      "name": "Den's Auto Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "657-3930"
+          ],
+          "address": "2 George Street\na Romain"
+        }
+      ]
+    },
+    {
+      "name": "Econo-Car Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "622-8072",
+            "622-8074",
+            "622-8078"
+          ],
+          "address": "191 Western Main Road\nCocorite"
+        }
+      ],
+      "email": [
+        "econocar@trinidad.net"
+      ],
+      "extra_info": "email: Econo Car Rentals"
+    },
+    {
+      "name": "Europcar Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "621-2159"
+          ],
+          "address": "Hilton Trinidad & Conference Centre\nLady Young Road\nPort of Spain\nTel/Fax: 621-2159"
+        }
+      ],
+      "email": [
+        "reservations@europcar.co.tt"
+      ],
+      "extra_info": "email: Europcars"
+    },
+    {
+      "name": "Exclusive Car Rental",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "634-2915"
+          ],
+          "address": "Skinners Yard\nWestern Main Road\nChaguaramas\n24 hour Hotline #1: 632-7812\n24 hour Hotline #2: 678-9938"
+        }
+      ],
+      "email": [
+        "xcarentals@tstt.net.tt",
+        "xcarentals@yahoo.com"
+      ],
+      "extra_info": "email #1: Exclusive Car Rental\nemail #2: Exclusive Car Rental"
+    },
+    {
+      "name": "Kalloo's Car Rentals, Lord",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "669-5673"
+          ],
+          "address": "Piarco International Airpot\nPiarco"
+        }
+      ],
+      "email": [
+        "kalloos@tstt.net.tt"
+      ],
+      "extra_info": "email: Kalloo Car Rentals"
+    },
+    {
+      "name": "Manta Auto Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "639-9969"
+          ],
+          "address": "Pigeon Point\nTobago"
+        }
+      ]
+    },
+    {
+      "name": "Pillai's Value Rent-A-Car",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "622-6596"
+          ],
+          "address": "corner. Bournes Road & Angelina Street\nSt. James"
+        }
+      ]
+    },
+    {
+      "name": "Public Transport Service Corp",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "624-9839"
+          ],
+          "address": "South Quay\nPort of Spain"
+        }
+      ]
+    },
+    {
+      "name": "Singh's Auto Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "623-0150"
+          ],
+          "address": "7-9 Wrightson Road\nPort of Spain"
+        }
+      ]
+    },
+    {
+      "name": "Southern Sales Car Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "653-2424"
+          ],
+          "address": "Cross Crossing\nSan Fernando"
+        }
+      ]
+    },
+    {
+      "name": "Thrifty Car Rentals",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "639-8507"
+          ],
+          "address": "Turtle Beach Hotel\nTobago"
+        }
+      ],
+      "email": [
+        "abiraj@tstt.net.tt",
+        "eontab@tstt.net.tt"
+      ],
+      "extra_info": "email #1 Trinidad Office\nemail #2 Tobago Office"
+    },
+    {
+      "name": "Tobago Travel Ltd.",
+      "type": "car_rental",
+      "locations": [
+        {
+          "phone": [
+            "639-8778"
+          ],
+          "address": "Store Bay Road\nTobago"
+        }
+      ]
+    },
+    {
+      "name": "United Auto Rental",
+      "type": "car_rental",
+      "locations": [
+        {
+          "address": "Southern Main Road\nCouva\nTel:"
+        }
+      ]
+    }
+  ]
+}

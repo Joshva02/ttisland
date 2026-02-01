@@ -1,0 +1,404 @@
+{
+  "source": "http://tntisland.com/beaches.html",
+  "page_title": "Trinidad & Tobago Beaches",
+  "category": "attractions",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Canoe Bay Resort",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "- Located at Canoe Bay."
+    },
+    {
+      "name": "Castara Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located along North Side Road. 2400m / 1.5mi of beach."
+    },
+    {
+      "name": "Englishman's Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located along North Side Road past Castara Bay. 800m / 1/2mi. of beach"
+    },
+    {
+      "name": "King's Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located along the Windward Road. 800m / 1/2mi. of beach"
+    },
+    {
+      "name": "Man 'O War Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "On the Windward Road. 1600m / 1mi of beach"
+    },
+    {
+      "name": "Mount Irvine",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "This beach with about 800m / 1/2mi of sand. It is close to one of Tobago's largest hotels, the Mt. Irvine Bay Hotel, which has one of the best golf courses in the Caribbean."
+    },
+    {
+      "name": "Pigeon Point",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located on the leeward side of Tobago with over 1600m / 1mi of white sand."
+    },
+    {
+      "name": "Speyside Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Follow the Windward Road past King's Bay and you will experience a most picturesque view of the coastline. The magnificent Speyside Bay Reef where the Brain Coral is among the largest in the world."
+    },
+    {
+      "name": "Store Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "This Tobago beach which is over 200m / 656ft long lies on the doorstep of a Store Bay hotel."
+    },
+    {
+      "name": "Turtle Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located at the Great Courland Bay."
+    },
+    {
+      "name": "Bombshell Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Eastern end of Gasparee Island. 40m / 131ft of beach"
+    },
+    {
+      "name": "Chacachacare",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "A 20-minute boat ride from the mainland, this 900-acre island has eight beaches and a saltwater pond."
+    },
+    {
+      "name": "Chagacabana",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Chaguaramas. Located on the Western Main Road. 125m / 410ft of beach."
+    },
+    {
+      "name": "Chagville Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Chagville is located at Carenage Bay, opposite the Convention Centre in Chaguaramas. It is a man made beach, sandy and about 600m / 1/4mi long."
+    },
+    {
+      "name": "Macqueripe",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located on the Tucker Valley Road. 117m / 384ft of beach."
+    },
+    {
+      "name": "Paragrant Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located in Northern Trinidad (Maraval Port of Spain) with views of Saut D�eau Island, the Caribbean Sea and Moka Golf Course."
+    },
+    {
+      "name": "Scotland Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Only accessible by boat, but ideal for swimming."
+    },
+    {
+      "name": "Williams Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Eastern end of Carenage Bay. 1100m / 3/4mi of beach."
+    },
+    {
+      "name": "Blanchisseuse",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "In recent years, the once-secluded Blanchisseuse area has become a popular weekend getaway, with holiday homes and guesthouses springing up in increasing numbers. Small bays and beaches nestle at the\nfoot of lush rain forest, including the weekend favourite L'Anse Mitan opposite a small resort offering lunches and shark-and-bake. Marianne Bay,where the road ends, is the largest and most popular beach, with a freshwater lagoon at its eastern end."
+    },
+    {
+      "name": "Las Cuevas",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Approximately 8 km / 5 mi east of Tyrico is another popular beach at Las Cuevas Bay. The name \"Las Cuevas\" is derived from the Spanish word for caves and there are many caves on this beach. This bay is more sheltered than Maracas and is therefore calmer. The water is clear and provides excellent swimming with waves reaching to 0.82m / 3ft"
+    },
+    {
+      "name": "Maracas Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Maracas Beach is the most popular beach in the North. It can be accessed by the Saddle Road through Maraval or by the Saddle Road from San Juan through Santa Cruz, and again onto the North Coast Road. The beach is about 1850m / 1 1/4mi long and has off white sand. Waves are an average height of 1.0m / 3ft and are ideal for surfing."
+    },
+    {
+      "name": "Paria Beach and Waterfall",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "A popular hiking route. The trail to this deserted beach and refreshing waterfall begins where the North Coast road ends, at the suspension bridge across the Marianne River. The trek can take two to three hours each way."
+    },
+    {
+      "name": "Tyrico",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Just east of Maracas Bay is Tyrico Bay with a beach about 900m / 1/2mi long and fine grayish brown sand. Like Maracas it offers good sea and sun bathing with waves reaching to 0.80m / 3ft."
+    },
+    {
+      "name": "Balandra",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "A narrow stretch of land shelters Balandra Bay, making it good for swimming. Good body-surfing as well, at the rougher end of the bay."
+    },
+    {
+      "name": "Grande Rivi�re",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "The river meets the sea here, so you can combine sea bathing and river swimming. During nesting months (March to August), leatherback turtles come ashore to lay their eggs. The village is one of Trinidad's most visitor-friendly communities, with a number of hotels, guest houses and cottages for rent. Local tour guides are available for rain forest hikes."
+    },
+    {
+      "name": "Manzanilla",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Manzanilla Bay located on the East Coast along the East Coast Road, can be reached via Sangre Gande and the Manzanilla-Mayaro Road. A long beach of about 4000m / 2.5mi with brownish grey fine sand, it is ideal for sunbathing."
+    },
+    {
+      "name": "Matura",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "This protected beach is a major leatherback turtle nesting site."
+    },
+    {
+      "name": "Mayaro",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Located on the East Coast, Mayaro Bay has the longest beach in Trinidad. It can be accessed by the Mayaro-Guayaguayare Road."
+    },
+    {
+      "name": "Saline Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "A favourite resting point for those driving up to Toco - though it's also a good final destination if you're looking for a picnicking spot and a refreshing dip in the sea."
+    },
+    {
+      "name": "Salybia Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Long, scenic bay. Often windswept with surging breakers."
+    },
+    {
+      "name": "Sans Souci Bay",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "A slightly sloping bay with often-choppy waves. Popular with surfers in the winter."
+    },
+    {
+      "name": "Cedros",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Near the tip of the south-western peninsula, one of the furthest points on the island from Port of Spain, Cedros has Trinidad's widest beach at low tide. Among the best vantage points for sighting the Venezuelan mainland."
+    },
+    {
+      "name": "Guapo Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "Access cia clifton Hill Road, Point Fortin."
+    },
+    {
+      "name": "Granville",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "South Western peninsula. Access through the Granville Road. 900m / 1/2mi of beach."
+    },
+    {
+      "name": "Quinam Beach",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "South Coast. Access by the Coora Road and the Penal-Quinam Road. 1600m / 1mi of beach."
+    },
+    {
+      "name": "Vessigny",
+      "type": "beach",
+      "island": "Tobago",
+      "description": "The beach lies west of Vessigny Village about 3 km / 2 mi south of La Brea and the Pitch Lake. The water is generally very calm and is cleaner during the dry season."
+    },
+    {
+      "name": "Bombshell Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Eastern end of Gasparee Island. 40m / 131ft of beach"
+    },
+    {
+      "name": "Chacachacare",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "A 20-minute boat ride from the mainland, this 900-acre island has eight beaches and a saltwater pond."
+    },
+    {
+      "name": "Chagacabana",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Chaguaramas. Located on the Western Main Road. 125m / 410ft of beach."
+    },
+    {
+      "name": "Chagville Beach",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Chagville is located at Carenage Bay, opposite the Convention Centre in Chaguaramas. It is a man made beach, sandy and about 600m / 1/4mi long."
+    },
+    {
+      "name": "Macqueripe",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Located on the Tucker Valley Road. 117m / 384ft of beach."
+    },
+    {
+      "name": "Paragrant Beach",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Located in Northern Trinidad (Maraval Port of Spain) with views of Saut D�eau Island, the Caribbean Sea and Moka Golf Course."
+    },
+    {
+      "name": "Scotland Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Only accessible by boat, but ideal for swimming."
+    },
+    {
+      "name": "Williams Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Eastern end of Carenage Bay. 1100m / 3/4mi of beach."
+    },
+    {
+      "name": "Blanchisseuse",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "In recent years, the once-secluded Blanchisseuse area has become a popular weekend getaway, with holiday homes and guesthouses springing up in increasing numbers. Small bays and beaches nestle at the\nfoot of lush rain forest, including the weekend favourite L'Anse Mitan opposite a small resort offering lunches and shark-and-bake. Marianne Bay,where the road ends, is the largest and most popular beach, with a freshwater lagoon at its eastern end."
+    },
+    {
+      "name": "Las Cuevas",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Approximately 8 km / 5 mi east of Tyrico is another popular beach at Las Cuevas Bay. The name \"Las Cuevas\" is derived from the Spanish word for caves and there are many caves on this beach. This bay is more sheltered than Maracas and is therefore calmer. The water is clear and provides excellent swimming with waves reaching to 0.82m / 3ft"
+    },
+    {
+      "name": "Maracas Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Maracas Beach is the most popular beach in the North. It can be accessed by the Saddle Road through Maraval or by the Saddle Road from San Juan through Santa Cruz, and again onto the North Coast Road. The beach is about 1850m / 1 1/4mi long and has off white sand. Waves are an average height of 1.0m / 3ft and are ideal for surfing."
+    },
+    {
+      "name": "Paria Beach and Waterfall",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "A popular hiking route. The trail to this deserted beach and refreshing waterfall begins where the North Coast road ends, at the suspension bridge across the Marianne River. The trek can take two to three hours each way."
+    },
+    {
+      "name": "Tyrico",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Just east of Maracas Bay is Tyrico Bay with a beach about 900m / 1/2mi long and fine grayish brown sand. Like Maracas it offers good sea and sun bathing with waves reaching to 0.80m / 3ft."
+    },
+    {
+      "name": "Balandra",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "A narrow stretch of land shelters Balandra Bay, making it good for swimming. Good body-surfing as well, at the rougher end of the bay."
+    },
+    {
+      "name": "Grande Rivi�re",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "The river meets the sea here, so you can combine sea bathing and river swimming. During nesting months (March to August), leatherback turtles come ashore to lay their eggs. The village is one of Trinidad's most visitor-friendly communities, with a number of hotels, guest houses and cottages for rent. Local tour guides are available for rain forest hikes."
+    },
+    {
+      "name": "Manzanilla",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Manzanilla Bay located on the East Coast along the East Coast Road, can be reached via Sangre Gande and the Manzanilla-Mayaro Road. A long beach of about 4000m / 2.5mi with brownish grey fine sand, it is ideal for sunbathing."
+    },
+    {
+      "name": "Matura",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "This protected beach is a major leatherback turtle nesting site."
+    },
+    {
+      "name": "Mayaro",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Located on the East Coast, Mayaro Bay has the longest beach in Trinidad. It can be accessed by the Mayaro-Guayaguayare Road."
+    },
+    {
+      "name": "Saline Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "A favourite resting point for those driving up to Toco - though it's also a good final destination if you're looking for a picnicking spot and a refreshing dip in the sea."
+    },
+    {
+      "name": "Salybia Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Long, scenic bay. Often windswept with surging breakers."
+    },
+    {
+      "name": "Sans Souci Bay",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "A slightly sloping bay with often-choppy waves. Popular with surfers in the winter."
+    },
+    {
+      "name": "Cedros",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Near the tip of the south-western peninsula, one of the furthest points on the island from Port of Spain, Cedros has Trinidad's widest beach at low tide. Among the best vantage points for sighting the Venezuelan mainland."
+    },
+    {
+      "name": "Guapo Beach",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "Access cia clifton Hill Road, Point Fortin."
+    },
+    {
+      "name": "Granville",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "South Western peninsula. Access through the Granville Road. 900m / 1/2mi of beach."
+    },
+    {
+      "name": "Quinam Beach",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "South Coast. Access by the Coora Road and the Penal-Quinam Road. 1600m / 1mi of beach."
+    },
+    {
+      "name": "Vessigny",
+      "type": "beach",
+      "island": "Trinidad",
+      "description": "The beach lies west of Vessigny Village about 3 km / 2 mi south of La Brea and the Pitch Lake. The water is generally very calm and is cleaner during the dry season."
+    },
+    {
+      "name": "North-West Peninsula",
+      "type": "beach_region",
+      "island": "Trinidad",
+      "description": "Within easy reach of the capital, this well-developed area of coastline offers a variety of activities from offshore island exploration to watersports."
+    },
+    {
+      "name": "North Coast",
+      "type": "beach_region",
+      "island": "Trinidad",
+      "description": "- enjoy a drive through the Northen Range and maracas Valley to these northern beaches."
+    },
+    {
+      "name": "North-East Coast",
+      "type": "beach_region",
+      "island": "Trinidad",
+      "description": "- From November to April ocean swells approaching from the north-east produce good surf breaks. From May to September the waters are calm and idyllic, great for swimming. Still relatively rural, this area has some of Trinidad's most picturesque villages and seaside spots. The coast from Saline Bay to Toco is frequently rocky; from Toco to Grande Rivi�re is more easily accessible."
+    },
+    {
+      "name": "South-West Coast",
+      "type": "beach_region",
+      "island": "Trinidad",
+      "description": "- Some excellent beaches here for relaxation after a visit to the Pitch Lake and La Brea. Sediment from the Orinoco River means waters can sometimes appear muddy, discouraging bathing."
+    }
+  ]
+}

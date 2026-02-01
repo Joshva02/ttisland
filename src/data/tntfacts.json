@@ -1,0 +1,29 @@
+{
+  "source": "http://tntisland.com/tntfacts.html",
+  "page_title": "Trinidad & Tobago Quick Facts Sheet",
+  "category": "island_info",
+  "scraped_at": "2026-02-01",
+  "data": {
+    "page_title": "Trinidad & Tobago Quick Facts",
+    "type": "facts",
+    "trinidad": {
+      "Official Name": "Republic of Tobago",
+      "Capital": "Scarborough",
+      "Nationality": "Citizen of Tobago, Tobagonian(s)",
+      "Official Language": "English",
+      "Total Population": "64,000",
+      "Location": "Latitude 11�N, Longitude 60�W",
+      "Physical Area": "Measures 26 miles (42 km) by 7miles (10 km)",
+      "Total Area": "116m2 (300km2)",
+      "Highest Point": "Central Spine of Hills 549m (1,860 feet)",
+      "Currency": "Trinidad and Tobago dollar (TT$)",
+      "Time Zone": "EST +1; GMT -4",
+      "Ethnic Divisions": "The people are comprised of about forty percent African, forty percent East Indian, and the remainder being of European, Chinese, or mixed descent.",
+      "Climate": "The average temperature is about 30�C (89�F).",
+      "Trinidad": "is separated from Tobago by the Caribbean Sea which is twenty-one (21) miles (33km).",
+      "Tobago": "Everyone takes a boat from Buccoo to the Nylon Pool, so named after Princess Margaret, who, on her honeymoon, announced the color was so crazy-blue it looked like nylon (okay, so she wasn't the world's greatest romantic)."
+    },
+    "tobago": {},
+    "other_facts": []
+  }
+}

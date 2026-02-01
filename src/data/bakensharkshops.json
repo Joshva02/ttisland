@@ -1,0 +1,200 @@
+{
+  "source": "http://tntisland.com/bakensharkshops.html",
+  "page_title": "Trinidad & Tobago Bake & Shark Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Abbi's",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "358-2938"
+      ],
+      "address": "North Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "Annette's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "351-0254"
+      ],
+      "address": "North Coast Road\nMaracas Bay\nMaracas"
+    },
+    {
+      "name": "Asha's Bake �N� Shark",
+      "type": "bake_and_shark_shop",
+      "email": [
+        "ashasbakenshark1@hotmail.com"
+      ],
+      "extra_info": "email: ashasbakenshark1@hotmail.com",
+      "phone": [
+        "472-6156"
+      ],
+      "address": "North Coast Road"
+    },
+    {
+      "name": "Benny's Bake N' Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "356-9385"
+      ],
+      "address": "Chin Kit Corner\nCap-de-Ville, Point Fortin"
+    },
+    {
+      "name": "Daphne's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "address": "North Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "Havana Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "342-8262"
+      ],
+      "address": "Booth 28 Maracas Bay Beach Facility\nNorth Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "J-De's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "747-5142"
+      ],
+      "address": "Lp #11 Quare Road\nValencia"
+    },
+    {
+      "name": "Maracas in Central at Huddle Room",
+      "type": "bake_and_shark_shop",
+      "extra_info": "12-13 Endeavour Road\nChaguanas\nTel: 229-3556\nCrusoe�s Village\nCrown Point, Tobago\nClifton Hill Beach Resort\nPoint Fortin\nMichael's and Family Bake & Shark",
+      "phone": [
+        "736-5779"
+      ],
+      "address": "Inside CAPS Bar\nEastern Main Road\nTunapuna"
+    },
+    {
+      "name": "Mom's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "742-9981"
+      ],
+      "address": "Maracas Beach\nMaracas Bay Village"
+    },
+    {
+      "name": "Natalie's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "address": "North Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "Nick's Bakes",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "223-7404"
+      ],
+      "address": "South Haven Shopping Centre\nDebe"
+    },
+    {
+      "name": "Patsy's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "669-4946",
+        "361-7923"
+      ],
+      "address": "Maracas Bay Car Park\nMaracas Bay Village"
+    },
+    {
+      "name": "Richard's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "328-1676"
+      ],
+      "address": "Maracas Beach\nMaracas Bay Village"
+    },
+    {
+      "name": "Sally's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "394-8502"
+      ],
+      "address": "Debe"
+    },
+    {
+      "name": "Shark and Bake Shack",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "799-8065"
+      ],
+      "address": "Arima Savannah\nArima"
+    },
+    {
+      "name": "Sharky's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "766-6739"
+      ],
+      "address": "corner Southern Main Road and Clifford Street (side of Spanky's Bar)\nCurepe Village"
+    },
+    {
+      "name": "Tanty Rita",
+      "type": "bake_and_shark_shop",
+      "address": "Maracas Beach\nMaracas Bay Village"
+    },
+    {
+      "name": "TIPS on the Beach",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "353-5031"
+      ],
+      "address": "North Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "Traditions Bar and Grill",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "767-5669"
+      ],
+      "address": "Pigeon Point Heritage Park\nPigeon Point Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Uncle Sam & Sons - Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "287-1726"
+      ],
+      "address": "North Coast Road\nMaracas Bay Village"
+    },
+    {
+      "name": "Vilma's Bake & Shark",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "295-7784"
+      ],
+      "address": "Maracas Bay\nMaracas Bay Village"
+    },
+    {
+      "name": "Wee Ting Shark n Bake",
+      "type": "bake_and_shark_shop",
+      "phone": [
+        "289-6467",
+        "289-6423",
+        "281-6023 ("
+      ],
+      "address": "Arima\nwhatsapp)"
+    },
+    {
+      "name": "Maracas Bake and Shark",
+      "type": "bake_and_shark_shop",
+      "locations": [
+        {
+          "phone": [
+            "488-2259",
+            "75-"
+          ],
+          "address": "79 Roberts Street\nWoodbrook\nBake\nShark/757-4275"
+        }
+      ],
+      "email": [
+        "tastemaracas@gmail.com"
+      ],
+      "extra_info": "email: tastemaracas@gmail.com"
+    }
+  ]
+}

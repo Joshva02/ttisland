@@ -1,0 +1,475 @@
+{
+  "source": "http://tntisland.com/icecreamshops.html",
+  "page_title": "Trinidad & Tobago Ice Cream Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "D Pink Ice Cream Parlour",
+      "type": "ice_cream_shop",
+      "phone": [
+        "764-6016"
+      ],
+      "address": "Castara, Tobago\n764-6016 (Tel)"
+    },
+    {
+      "name": "Delightful Pleasures Ice Cream Shop",
+      "type": "ice_cream_shop",
+      "address": "Store Bay Beach Facility\nUnits 4-5, Block B\nMilford Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Ice Cream Plus",
+      "type": "ice_cream_shop",
+      "address": "Store Bay Connector Road\nBon Accord, Tobago"
+    },
+    {
+      "name": "Kodi`s - Natural Treats/Eats",
+      "type": "ice_cream_shop",
+      "phone": [
+        "639-7855"
+      ],
+      "address": "Milford Road\nCrown Point, Tobago\n639-7855 (Tel)"
+    },
+    {
+      "name": "Tropical Ice Cream Caf�",
+      "type": "ice_cream_shop",
+      "phone": [
+        "468-7534"
+      ],
+      "address": "Black Rock\n468-7534 (Tel)"
+    },
+    {
+      "name": "A&J's Premium Ice Cream & Coffee House",
+      "type": "ice_cream_shop",
+      "phone": [
+        "478-8566",
+        "266-8594",
+        "229-0785"
+      ],
+      "address": "Brentwood Mall\n128 Caroni Savannah Road\nChaguanas\n478-8566 (Tel1)\n266-8594 (Tel2)\n229-0785 (Tel4)"
+    },
+    {
+      "name": "27 Mucurapo Road",
+      "type": "ice_cream_shop",
+      "extra_info": "St. James\n367-9109 (Tel)\nAngie's Ice Cream Stop",
+      "address": "Torrib Tabaquite Road\nBrothers Road"
+    },
+    {
+      "name": "B's Homemade Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "235-4219"
+      ],
+      "address": "Curepe\n235-4219 (Tel)"
+    },
+    {
+      "name": "Pro Queen Street",
+      "type": "ice_cream_shop",
+      "extra_info": "Arima\nB&T Homemade Ice-cream",
+      "phone": [
+        "369-4138"
+      ],
+      "address": "Marjorie Padmore Avenue\nLa Horquetta, Arima\n369-4138 (Tel)"
+    },
+    {
+      "name": "B&M Home Made Ice Delights",
+      "type": "ice_cream_shop",
+      "phone": [
+        "628-6626"
+      ],
+      "address": "70 Panka Street\nPort of Spain\n628-6626 (Tel)"
+    },
+    {
+      "name": "Caf� Buena Vista",
+      "type": "ice_cream_shop",
+      "phone": [
+        "776-8175"
+      ],
+      "address": "6 Lynch Plaza\nAbercromby and Buena Vista Streets\nSt Joseph\n776-8175 (Tel)"
+    },
+    {
+      "name": "Carmino's Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "296-7307"
+      ],
+      "address": "127 Park Avenue\nMount Hope, San Juan\n296-7307 (Tel)"
+    },
+    {
+      "name": "East Gates Mall",
+      "type": "ice_cream_shop",
+      "extra_info": "Trincity Central Road North\nTrincity\nCreamery Novelties Ltd.",
+      "phone": [
+        "633-5453"
+      ],
+      "address": "Lot 6, Diamond Vale Industrial Estate\nDiego Martin\n633-5453 (Tel)"
+    },
+    {
+      "name": "DaDe Ice-Cream Haven",
+      "type": "ice_cream_shop",
+      "phone": [
+        "709-4143"
+      ],
+      "address": "6 Erthig Road\nPort of Spain\n709-4143 (Tel)"
+    },
+    {
+      "name": "C3 Centre Corinth",
+      "type": "ice_cream_shop",
+      "extra_info": "San Fernando\n868-653-7331 (Tel)\nTrincity Boulevard\nTrincity\n640-9585 (Tel)\nLong Circular Mall\nPatna Street\nPort of Spain\n628-7018 (Tel)\nPrice Plaza\nEndeavour Road\nEndeavour, Chaguanas\n671-3845 (Tel)\ncorner Freeling Street and Eastern Main Road\nTunapuna\n663-9719 (Tel)\nPrinces Town Mall\nPrinces Town\n655-0349 (Tel)\nDowdy's Homemade Ice Cream",
+      "phone": [
+        "393-3307"
+      ],
+      "address": "opposite Police Station Morvant\nMorvant\n393-3307 (Tel)"
+    },
+    {
+      "name": "DJ's Ice Cream Shop",
+      "type": "ice_cream_shop",
+      "address": "Port of Spain"
+    },
+    {
+      "name": "Dr. Ice Cream Desserts",
+      "type": "ice_cream_shop",
+      "address": "Whiteland Road\nGasparillo"
+    },
+    {
+      "name": "Flavorite Foods Ltd.",
+      "type": "ice_cream_shop",
+      "phone": [
+        "638-2236"
+      ],
+      "address": "45 Boundary Road\nSan Juan\n638-2236 (Tel)"
+    },
+    {
+      "name": "Gabby�s Ice Cream Shop",
+      "type": "ice_cream_shop",
+      "phone": [
+        "388-8294"
+      ],
+      "address": "lP #566, Eastern Main Road\nD'Abadie\n388-8294 (Tel)"
+    },
+    {
+      "name": "Gails Ice Cream",
+      "type": "ice_cream_shop",
+      "address": "Toco Main Road\nMatura"
+    },
+    {
+      "name": "Hunter's Ice Cream",
+      "type": "ice_cream_shop",
+      "address": "81A Ariapita Avenue\nPort of Spain"
+    },
+    {
+      "name": "Ice Cream Chef Ltd.",
+      "type": "ice_cream_shop",
+      "phone": [
+        "397-5468"
+      ],
+      "address": "Knutt Pond Trace, Sixth Company, Circular Road\nNew Grant\n397-5468 (Tel)"
+    },
+    {
+      "name": "Ice Cream Time",
+      "type": "ice_cream_shop",
+      "phone": [
+        "221-5587"
+      ],
+      "address": "37C Pro Queen Street\nArima\n221-5587 (Tel)"
+    },
+    {
+      "name": "In2DD Ice Cream Shop",
+      "type": "ice_cream_shop",
+      "phone": [
+        "360-0368"
+      ],
+      "address": "Tableland Secondary School\nTableland\n360-0368 (Tel)"
+    },
+    {
+      "name": "Indulgence Cafe",
+      "type": "ice_cream_shop",
+      "phone": [
+        "297-0211"
+      ],
+      "address": "#1 Esmeralda Road, Southern Main Road\nCunupia\n297-0211 (Tel)"
+    },
+    {
+      "name": "corner #2 Queens Park West and 71 Dundonald Street",
+      "type": "ice_cream_shop",
+      "extra_info": "Port of Spain\n627-5892 (Tel)\nThe Falls at Westmall\nThe Falls #190, Ground Floor\nWestmoorings, Port of Spain\n632-4160 (Tel)\nD10 & D11 Price Plaza North\nNarsaloo Ramaya Marg Road\nChaguanas\n672-7178 (Tel)\nJ'n'J Homemade Ice Cream",
+      "address": "Montrose"
+    },
+    {
+      "name": "Jamrock Cafe",
+      "type": "ice_cream_shop",
+      "address": "Sangre Grande"
+    },
+    {
+      "name": "Joe's Pastry Shop and Ice Cream Parlour",
+      "type": "ice_cream_shop",
+      "phone": [
+        "667-2368"
+      ],
+      "address": "9A Pro Queen Street\nArima\n667-2368 (Tel)"
+    },
+    {
+      "name": "K's Creamery and Sweet Shop",
+      "type": "ice_cream_shop",
+      "phone": [
+        "336-2017"
+      ],
+      "address": "134 Southern Main Road\nEdinburgh Village\nChaguanas\n336-2017 (Tel)"
+    },
+    {
+      "name": "Kyky's Ice Cream Rolls",
+      "type": "ice_cream_shop",
+      "phone": [
+        "755-7291"
+      ],
+      "address": "93 Siparia Erin Road Esperance Phillipine\nSan Fernando\n755-7291 (Tel)"
+    },
+    {
+      "name": "M Ice Cream and Auto Supplies",
+      "type": "ice_cream_shop",
+      "phone": [
+        "731-7008"
+      ],
+      "address": "#280 Cunjal Road\nBarrackpore\n731-7008 (Tel)"
+    },
+    {
+      "name": "Mama's Homemade Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "625-1622",
+        "623-9613"
+      ],
+      "address": "12-14 Nelson Street\nPort of Spain\n625-1622 (Tel1) 623-9613\n(Tel2)"
+    },
+    {
+      "name": "Mamo Ice",
+      "type": "ice_cream_shop",
+      "phone": [
+        "328-1668"
+      ],
+      "address": "36 Rosalino Street\nPort of Spain\n328-1668 (Tel)"
+    },
+    {
+      "name": "Mousie's Ice Cream Parlour",
+      "type": "ice_cream_shop",
+      "phone": [
+        "675-7628"
+      ],
+      "address": "inside UWI Campus\nSt. Augustine\n-675-7628 (Tel)"
+    },
+    {
+      "name": "Claxton Bay",
+      "type": "ice_cream_shop",
+      "extra_info": "Corinth Road\nSan Fernando\nPort of Spain\nNelle's Ice-Cream Fundae and Caf�",
+      "phone": [
+        "795-3378"
+      ],
+      "address": "Mafeking\n795-3378 (Tel)"
+    },
+    {
+      "name": "Old Man's Ice-Cream & Delights",
+      "type": "ice_cream_shop",
+      "phone": [
+        "708-0091"
+      ],
+      "address": "103 Couva Main Road\nCouva\n708-0091 (Tel)"
+    },
+    {
+      "name": "Real Top Quality Home Made Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "340-0047"
+      ],
+      "address": "Eastern Main Road\nSan Juan\n340-0047 (Tel)"
+    },
+    {
+      "name": "RNR Ice Cream Shop",
+      "type": "ice_cream_shop",
+      "phone": [
+        "740-8919"
+      ],
+      "address": "Lisas Blvd\nCouva\n740-8919 (Tel)"
+    },
+    {
+      "name": "Roll 'Em Up Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "347-7655"
+      ],
+      "address": "Mucurapo Road\nPort of Spain\n347-7655 (Tel)"
+    },
+    {
+      "name": "S&K's Ice-Cream",
+      "type": "ice_cream_shop",
+      "address": "The Track\nPort of Spain"
+    },
+    {
+      "name": "Sarah Ice Cream Shoppe",
+      "type": "ice_cream_shop",
+      "address": "Chaguanas"
+    },
+    {
+      "name": "Scoop's & Brew Local Creamery, Pastry & Coffee Shop",
+      "type": "ice_cream_shop",
+      "phone": [
+        "729-6580"
+      ],
+      "address": "#16 Caroni Savannah Road\nCharlieville\n729-6580 (Tel)"
+    },
+    {
+      "name": "Soody�s Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "307-7312"
+      ],
+      "address": "50 Caroni Savannah Road\nChaguanas\n307-7312 (Tel)"
+    },
+    {
+      "name": "Squebee's Original Home-made Ice-cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "781-6965"
+      ],
+      "address": "corner Oropouche Road and Fyzabad Junction Fyzabad\n781-6965 (Tel)"
+    },
+    {
+      "name": "Sweet Sherry Cherry Ice Cream Shop & Dessert Cafe",
+      "type": "ice_cream_shop",
+      "phone": [
+        "219-6308"
+      ],
+      "address": "#59-61 Montrose Main Road\nChaguanas\n219-6308 (Tel)"
+    },
+    {
+      "name": "Sweet Tooth",
+      "type": "ice_cream_shop",
+      "phone": [
+        "385-6321"
+      ],
+      "address": "85 Southern Main Road\nFreeport\n385-6321 (Tel)"
+    },
+    {
+      "name": "Saddle Road",
+      "type": "ice_cream_shop",
+      "extra_info": "Port of Spain\n223-8664 (Tel)\nGasparillo\n126 S.S. Erin Road\nDebe\nThe Ice Cream Factory Store (Trini Snacks)",
+      "phone": [
+        "774-1764"
+      ],
+      "address": "corner Beckles Street & Caroni Savannah Road\nChaguanas\n774-1764 (Tel)"
+    },
+    {
+      "name": "The Ice Cream Factory Store( Trini Snacks)",
+      "type": "ice_cream_shop",
+      "address": "Chaguanas"
+    },
+    {
+      "name": "Timmy Thalie Ice Cream House",
+      "type": "ice_cream_shop",
+      "phone": [
+        "353-8990"
+      ],
+      "address": "Buena Vista\nArima\n353-8990 (Tel)"
+    },
+    {
+      "name": "Tortor's Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "738-5008"
+      ],
+      "address": "1st Street East, off Recreation Road, Arima Old Road\nArima\n738-5008 (Tel)"
+    },
+    {
+      "name": "Willie�s Ice Cream",
+      "type": "ice_cream_shop",
+      "phone": [
+        "657-9251"
+      ],
+      "address": "Gulf City Mall\nGulf View Link Road\nSan Fernando\n657-9251 (Tel)"
+    },
+    {
+      "name": "Alex Creamery",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "288-1905"
+          ],
+          "address": "155 Southern Main Road\n288-1905 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "B's Ice Cream",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "address": "Dinsley Junction\nDinsley"
+        }
+      ]
+    },
+    {
+      "name": "Certified Scoop Ltd.",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "313-6336"
+          ],
+          "address": "South Park Mall\nTarouba Link Road\nSan Fernando\n313-6336 (Tel)"
+        }
+      ],
+      "email": [
+        "certifiedscoop.tt@gmail.com"
+      ],
+      "extra_info": "email: Certified Scoop Ltd."
+    },
+    {
+      "name": "Dairy Queen",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "663-5603"
+          ],
+          "address": "The City of Grand Bazaar\nE Access Road\nValsayn\n663-5603 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "H�agen-Dazs",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "640-0603"
+          ],
+          "address": "Trincity Central Road, Churchill Roosevelt Hwy\nTrincity\n640-0603 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Munch Kings Ice Cream",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "637-9957"
+          ],
+          "address": "Phillipine, San Fernando\n637-9957 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "The Dreamy Creamy Ice Cream Company",
+      "type": "ice_cream_shop",
+      "locations": [
+        {
+          "phone": [
+            "324-4927"
+          ],
+          "address": "143A Coffee Street\nSan Fernando\n324-4927 (Tel)"
+        }
+      ]
+    }
+  ]
+}

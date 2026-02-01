@@ -1,0 +1,105 @@
+{
+  "source": "http://tntisland.com/pastryshops.html",
+  "page_title": "Trinidad & Tobago Pastry Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Annie's Dessert Parlour",
+      "type": "pastry_shop",
+      "phone": [
+        "392-1886"
+      ],
+      "address": "Milford Road\nScarborough\n392-1886"
+    },
+    {
+      "name": "Breadology",
+      "type": "pastry_shop",
+      "address": "South Park C3 Centre\nTarouba, San Fernando"
+    },
+    {
+      "name": "Donut Masters",
+      "type": "pastry_shop",
+      "phone": [
+        "663-7795"
+      ],
+      "address": "16 Eastern Main Road\nTunapuna\n663-7795 (Tel)"
+    },
+    {
+      "name": "Jacqueline's Patisserie Ltd.",
+      "type": "pastry_shop",
+      "phone": [
+        "622-2657"
+      ],
+      "address": "48 Ariapita Avenue\nWoodbrook\n622-2657 (Tel)"
+    },
+    {
+      "name": "Jardin Des Tuileries",
+      "type": "pastry_shop",
+      "phone": [
+        "632-0265"
+      ],
+      "address": "Westmall\nWestmoorings\n632-0265 (Tel)"
+    },
+    {
+      "name": "Mobile Cakes",
+      "type": "pastry_shop",
+      "phone": [
+        "301-6388",
+        "680-4061"
+      ],
+      "address": "First Street\nBarataria\n301-6388 (Tel1)\n680-4061 (Tel2)"
+    },
+    {
+      "name": "Nichossa Restaurant, Bakery & Desserts",
+      "type": "pastry_shop",
+      "phone": [
+        "652-8912",
+        "299-2061"
+      ],
+      "address": "Rainbow Plaza\nGulf View Link Road\nGulf View, La Romain\n652-8912 (Tel1)\n299-2061 (Tel2)"
+    },
+    {
+      "name": "Pascal's Bakery",
+      "type": "pastry_shop",
+      "phone": [
+        "624-1357"
+      ],
+      "address": "19 Eastern Main Road\nLaventille\n624-1357 (Tel)"
+    },
+    {
+      "name": "40 Circular Road",
+      "type": "pastry_shop",
+      "extra_info": "San Fernando\n657-5920 (Tel)\nRolls 44",
+      "phone": [
+        "625-6327"
+      ],
+      "address": "Edward Street\nPort of Spain\n625-6327 (Tel)"
+    },
+    {
+      "name": "Tom Tom�s Local Confectioneries",
+      "type": "pastry_shop",
+      "email": [
+        "tomtomslocalsweets@gmail.com",
+        "Tomtomslocalsweets@gmail.com"
+      ],
+      "extra_info": "email: Tomtomslocalsweets@gmail.com",
+      "phone": [
+        "766-5464"
+      ],
+      "address": "Signal Hill, Tobago\n766-5464 (Tel)"
+    },
+    {
+      "name": "Puff 'N' Stuff",
+      "type": "pastry_shop",
+      "locations": [
+        {
+          "phone": [
+            "622-7833"
+          ],
+          "address": "161 Western Main Road\nSt. James\n622-7833 (Tel)"
+        }
+      ]
+    }
+  ]
+}

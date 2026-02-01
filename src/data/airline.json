@@ -1,0 +1,58 @@
+{
+  "source": "http://tntisland.com/airline.html",
+  "page_title": "Welcome to Trinidad & Tobago Airlines",
+  "category": "transportation",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "<img src=\"images/condor.gif\" alt=\"Condor Airlines Logo\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "phone": [
+        "960-7915",
+        "639-0484",
+        "639-9744"
+      ],
+      "address": "Condor Airlines\nInternational#1: 866-960-7915\nInternational#2: 49(0)6171-6988978 \nA.N.R Robinson Airport#1: 639-0484\nA.N.R Robinson Airport#2: 639-9744"
+    },
+    {
+      "name": "<img src=\"images/copa-airlines.jpg\" alt=\"COPA Airlines\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "address": "COPA Airlines\nInternational: 800-271-COPA (2672))"
+    },
+    {
+      "name": "<img src=\"images/jetblue.jpg\" alt=\"JetBlue Airline Logo\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "phone": [
+        "538-2583"
+      ],
+      "address": "JetBlue Airline\nInternational: 800-538-2583"
+    },
+    {
+      "name": "<img src=\"images/liat20logo.jpg\" alt=\"Liat20 Airline\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "phone": [
+        "480-5601",
+        "480-5602"
+      ],
+      "address": "Liat20 Airline\nInternational#1: 268-480-5601\nInternational#2: 268-480-5602"
+    },
+    {
+      "name": "<img src=\"images/suriname.gif\" alt=\"Suriname Airlines Logo\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "phone": [
+        "627-0102",
+        "627-4747"
+      ],
+      "address": "Suriname Airlines\nReservations and Reconfirmation#1: 627-0102\nReservations and Reconfirmation#2: 627-4747\nPiarco: 868-669 4770"
+    },
+    {
+      "name": "<img src=\"http://content.virginatlantic.com/content/dam/virgin-applications/images/icons/VA_logo.png\" alt=\"Virgin Atlantic Airways\" HEIGHT=\"120\" WIDTH=\"220\"",
+      "type": "airline",
+      "phone": [
+        "744-7477",
+        "874-7747"
+      ],
+      "address": "Virgin Atlantic Airways\nInternational#1: 800-744-7477\nInternational#2: +44-(0)344-874-7747"
+    }
+  ]
+}

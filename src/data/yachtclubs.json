@@ -1,0 +1,24 @@
+{
+  "source": "http://tntisland.com/yachtclubs.html",
+  "page_title": "Trinidad & Tobago Yacht Clubs",
+  "category": "sports",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "San Fernando Yacht Club",
+      "type": "yacht_club",
+      "phone": [
+        "652-3937"
+      ],
+      "address": "Hubert Rance\nSan Fernando\n(Tel) 652-3937"
+    },
+    {
+      "name": "Trinidad & Tobago Yachting Association",
+      "type": "yacht_club",
+      "phone": [
+        "634-4376"
+      ],
+      "address": "Sailing Centre\nChaguaramas\n(Tel) 634-4376"
+    }
+  ]
+}

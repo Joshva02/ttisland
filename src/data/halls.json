@@ -1,0 +1,50 @@
+{
+  "source": "http://tntisland.com/halls.html",
+  "page_title": "Trinidad & Tobago Theatres/Halls",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Theatres/Halls",
+      "type": "theatre_hall",
+      "address": "Contact Information"
+    },
+    {
+      "name": "Little Carib Theatre",
+      "type": "theatre_hall",
+      "phone": [
+        "622-4644"
+      ],
+      "address": "SWWTU HALL\nWhite & Robert Street\nPort of Spain, Trinidad\n(Tel) 622-4644"
+    },
+    {
+      "name": "Space Theatre",
+      "type": "theatre_hall",
+      "phone": [
+        "623-0732"
+      ],
+      "address": "Bretton Hall\n16 Victoria Avenue\nPort of Spain, Trinidad\n(Tel) 623-0732"
+    },
+    {
+      "name": "Central Bank Auditorium",
+      "type": "theatre_hall",
+      "phone": [
+        "623-0845"
+      ],
+      "address": "Eric Williams' Plaza\nPort of Spain, Trinidad\n(Tel) 623-0845"
+    },
+    {
+      "name": "Naparima Bowl",
+      "type": "theatre_hall",
+      "address": "19 Paradise Pasture\nSan Fernando, Trinidad\n(Tel) 652-47704"
+    },
+    {
+      "name": "Queen's Hall",
+      "type": "theatre_hall",
+      "phone": [
+        "624-1284"
+      ],
+      "address": "1-3 St. Ann's Road\nPort of Spain, Trinidad\n(Tel) 624-1284"
+    }
+  ]
+}

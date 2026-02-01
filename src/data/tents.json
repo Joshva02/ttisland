@@ -1,0 +1,143 @@
+{
+  "source": "http://tntisland.com/tents.html",
+  "page_title": "Trinidad & Tobago Calypso Tents",
+  "category": "carnival_culture",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Bacchanal Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Delaford Community Centre Grounds\nDelaford, Tobago"
+    },
+    {
+      "name": "Birds Calgpso Tent",
+      "type": "calypso_tent",
+      "address": "Palo Seco Sporting Club\n#107 Beach Road, Palo Seco"
+    },
+    {
+      "name": "Central Rainbow Stars Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Roving Tent"
+    },
+    {
+      "name": "Cultural Ambassador",
+      "type": "calypso_tent",
+      "address": "Eastlime Entertainment Complex\nMain Road, Sangre Grande"
+    },
+    {
+      "name": "D' Entertainers Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Tobago Roving Tent"
+    },
+    {
+      "name": "D' Kaiso Dynasty (formerly Kaiso House)",
+      "type": "calypso_tent",
+      "address": "Queen's Park Savannah, Port of Spain"
+    },
+    {
+      "name": "D' Unique Calypso Theatre",
+      "type": "calypso_tent",
+      "address": "2J�s Pub and Diner\n40 Norfolk Street, Belmont"
+    },
+    {
+      "name": "Divas International Cabaret",
+      "type": "calypso_tent",
+      "address": "De Nu Pub\nAriapita Avenue & French Street, Woodbrook"
+    },
+    {
+      "name": "Icons Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Ambassador Hotel\nLong Circular, St James"
+    },
+    {
+      "name": "Generation Next Kaiso Tent",
+      "type": "calypso_tent",
+      "address": "St James Amphitheatre\nSt James"
+    },
+    {
+      "name": "George Street Roving Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Good Times Recreation Club\nGeorge Street, Port of Spain"
+    },
+    {
+      "name": "Golden Gates Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Roving Tent"
+    },
+    {
+      "name": "Kaiso Karavan",
+      "type": "calypso_tent",
+      "address": "La Joya Auditorium\nSt. Joseph"
+    },
+    {
+      "name": "Kaiso Powerhouse",
+      "type": "calypso_tent",
+      "address": "Tobago"
+    },
+    {
+      "name": "Kaiso Showkase",
+      "type": "calypso_tent",
+      "address": "Palms Club\nPointe-a-Pierre Road, San Fernando"
+    },
+    {
+      "name": "Kaiso Wagon",
+      "type": "calypso_tent",
+      "address": "Trinidad"
+    },
+    {
+      "name": "Kalypso Revue",
+      "type": "calypso_tent",
+      "address": "SWWTU Hall\nWrightson Road, Port of Spain"
+    },
+    {
+      "name": "Klassic Russo",
+      "type": "calypso_tent",
+      "address": "City Hall Auditorium\nKnox Street, Port of Spain"
+    },
+    {
+      "name": "Massive Gosein's Chutney Tent",
+      "type": "calypso_tent",
+      "address": "Roving Tent"
+    },
+    {
+      "name": "Masters Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Tobago Roving Tent"
+    },
+    {
+      "name": "Missioneers Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Princes Town"
+    },
+    {
+      "name": "New Wave Caravan",
+      "type": "calypso_tent",
+      "address": "Tobago\nRainbow Stars TentSWWTU Hall\nChaguanas"
+    },
+    {
+      "name": "Superliners & Magnificent Glow Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Tobago\nTobago All Stars Calypso TentScarborough Community Centre\nBacolet Street, Scaborough"
+    },
+    {
+      "name": "Top Line Tent",
+      "type": "calypso_tent",
+      "address": "Larchands Bell Garden\nMain Road, Tobago"
+    },
+    {
+      "name": "TUCO Glow Calypso Tent",
+      "type": "calypso_tent",
+      "address": "Roving Tent\nTobago"
+    },
+    {
+      "name": "Unique Tent",
+      "type": "calypso_tent",
+      "address": "#47 Jerningham Avenue\nBelmont Community Centre, Belmont"
+    },
+    {
+      "name": "Vintage Kaiso Brigade Tent",
+      "type": "calypso_tent",
+      "address": "Strand Cinema, Tragarete Road, Port of Spain\nThe Lure Restaurant, Chaguaramas"
+    }
+  ]
+}

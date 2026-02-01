@@ -1,0 +1,412 @@
+{
+  "source": "http://tntisland.com/gallery.html",
+  "page_title": "Trinidad & Tobago Galleries & Museums",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "101 Art Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "101arts@tstt.net.tt"
+      ],
+      "extra_info": "email: 101 Art Gallery",
+      "phone": [
+        "628-4081"
+      ],
+      "address": "Art Society's Building\ncorner of Jamaica Boulevard and St.Vincent Avenue\nFederation Park\nPort of Spain\n628-4081 (Tel)"
+    },
+    {
+      "name": "Arnim's Art Galleria",
+      "type": "gallery_museum",
+      "phone": [
+        "714-4550"
+      ],
+      "address": "27 Tragarete Road\nNewtown, Port of Spain\n714-4550 (Tel)"
+    },
+    {
+      "name": "Aquarela Galleries",
+      "type": "gallery_museum",
+      "phone": [
+        "625-5982"
+      ],
+      "address": "1A Dere Street\nPort of Spain\n625-5982 (Tel)"
+    },
+    {
+      "name": "Brij Maharaj Auto and Heritage Museum",
+      "type": "gallery_museum",
+      "phone": [
+        "620-4551"
+      ],
+      "address": "2 Hubert Rance Street\nSan Fernando\n620-4551 (Tel)"
+    },
+    {
+      "name": "Cari-Culture (The Southern Art Gallery)",
+      "type": "gallery_museum",
+      "email": [
+        "contact@cari-culture.com"
+      ],
+      "extra_info": "email: Cari-Culture (The Southern Art Gallery)",
+      "phone": [
+        "658-4503"
+      ],
+      "address": "14 Naparima Mayaro Road\nCocoyea\n658-4503 (Tel/Fax)"
+    },
+    {
+      "name": "Chaguaramas Military History and Aviation Museum",
+      "type": "gallery_museum",
+      "phone": [
+        "634-4391"
+      ],
+      "address": "Western Main Road\nChaguaramas\n634-4391 (Tel)"
+    },
+    {
+      "name": "Cocoa Panyol Museum",
+      "type": "gallery_museum",
+      "phone": [
+        "733-5701"
+      ],
+      "address": "16 Telemaque Road\n(25 minutes east of Chaguanas Flyover via Longdenville/Palmiste/Todds Road/Caparo // 25 minutes east of Prey)\nFlanagin Town\n733-5701 (Tel/WhatsApp)"
+    },
+    {
+      "name": "De Gallery",
+      "type": "gallery_museum",
+      "phone": [
+        "750-5097"
+      ],
+      "address": "77 Woodford Street\nNewtown, Port of Spain\n750-5097 (Tel)"
+    },
+    {
+      "name": "Dial Family Museum",
+      "type": "gallery_museum",
+      "address": "Campus House\nEastern Main Road\nSt Augustine"
+    },
+    {
+      "name": "Dillon's Art Studio & Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "mrdillonrichards@gmail.com"
+      ],
+      "extra_info": "email: Dillon's Art Studio & Gallery",
+      "phone": [
+        "330-0418"
+      ],
+      "address": "Tamarind Villa\nLambeau\n330-0418 (Tel)"
+    },
+    {
+      "name": "Dive Museum",
+      "type": "gallery_museum",
+      "phone": [
+        "639-2727"
+      ],
+      "address": "c/o The Cotton House\nBacolet\n639-2727 (Tel)"
+    },
+    {
+      "name": "Epixdesigns",
+      "type": "gallery_museum",
+      "email": [
+        "epixdesigns@mail.tt"
+      ],
+      "extra_info": "email: Epixdesigns",
+      "phone": [
+        "672-7604",
+        "382-1407",
+        "382-1405"
+      ],
+      "address": "55 Edinburgh Gardens\nPhase 3\nChaguanas\n672-7604 (Tel1)\n382-1407 (Tel2)\n382-1405 (Tel3)"
+    },
+    {
+      "name": "Fort King George",
+      "type": "gallery_museum",
+      "phone": [
+        "639-3970"
+      ],
+      "address": "Scarborough\n639-3970 (Tel)"
+    },
+    {
+      "name": "Gregory Scott Art Studio",
+      "type": "gallery_museum",
+      "phone": [
+        "280-7070"
+      ],
+      "address": "48 Mucurapo Road\nSt. James\n280-7070 (Tel)"
+    },
+    {
+      "name": "Horizon Art Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "info@horizonsartgallery.com"
+      ],
+      "extra_info": "email: Horizon Art Gallery",
+      "phone": [
+        "628-9769"
+      ],
+      "address": "37 Mucurapo Road\nSt. James\n628-9769 (Tel)"
+    },
+    {
+      "name": "Icons of Tobago Museum",
+      "type": "gallery_museum",
+      "extra_info": "(Linda McCartha 'Calypso Rose' Sandy-Lewis and Winston 'Shadow' Bailey Museum)",
+      "phone": [
+        "675-7707"
+      ],
+      "address": "Fort King George Heritage Park\n#84 Fort Street\nScarborough\nIndian Caribbean MuseumWaterloo Main Road (near Temple in the Sea)\nWaterloo\nmailing address:\n10 Swami Avenue\nDon Miguel Road\nSan Juan\n675-7707 (Tel/Fax)"
+    },
+    {
+      "name": "La Brea Museum and Visitor Centre",
+      "type": "gallery_museum",
+      "address": "La Brea"
+    },
+    {
+      "name": "Luise Kimme's Museum - The Castle (Fairyhaus)",
+      "type": "gallery_museum",
+      "email": [
+        "hoppingstick@tstt.net.tt"
+      ],
+      "extra_info": "email: Luise Kimme's Museum - The Castle (Fairyhaus)",
+      "phone": [
+        "639-0257"
+      ],
+      "address": "Mt Irvine\nTobago\n639-0257 (Tel)"
+    },
+    {
+      "name": "Moruga Museum",
+      "type": "gallery_museum",
+      "email": [
+        "morugamuseum1@yahoo.com"
+      ],
+      "extra_info": "email: Moruga Museum",
+      "phone": [
+        "320-3108"
+      ],
+      "address": "#40 Grand Chemin\nMoruga\n320-3108 (Tel)"
+    },
+    {
+      "name": "Museum Buccoo",
+      "type": "gallery_museum",
+      "extra_info": "Facebook: Tobago Heritage Conservation Society",
+      "phone": [
+        "715-5465"
+      ],
+      "address": "Main Road\nBuccoo, Tobago\n715-5465 (Whatsapp - Gabriele)"
+    },
+    {
+      "name": "Museum of Tobago History",
+      "type": "gallery_museum",
+      "phone": [
+        "639-3970"
+      ],
+      "address": "Fort King Geroge\nScarborough, Tobago\n639-3970 (Tel)"
+    },
+    {
+      "name": "National Cocoa and Chocolate Museum",
+      "type": "gallery_museum",
+      "email": [
+        "princeofmoruga@gmail.com"
+      ],
+      "extra_info": "email: princeofmoruga@gmail.com",
+      "phone": [
+        "355-8319"
+      ],
+      "address": "Rock River Hill\nMoruga\n355-8319 (Tel)"
+    },
+    {
+      "name": "National Museum & Art Gallery",
+      "type": "gallery_museum",
+      "phone": [
+        "623-5941"
+      ],
+      "address": "Knowsley Building\n1 Queen's Park West\nPort of Spain\n623-5941 (Tel)"
+    },
+    {
+      "name": "Upper Level, West Mall",
+      "type": "gallery_museum",
+      "email": [
+        "rotundagallery@ttparliament.org"
+      ],
+      "extra_info": "Westmoorings-by-the-sea\n633-3404 (Tel)\nRotunda Art Gallery\nemail: Rotunda Art Gallery",
+      "phone": [
+        "624-7275"
+      ],
+      "address": "Abercromby Street\nPort of Spain\n624-7275 (Tel)"
+    },
+    {
+      "name": "Soft Box Art Gallery",
+      "type": "gallery_museum",
+      "phone": [
+        "622-8610"
+      ],
+      "address": "9 Alcazar Street\nSt. Clair, Port of Spain\n622-8610 (Tel)"
+    },
+    {
+      "name": "Studio 66",
+      "type": "gallery_museum",
+      "email": [
+        "studioart66@yahoo.com"
+      ],
+      "extra_info": "email: Studio 66",
+      "phone": [
+        "675-7031"
+      ],
+      "address": "66 Sixth Street\nBarataria\n675-7031 (Tel)"
+    },
+    {
+      "name": "Studio Segon",
+      "type": "gallery_museum",
+      "email": [
+        "segonart@tstt.net.tt"
+      ],
+      "extra_info": "email: Studio Segon",
+      "phone": [
+        "650-5684"
+      ],
+      "address": "21B San Fabian Road\nGasparillo\n650-5684 (Tel)"
+    },
+    {
+      "name": "Suede Molte Art Studio",
+      "type": "gallery_museum",
+      "address": "Abercromby Street\nSt Joseph\n762 -0364 (Tel)"
+    },
+    {
+      "name": "The Art Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "artgal@tstt.net.tt"
+      ],
+      "extra_info": "email: The Art Gallery",
+      "phone": [
+        "639-8535"
+      ],
+      "address": "Store Bay Beach Facilities\nStore Bay, Tobago\n639-8535 (Tel)"
+    },
+    {
+      "name": "The Gallery 1 2 3 4",
+      "type": "gallery_museum",
+      "phone": [
+        "625-5502"
+      ],
+      "address": "Normandie Hotel\nSt. Anns\n625-5502 (Tel)"
+    },
+    {
+      "name": "The Mudhouse Museum",
+      "type": "gallery_museum",
+      "address": "Avocat Village\nSiparia Old Road\nFyzabad"
+    },
+    {
+      "name": "The Rotunda Art Gallery",
+      "type": "gallery_museum",
+      "phone": [
+        "624-7275"
+      ],
+      "address": "The Red House\nSt. Vincent Street\nPort of Spain\n624-7275 (Tel)"
+    },
+    {
+      "name": "The Studio Annexe",
+      "type": "gallery_museum",
+      "email": [
+        "eddie@bowenartdesign.com"
+      ],
+      "extra_info": "email: The Studio Annexe",
+      "phone": [
+        "625-5235"
+      ],
+      "address": "25 Sydenham Avenue\nSt. Anns\n625-5235 (Tel)"
+    },
+    {
+      "name": "The Tobago Art Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "artgal2@hotmail.com"
+      ],
+      "extra_info": "email: Tobago Art Gallery",
+      "phone": [
+        "639-0457"
+      ],
+      "address": "Hibiscus Drive\nLowlands, Tobago\n639-0457 (Tel/Fax)"
+    },
+    {
+      "name": "Think Art Work Studio",
+      "type": "gallery_museum",
+      "phone": [
+        "769-1948"
+      ],
+      "address": "11 Cipriani Blvd.\nPort of Spain\n769-1948 (Tel)"
+    },
+    {
+      "name": "Trinidad & Tobago Carnival Museum",
+      "type": "gallery_museum",
+      "email": [
+        "ttcarnivalmuseum@gmail.com"
+      ],
+      "extra_info": "email: T&T Carnival Museum",
+      "phone": [
+        "680-6580"
+      ],
+      "address": "corner of Duke and Charlotte Streets (Penny Bank)\nPort of Spain\n680-6580 (Tel)"
+    },
+    {
+      "name": "University of the West Indies Zoology Museum (UWIZM)",
+      "type": "gallery_museum",
+      "email": [
+        "mike.rutherford@sta.uwi.edu"
+      ],
+      "extra_info": "Monday to Friday 9am to 4pm (best bet to call or email for an appointment)\nemail: Mike Rutherford (UWIZM)",
+      "phone": [
+        "662-2002"
+      ],
+      "address": "UWI Campus\nSt. Augustine\n662-2002 ext.82237 (Tel)"
+    },
+    {
+      "name": "Upper Room Art Gallery and Artist Retreat",
+      "type": "gallery_museum",
+      "email": [
+        "topmount@trinidad.net"
+      ],
+      "extra_info": "email: Upper Room Art Gallery and Artist Retreat",
+      "phone": [
+        "645-1905"
+      ],
+      "address": "Top of The Mount\nMt. St. Benedict\nSt. Augustine\n645-1905 (Tel)"
+    },
+    {
+      "name": "Yasmin Art and Framing Gallery",
+      "type": "gallery_museum",
+      "email": [
+        "yasminart@wow.net"
+      ],
+      "extra_info": "email: Yasmin Art and Framing Gallery",
+      "phone": [
+        "628-4165"
+      ],
+      "address": "26 Taylor Street\nWoodbrook\n628-4165 (Tel)"
+    },
+    {
+      "name": "Zum-Zum Museum",
+      "type": "gallery_museum",
+      "email": [
+        "zumzummuseum@gmail.com"
+      ],
+      "extra_info": "(Children's Musuem ... aged 1 to 12)\nemail: zumzummuseum@gmail.com",
+      "phone": [
+        "729-5006"
+      ],
+      "address": "215 Belmont Circular Road\nBelmont\n729-5006 (Tel)"
+    },
+    {
+      "name": "On Location Art Galleries Ltd.",
+      "type": "gallery_museum",
+      "locations": [
+        {
+          "phone": [
+            "628-3404"
+          ],
+          "address": "Long Circular Mall\nSt. James\n628-3404 (Tel)"
+        }
+      ],
+      "email": [
+        "esas@carib-link.net"
+      ],
+      "extra_info": "email: On Location Art Galleries Ltd."
+    }
+  ]
+}

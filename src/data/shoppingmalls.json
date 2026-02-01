@@ -1,0 +1,551 @@
+{
+  "source": "http://tntisland.com/shoppingmalls.html",
+  "page_title": "Trinidad & Tobago Shopping",
+  "category": "shopping",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Aboutique Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "623-6759"
+      ],
+      "address": "Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Adam's Bazaar",
+      "type": "shopping_mall",
+      "phone": [
+        "672-7760"
+      ],
+      "address": "Main Road\nChaguanas"
+    },
+    {
+      "name": "Alyce Glen Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "632-8882"
+      ],
+      "address": "Morne Coco Road\nPetit Valley"
+    },
+    {
+      "name": "Anil's Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "647-6986"
+      ],
+      "address": "Penal Junction\nPenal"
+    },
+    {
+      "name": "Atlantic Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "636-8730"
+      ],
+      "address": "Atlantic Avenue\nPoint Lisas"
+    },
+    {
+      "name": "Auzonville Mall",
+      "type": "shopping_mall",
+      "address": "11 Eastern Main Road\nTunapuna"
+    },
+    {
+      "name": "Bradford City Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "623-8474"
+      ],
+      "address": "Henry Street\nPort of Spain"
+    },
+    {
+      "name": "Busy Corner Mall",
+      "type": "shopping_mall",
+      "address": "23 Main Road\nChaguanas"
+    },
+    {
+      "name": "Cacique Mall",
+      "type": "shopping_mall",
+      "extra_info": "(Princes Town old market)",
+      "address": "Cacique street\nPrinces Town"
+    },
+    {
+      "name": "Capital Plaza",
+      "type": "shopping_mall",
+      "extra_info": "(formerly Colsort Mall)",
+      "phone": [
+        "624-0571"
+      ],
+      "address": "11-13 Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Carlton Center",
+      "type": "shopping_mall",
+      "phone": [
+        "652-5520"
+      ],
+      "address": "St. James Street\nSan Fernando"
+    },
+    {
+      "name": "Centre City Shopping Complex",
+      "type": "shopping_mall",
+      "phone": [
+        "665-0888"
+      ],
+      "address": "Main Road\nChaguanas"
+    },
+    {
+      "name": "Centre Pointe Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "665-3607"
+      ],
+      "address": "Ramsaran Street\nChaguanas"
+    },
+    {
+      "name": "Cross Crossing Shopping Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "653-7105"
+      ],
+      "address": "Cross Crosing\nSan Fernando"
+    },
+    {
+      "name": "Crown Point International Airport",
+      "type": "shopping_mall",
+      "address": "Crown Point\nTobago"
+    },
+    {
+      "name": "Couva Shopping Complex",
+      "type": "shopping_mall",
+      "phone": [
+        "679-3285"
+      ],
+      "address": "Isaac Junction\nCouva"
+    },
+    {
+      "name": "'D Pleasantville Village Plaza",
+      "type": "shopping_mall",
+      "address": "15B Frangipani Place\nVillage Plaza\nPleasantville\nSan Fernando"
+    },
+    {
+      "name": "DSM Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "671-1483"
+      ],
+      "address": "Chaguanas"
+    },
+    {
+      "name": "Dulipsingh's Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "665-5209"
+      ],
+      "address": "5 Main Road\nChaguanas"
+    },
+    {
+      "name": "East Side Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "623-2626"
+      ],
+      "address": "32 Charlotte Street\nPort of Spain"
+    },
+    {
+      "name": "Edan Centre Mall",
+      "type": "shopping_mall",
+      "address": "High Street\nSan Fernando"
+    },
+    {
+      "name": "Ellerslie Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "622-9010"
+      ],
+      "address": "Rapsey Street & Saddle Road\nMaraval"
+    },
+    {
+      "name": "Excellent City Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "623-6503"
+      ],
+      "address": "Independence Square & \ncorners of Frederick & Chacon Streets\nPort of Spain"
+    },
+    {
+      "name": "Flemmines's Plaza",
+      "type": "shopping_mall",
+      "address": "Marc Street\nChaguanas"
+    },
+    {
+      "name": "Flemming Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "665-5732"
+      ],
+      "address": "Max & Eleanore Streets\nChaguanas"
+    },
+    {
+      "name": "Francis Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "671-4885"
+      ],
+      "address": "22 Main Road & Eleanore Street\nChaguanas"
+    },
+    {
+      "name": "Galleria Shopping Centres Ltd",
+      "type": "shopping_mall",
+      "phone": [
+        "622-1564"
+      ],
+      "address": "12 Western Main Road\nSt. James"
+    },
+    {
+      "name": "Golden Doors Shopping Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "623-4837"
+      ],
+      "address": "Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Globe City Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "680-6061"
+      ],
+      "address": "Chase Village"
+    },
+    {
+      "name": "Grand Bazaar Limited",
+      "type": "shopping_mall",
+      "phone": [
+        "662-2007"
+      ],
+      "address": "Uriah Butler Highway\nValsayn"
+    },
+    {
+      "name": "Gulf City Mall (Tobago)",
+      "type": "shopping_mall",
+      "phone": [
+        "631-1321"
+      ],
+      "address": "Lowlands\nTobago"
+    },
+    {
+      "name": "Gulf City Mall (La Romain)",
+      "type": "shopping_mall",
+      "phone": [
+        "657-9251"
+      ],
+      "address": "Gulf View\nLa Romain"
+    },
+    {
+      "name": "Hadeed Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "627-4974"
+      ],
+      "address": "Henry Street\nPort of Spain"
+    },
+    {
+      "name": "Harry's Plaza",
+      "type": "shopping_mall",
+      "address": "High Street\nPrinces Town"
+    },
+    {
+      "name": "Khan's Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "644-2362"
+      ],
+      "address": "Tabaquite Road\nRio Claro"
+    },
+    {
+      "name": "K.K's Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "636-3655"
+      ],
+      "address": "Southern Main Road\nCouva"
+    },
+    {
+      "name": "King Henry's Court Mall",
+      "type": "shopping_mall",
+      "address": "Ojoe Road and Brierley Road\nSangre Grande"
+    },
+    {
+      "name": "La Horquetta Plaza",
+      "type": "shopping_mall",
+      "address": "Sel Duncan Avenue\nPhase I\nLa Horquetta\nArima"
+    },
+    {
+      "name": "Lall's Shopping Complex",
+      "type": "shopping_mall",
+      "address": "1105 S.S. Erin Road\nDebe"
+    },
+    {
+      "name": "Long Circular Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "622-4925"
+      ],
+      "address": "51-53 Long Circular Road\nSt. James"
+    },
+    {
+      "name": "Lowlands Mall",
+      "type": "shopping_mall",
+      "address": "Scarborough\nTobago"
+    },
+    {
+      "name": "Mid Centre Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "665-3783"
+      ],
+      "address": "Southern Main Road\nChaguanas"
+    },
+    {
+      "name": "National Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "622-2479"
+      ],
+      "address": "119 Western Main Road\nSt. James"
+    },
+    {
+      "name": "Narwani Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "625-1223"
+      ],
+      "address": "13 Charlotte Street\nPort of Spain"
+    },
+    {
+      "name": "Otrabanda City",
+      "type": "shopping_mall",
+      "phone": [
+        "657-7775"
+      ],
+      "address": "25 - 25A St. James Street\nSan Fernando"
+    },
+    {
+      "name": "Palms Plaza",
+      "type": "shopping_mall",
+      "address": "Green and Woodford Streets\nArima"
+    },
+    {
+      "name": "Park Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "623-7414"
+      ],
+      "address": "Park & St. Vincent Streets\nPort of Spain"
+    },
+    {
+      "name": "Pelican Plaza",
+      "type": "shopping_mall",
+      "address": "Milford Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Plaza 2001",
+      "type": "shopping_mall",
+      "phone": [
+        "665-1144"
+      ],
+      "address": "10 Main Road\nChaguanas"
+    },
+    {
+      "name": "Plaza America",
+      "type": "shopping_mall",
+      "address": "Lower High Street\nSan Fernando"
+    },
+    {
+      "name": "Plaza Espermaria",
+      "type": "shopping_mall",
+      "phone": [
+        "665-1144"
+      ],
+      "address": "Henry Street\nPort of Spain"
+    },
+    {
+      "name": "Plaza Grande",
+      "type": "shopping_mall",
+      "address": "Eastern Main Road\nSangre Grande"
+    },
+    {
+      "name": "Piarco International Airport",
+      "type": "shopping_mall",
+      "phone": [
+        "665-1144"
+      ],
+      "address": "Piarco"
+    },
+    {
+      "name": "Princes Town Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "767-6589"
+      ],
+      "address": "High Street\nPrinces Town"
+    },
+    {
+      "name": "Promenade Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "625-5177"
+      ],
+      "address": "68 Independence Square\nPort of Spain"
+    },
+    {
+      "name": "Ramsingh's Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "679-1400"
+      ],
+      "address": "155 Southern Main Road\nCouva"
+    },
+    {
+      "name": "Roopnarine Plaza",
+      "type": "shopping_mall",
+      "address": "Main Road\nChaguanas"
+    },
+    {
+      "name": "RRM Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "652-7960"
+      ],
+      "address": "High Street\nSan Fernando"
+    },
+    {
+      "name": "Santa Maria Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "620-7544"
+      ],
+      "address": "13 Mucurapo Road, Port of Spain"
+    },
+    {
+      "name": "Scarborough Mall",
+      "type": "shopping_mall",
+      "address": "Scarborough\nTobago"
+    },
+    {
+      "name": "Shoppes of Maraval",
+      "type": "shopping_mall",
+      "phone": [
+        "628-0806"
+      ],
+      "address": "3 Saddle Road\nMaraval"
+    },
+    {
+      "name": "Shoppes of Westcity Mall",
+      "type": "shopping_mall",
+      "address": "Canaan\nTobago"
+    },
+    {
+      "name": "South Haven Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "346-9070"
+      ],
+      "address": "1124 S.S. Erin Road\nDebe"
+    },
+    {
+      "name": "Starlite Shopping Centre",
+      "type": "shopping_mall",
+      "phone": [
+        "637-5435"
+      ],
+      "address": "Four Roads\nDiego Martin"
+    },
+    {
+      "name": "Tent City Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "625-4113"
+      ],
+      "address": "41 Independence Square\nPort of Spain"
+    },
+    {
+      "name": "The Falls",
+      "type": "shopping_mall",
+      "phone": [
+        "632-1239"
+      ],
+      "address": "Western Main Road\nWestmooring"
+    },
+    {
+      "name": "The Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "652-3770"
+      ],
+      "address": "High Street\nSan Fernando"
+    },
+    {
+      "name": "Time Store (T'dad) Ltd.",
+      "type": "shopping_mall",
+      "phone": [
+        "623-4391"
+      ],
+      "address": "28 Henry Street\nPort of Spain"
+    },
+    {
+      "name": "Tino's Mall",
+      "type": "shopping_mall",
+      "address": "Wilson Road\nScarborough\nTobago"
+    },
+    {
+      "name": "Town Centre Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "627-2922"
+      ],
+      "address": "19-21 Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Trincity Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "640-3780"
+      ],
+      "address": "Churchill Roosevelt Highway\nTrinicity"
+    },
+    {
+      "name": "Tropical Plaza-Aboutique",
+      "type": "shopping_mall",
+      "phone": [
+        "658-0773"
+      ],
+      "address": "Tropical Plaza\nPointe A Pierre"
+    },
+    {
+      "name": "Uptown Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "625-0762"
+      ],
+      "address": "44-58 Edward Street\nPort of Spain"
+    },
+    {
+      "name": "Valpark Shopping Plaza",
+      "type": "shopping_mall",
+      "phone": [
+        "663-2386"
+      ],
+      "address": "1 Morequito Avenue\nValsayn"
+    },
+    {
+      "name": "West Mall",
+      "type": "shopping_mall",
+      "phone": [
+        "632-1239",
+        "623-0170"
+      ],
+      "address": "Western Main Road\nWestmoorings\nYetsol MallCharlotte Street\nPort of Spain"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source": "http://tntisland.com/fishing.html",
+  "page_title": "Trinidad & Tobago Deepsea Fishing",
+  "category": "sports",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Tobago",
+      "type": "fishing",
+      "phone": [
+        "639-8765"
+      ],
+      "address": "Dillon Tours and ChartersMilford Bay\nCrown Point\n868-639-8765 Tel"
+    },
+    {
+      "name": "Captain Frothy Hard Play Deepsea Fishing Charters",
+      "type": "fishing",
+      "phone": [
+        "639-7108"
+      ],
+      "address": "Pigeon Point\n868-639-7108 Tel"
+    },
+    {
+      "name": "Fishjammer Charters",
+      "type": "fishing",
+      "phone": [
+        "749-8980"
+      ],
+      "address": "Speyside\n868-749-8980"
+    },
+    {
+      "name": "Hard Play Fishing Charters",
+      "type": "fishing",
+      "phone": [
+        "639-7108",
+        "639-7788",
+        "682-3474"
+      ],
+      "address": "13, The Evergreen\nAuchenskeoch\nBuccoo\n868-639-7108 Tel\n868-639-7788 Fax\n868-682-FISH (682-3474) Cell"
+    },
+    {
+      "name": "Manta Dive Center",
+      "type": "fishing",
+      "phone": [
+        "639-9969"
+      ],
+      "address": "Pigeon Point Road\nTobago\n868-639-9969 Tell"
+    },
+    {
+      "name": "Makaira Fishing Charters",
+      "type": "fishing",
+      "phone": [
+        "735-4090"
+      ],
+      "address": "18 Store Bay Branch Road\nCrowm Point\nTobago\n868-735-4090 Cell"
+    },
+    {
+      "name": "Sel-TAB Fishing Charters",
+      "type": "fishing",
+      "phone": [
+        "688-5148"
+      ],
+      "address": "P.O. Box 5700\nScarborough\nTobago\n868-688-5148 Tel"
+    },
+    {
+      "name": "Workshop Fishing Charters and Sea Tours",
+      "type": "fishing",
+      "phone": [
+        "660-6281",
+        "389-8126"
+      ],
+      "address": "Main Road\nCharlotteville\nTobago\n868-660-6281 (Work)\n868-389-8126 (Cell)"
+    },
+    {
+      "name": "Trinidad",
+      "type": "fishing",
+      "phone": [
+        "624-5304"
+      ],
+      "address": "Trinidad & Tobago Game Fishing Association91 Cascade Road\nCascade\n868-624-5304 Tel"
+    },
+    {
+      "name": "sTypes of fish in Trinidad and Tobago.",
+      "type": "fishing",
+      "extra_info": "* kingfish",
+      "address": "* wahoo* red snapper* sharks"
+    },
+    {
+      "name": "* swordfish",
+      "type": "fishing",
+      "address": "* bonito* grouper* mackerels"
+    },
+    {
+      "name": "* dolphin",
+      "type": "fishing",
+      "address": "* tunas* blue marlins* salmon"
+    },
+    {
+      "name": "* sailfish",
+      "type": "fishing",
+      "address": "* white marlins* tarpon* bonefish"
+    },
+    {
+      "name": "* jacks",
+      "type": "fishing",
+      "address": "* barracudas* snook* permit"
+    }
+  ]
+}

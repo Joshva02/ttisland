@@ -1,0 +1,40 @@
+{
+  "source": "http://tntisland.com/communities.html",
+  "page_title": "Trinidad & Tobago Communities",
+  "category": "island_info",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "A\n- Aberdeen Park\n- Acono Village\n- Adelphi \n- Agostini Village \n- Almond Court\n- Alyce Glen\n- Anglais\n- Aranguez\n- Aranguez South\n- Argyle\n- Arima\n- Aripo\n- Arnos Vale \n- Aroquita (Caura Hills)\n- Arouca\n- Ascot Gardens\n- Avocat",
+      "type": "community"
+    },
+    {
+      "name": "D\n- D'abadie \n- De Gannes Village \n- Debe\n- Delaford\n- Diamond Vale\n- Diamond Village\n- Diego Martin (name after early Spanish settler, Don Diego Martin) \n- Diggity Trace \n- Dorrington Gardens \n- Dow Village\n- Downtown \n- Dragon Village\n- Duncan Village\n- Dyer's Village",
+      "type": "community"
+    },
+    {
+      "name": "G\n- Galaxy Gardens\n- Galeota\n- Gandhi Village (formally known as Coolie Village)\n- Gaspar Grande\n- Gasparillo\n- Glamorgan\n- Glencoe \n- Gobin Village\n- Golconda Village\n- Golden Grove\n- Golden Lane\n- Goldsborough\n- Gonzales\n- Goodman Trace \n- Goodwood Garden\n- Goodwood Park\n- Gopaul Lands\n- Gordon Village \n- Goya\n- Grace Gardens\n- Grafton\n- Gran Chemin\n- Gran Couva\n- Gran Point\n- Granville Village\n- Granby Point \n- Grand Curacaye \n- Grand Lagoon\n- Grande Riviere\n- Green Hill\n- Guadenville Heights \n- Guaico Village \n- Guanapo\n- Guapo\n- Guayaguayare \n- Guayama Village\n- Guayamare\n- Gulf City \n- Gulf View\n- Gurahoo Trace",
+      "type": "community"
+    },
+    {
+      "name": "J\n- Jacob Hill \n- Jagan Village\n- Jairsingh Village\n- John John\n- Jordan Hill \n- Julien Park",
+      "type": "community"
+    },
+    {
+      "name": "M\n- Macaulay Village\n- Macoya\n- Madoo Heights \n- Mafekin Village\n- Mahaica\n- Malabar\n- McKai Lands\n- Malick\n- Mamoral Crossing \n- Mamoral No 1\n- Mamoral No 2\n- Manahambre\n- Manzanilla (Spanish phrase, Punta Manzanillo, which means, �a little block of land.�) \n- Map Lands \n- Marabella \n- Marac Village\n- Maracas\n- Maracas Valley\n- Maraj Land\n- Maraval\n- Maryland Hill\n- Mason Hall\n- Matelot \n- Mathura \n- Maturita\n- Mausica\n- Mayaro\n- Mayo Village \n- McBean Village\n- McShine Lands\n- Mendez Village\n- Merchistan\n- Mesopotamia \n- Miani\n- Millennium Gardens\n- Milton Village\n- Moka\n- Mon Repos\n- Monkey Town\n- Montague\n- Monte Grande \n- Monte Verde \n- Montrose\n- Montrose Crown Trace\n- Montserrat\n- Mootoo Lands\n- Mora Valley \n- Morang Village\n- Moriah\n- Morne Catherine\n- Morne Diablo\n- Morne La Croix\n- Morne Quinton\n- Moruga\n- Morvant\n- Mount D'Or\n- Mount Dillion\n- Mount Gomery\n- Mount Grace\n- Mount Hope\n- Mount Hololo\n- Mount Irvine\n- Mount Lambert\n- Mount Pleasant\n- Mount Irvine\n- Mount Lambert\n- Mount Marie\n- Mount St. Benedict\n- Mount St. George \n- Mount Stewart Village\n- Mucurapo \n- Mundo Nuevo",
+      "type": "community"
+    },
+    {
+      "name": "P\n- Palmiste\n- Palmyra\n- Palo Seco\n- Panoo Trace \n- Paradise Gardens\n- Paradise Heights\n- Paramin\n- Parlatuvier\n- Parrot Hill\n- Pasea\n- Patience Hill\n- Patna Village\n- Peastree\n- Pembroke\n- Penal\n- Penal Rock \n- Penco Lands\n- Pepper Village\n- Perseverence Village\n- Petit Bourg\n- Petit Morne\n- Petit Valley\n- Petite Cafe Village\n- Peytonville\n- Phillipine\n- Piarco\n- Picton Hill\n- Picton Phase\n- Pierreville\n- Pigeon Point\n- Pineridge Heights\n- Piparo\n- Plaisance (Pierreville)\n- Plaisance Park\n- Pleasant Prospect\n- Pleasantville\n- Plum Mitan \n- Plymouth\n- Point Cumana\n- Point Ligoure\n- Point Lisas\n- Point Lisas Garden\n- Pointe-A-Pierre\n- Poole Village\n- Poona\n- Port of Spain\n- Pranz Gardens\n- Preysal\n- Princes Town\n- Prizgar Lands\n- Point Fortin\n- Point Lisas\n- Providence \n- Pump Mill \n- Puzzle Island",
+      "type": "community"
+    },
+    {
+      "name": "T\n- Tabaquite\n- Tableland\n- Tacarigua\n- Taitt Madhoo Trace\n- Talparo\n- Tamana\n- Tarodale Gardens\n- Tarouba \n- Techier Village\n- Telemaque\n- The Whim\n- Thicke Village\n- Thompson Gardens\n- Toco\n- Todds Road\n- Tortuga\n- Trainline Village\n- Trincity\n- Trois Rivieres\n- Trou Macaque\n- Tunapuna \n- Turure Village",
+      "type": "community"
+    },
+    {
+      "name": "W\n- Wallerfield\n- Walker Park\n- Warner Village\n- Warrenville\n- Waterloo\n- Weathering Heights \n- Wellington\n- Westmoorings\n- Westvale Park\n- Whim \n- Whiteland\n- Williams Bay\n- Williamsville \n- Windsor Park\n- Woodbrook\n- Woodland",
+      "type": "community"
+    }
+  ]
+}

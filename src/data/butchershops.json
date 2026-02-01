@@ -1,0 +1,434 @@
+{
+  "source": "http://tntisland.com/butchershops.html",
+  "page_title": "Trinidad & Tobago Butcher Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Caribbean Cornerstores Supermarket",
+      "type": "butcher_shop",
+      "phone": [
+        "631-1422"
+      ],
+      "address": "Buccoo Main Road\nBuccoo"
+    },
+    {
+      "name": "Cost Cutters Supermarket",
+      "type": "butcher_shop",
+      "phone": [
+        "639-3552"
+      ],
+      "address": "Plymouth Road\nScarborough"
+    },
+    {
+      "name": "Duncan Meat Shop",
+      "type": "butcher_shop",
+      "address": "Bethel"
+    },
+    {
+      "name": "House of Meat Eaters",
+      "type": "butcher_shop",
+      "phone": [
+        "766-4663"
+      ],
+      "address": "Orange Hill Road\nScarborough"
+    },
+    {
+      "name": "Jacob's Sea Food",
+      "type": "butcher_shop",
+      "phone": [
+        "639-8975"
+      ],
+      "address": "Kilgwyn Bay Road\nBon Accord"
+    },
+    {
+      "name": "Jesus Christ Supermarket",
+      "type": "butcher_shop",
+      "phone": [
+        "639-5329"
+      ],
+      "address": "Northside Road\nProvidence"
+    },
+    {
+      "name": "Pablo's Supermarket",
+      "type": "butcher_shop",
+      "phone": [
+        "660-4014"
+      ],
+      "address": "Main Road\nArgyle"
+    },
+    {
+      "name": "Penny Savers",
+      "type": "butcher_shop",
+      "phone": [
+        "639-8992"
+      ],
+      "address": "Milford Road\nCanaan"
+    },
+    {
+      "name": "Richmond Meat Centre",
+      "type": "butcher_shop",
+      "phone": [
+        "774-5977"
+      ],
+      "address": "Windward Road\nGlamorgan"
+    },
+    {
+      "name": "Visto Enterprises Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "639-1855"
+      ],
+      "address": "Building 1B, Shaw Park\nMilford Road Ext.\nScarborough"
+    },
+    {
+      "name": "Windward Meat Shop",
+      "type": "butcher_shop",
+      "address": "Main Road\nRoxborough"
+    },
+    {
+      "name": "Yats Marketing Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "639-4547"
+      ],
+      "address": "Orange Hill Road\nScarborough"
+    },
+    {
+      "name": "A1 Butcher & Grocery",
+      "type": "butcher_shop",
+      "phone": [
+        "375-8000"
+      ],
+      "address": "85 Bamboo Village\nLa-Romain, San Fernando"
+    },
+    {
+      "name": "Abdullah's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "674-5363"
+      ],
+      "address": "76 El Socorro Road\nSan Juan"
+    },
+    {
+      "name": "AJ's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "739-8370"
+      ],
+      "address": "West Hills, Petit Valley"
+    },
+    {
+      "name": "Ali Baba Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "710-6979"
+      ],
+      "address": "Aranguez Main Road\nSan Juan"
+    },
+    {
+      "name": "Ameer's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "750-7379"
+      ],
+      "address": "69 Chase Village\nChaguanas"
+    },
+    {
+      "name": "Apangs The Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "315-6328"
+      ],
+      "address": "#4 Century Drive\nTrincity Industrial Estate\nMacoya"
+    },
+    {
+      "name": "Artie's Meats",
+      "type": "butcher_shop",
+      "phone": [
+        "637-9555"
+      ],
+      "address": "32 Morne Coco Road\nDiego Martin"
+    },
+    {
+      "name": "Faz Meats & Poultry Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "302-0125"
+      ],
+      "address": "21 Market Street\nSan Fernando"
+    },
+    {
+      "name": "Golden Grove Meat Shop",
+      "type": "butcher_shop",
+      "address": "Golden Grove"
+    },
+    {
+      "name": "Gordon's Meat Shop",
+      "type": "butcher_shop",
+      "address": "La Pastora Settlement"
+    },
+    {
+      "name": "Great Foods Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "645-6518"
+      ],
+      "address": "5-96 Frederick Settlement\nIndustrial Estate, Caroni"
+    },
+    {
+      "name": "Heechco Meats",
+      "type": "butcher_shop",
+      "phone": [
+        "674-1986"
+      ],
+      "address": "Sixth Avenue &, First St, San Juan"
+    },
+    {
+      "name": "Hypa Meats",
+      "type": "butcher_shop",
+      "phone": [
+        "366-5090"
+      ],
+      "address": "#23 Arima Old Road\nArouca"
+    },
+    {
+      "name": "J&A Express Meats Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "494-2330"
+      ],
+      "address": "Pinto Road\nArima"
+    },
+    {
+      "name": "Jasa Meatin Place",
+      "type": "butcher_shop",
+      "phone": [
+        "242-8344"
+      ],
+      "address": "27 Guanapo Street\nArima"
+    },
+    {
+      "name": "Gasparillo",
+      "type": "butcher_shop",
+      "extra_info": "Tel: 394-2445\nMarket Street\nSan Fernando\nTel: 344-2445\nLamboy's Meat Shop & Poultry Depot",
+      "phone": [
+        "785-7680"
+      ],
+      "address": "LP #52 La Seiva Road\nSangre Grande"
+    },
+    {
+      "name": "Lisa's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "374-5429"
+      ],
+      "address": "Sirju trace, Dumfries Road\nHermitage, San Fernando"
+    },
+    {
+      "name": "Malabar Meats Gourmet Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "628-7486"
+      ],
+      "address": "115 Long Circular Road\nPort of Spain"
+    },
+    {
+      "name": "Mayaro Poultry and Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "396-8187"
+      ],
+      "address": "4 Guayaguayare Mayaro Road Mayaro"
+    },
+    {
+      "name": "Meat Hook Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "270-9052"
+      ],
+      "address": "LP 31# El Socorro Main Road\nEl Socorro Road\nSan Juan"
+    },
+    {
+      "name": "Meat Shop",
+      "type": "butcher_shop",
+      "address": "Arima"
+    },
+    {
+      "name": "Midway Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "693-0394"
+      ],
+      "address": "Munroe Road\nCharlieville"
+    },
+    {
+      "name": "Moby's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "317-3613"
+      ],
+      "address": "Aranguez Branch Road\nAranguez"
+    },
+    {
+      "name": "Nagib's Poultry Depot",
+      "type": "butcher_shop",
+      "phone": [
+        "337-2461"
+      ],
+      "address": "Freeport"
+    },
+    {
+      "name": "Nassa Mohammed Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "718-3872"
+      ],
+      "address": "49 Aranguez Branch Road\nSan Juan"
+    },
+    {
+      "name": "Pluck Shop",
+      "type": "butcher_shop",
+      "address": "Rodney Road\nChaguanas"
+    },
+    {
+      "name": "Premium Quality Meats",
+      "type": "butcher_shop",
+      "phone": [
+        "636-7582"
+      ],
+      "address": "LP 100 Couva Main Road\nBalmain Village"
+    },
+    {
+      "name": "Quality Cutz Poultry Depot & Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "376-5487"
+      ],
+      "address": "Chin Chin Road\nCunupia"
+    },
+    {
+      "name": "R and N Poultry and Meat Supplies Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "393-2294"
+      ],
+      "address": "123 S.S. Erin Road\nDebe"
+    },
+    {
+      "name": "Raj Meat Shop",
+      "type": "butcher_shop",
+      "address": "Clarke Road\nPenal"
+    },
+    {
+      "name": "Ramesh and Son Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "271-6318"
+      ],
+      "address": "Race Course Road\nCarapo"
+    },
+    {
+      "name": "Rea's Meat Shop & Mini Mart",
+      "type": "butcher_shop",
+      "phone": [
+        "328-9242"
+      ],
+      "address": "D'Abadie"
+    },
+    {
+      "name": "S&M Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "268-4748"
+      ],
+      "address": "M.I. Trace\nSan Juan"
+    },
+    {
+      "name": "S. Khan Cutlery and Cuisine Ltd.",
+      "type": "butcher_shop",
+      "phone": [
+        "345-5824"
+      ],
+      "address": "Charlieville"
+    },
+    {
+      "name": "Shaun's Poultry & Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "354-4283"
+      ],
+      "address": "67 Western Main Road\nPort of Spain"
+    },
+    {
+      "name": "Singh Meat Mouth Co. Ltd.",
+      "type": "butcher_shop",
+      "address": "Prince Street\nPort of Spain"
+    },
+    {
+      "name": "St. James Meat Cottage and Supermarket",
+      "type": "butcher_shop",
+      "phone": [
+        "622-0051"
+      ],
+      "address": "Agra Street\nPort of Spain"
+    },
+    {
+      "name": "Sunils Chicken Pluck Shop and Meat Shop and Wholesale",
+      "type": "butcher_shop",
+      "phone": [
+        "462-4426"
+      ],
+      "address": "Enterprise Village, Chagauanas"
+    },
+    {
+      "name": "Tattoo's Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "394-4967"
+      ],
+      "address": "231 Main Road\nLongdenville, Chaguanas"
+    },
+    {
+      "name": "The Meat Palace",
+      "type": "butcher_shop",
+      "phone": [
+        "312-6209"
+      ],
+      "address": "40 Prince St, Port of Spain"
+    },
+    {
+      "name": "Triple Ts Meat Shop",
+      "type": "butcher_shop",
+      "phone": [
+        "665-8676"
+      ],
+      "address": "215 Southern Main Road\nChaguanas"
+    },
+    {
+      "name": "Two Kings Meat & Poultry",
+      "type": "butcher_shop",
+      "phone": [
+        "350-8029"
+      ],
+      "address": "Eastern Main Road\nEl Dorado"
+    },
+    {
+      "name": "Zaac's",
+      "type": "butcher_shop",
+      "phone": [
+        "668-7963"
+      ],
+      "address": "Sangre Grande"
+    },
+    {
+      "name": "Khan's Poultry & Meats Ltd.",
+      "type": "butcher_shop",
+      "locations": [
+        {
+          "address": "41 Southern Main Road\nSan Fernando"
+        }
+      ]
+    }
+  ]
+}

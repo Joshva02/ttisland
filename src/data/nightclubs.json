@@ -1,0 +1,1491 @@
+{
+  "source": "http://tntisland.com/nightclubs.html",
+  "page_title": "Trinidad & Tobago Night Clubs",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "110 Jazz and Calypso Lounge",
+      "type": "nightclub",
+      "phone": [
+        "758-7090",
+        "653-9725"
+      ],
+      "address": "110 Cipero Street (corner of Robertson Street)\nSan Fernando\n758-7090 (Tel1)\n653-9725 (Tel2)"
+    },
+    {
+      "name": "2J�s Pub and Diner",
+      "type": "nightclub",
+      "address": "40 Norfolk Street\nBelmont"
+    },
+    {
+      "name": "5 Element Club",
+      "type": "nightclub",
+      "phone": [
+        "754-4442"
+      ],
+      "address": "cor. Sorzano & Queen Streets\nArima\n754-4442 (Tel)"
+    },
+    {
+      "name": "51 Degrees",
+      "type": "nightclub",
+      "phone": [
+        "627-0051"
+      ],
+      "address": "51 Cipriani Boulevard (upstairs Tony Romas)\nPort of Spain\n627-0051 (Tel)"
+    },
+    {
+      "name": "6 Spot Lounge",
+      "type": "nightclub",
+      "address": "corner of Rushworth & Prince Albert Streets\nSan Fernando"
+    },
+    {
+      "name": "601 Lounge",
+      "type": "nightclub",
+      "address": "Rushworth and Prince Albert Streets\nSan Fernando"
+    },
+    {
+      "name": "Adrenaline Sports Bar & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "342-0642",
+        "746-6465"
+      ],
+      "address": "33 Ariapita Avenue\nPort of Spain\n342-0642 (Tel1)\n746-6465 (Tel2)"
+    },
+    {
+      "name": "Alchemy (formerly Strand Cinema)",
+      "type": "nightclub",
+      "address": "Dundonald Street\nPort of Spain"
+    },
+    {
+      "name": "All Out Sports Bar and Gourmet Grill",
+      "type": "nightclub",
+      "phone": [
+        "622-6730"
+      ],
+      "address": "1st Floor\nQueen's Park Oval\n94 Tragarete Road\nPort of Spain\n622-6730 (Tel)"
+    },
+    {
+      "name": "Anchorage",
+      "type": "nightclub",
+      "phone": [
+        "634-4334"
+      ],
+      "address": "Point Gourde Roadd\nChaguaramas\n634-4334 (Tel)"
+    },
+    {
+      "name": "Aria Lounge",
+      "type": "nightclub",
+      "phone": [
+        "225-1624"
+      ],
+      "address": "Ariapita Avenue (at Fitt Street)\nWoodbrook\n225-1624 (Tel)"
+    },
+    {
+      "name": "Ark",
+      "type": "nightclub",
+      "phone": [
+        "620-8970",
+        "646-0800"
+      ],
+      "address": "Long Circular\nPort of Spain\n620-8970 (Tel1)\n646-0800 (Tel2)"
+    },
+    {
+      "name": "Asylum Bar",
+      "type": "nightclub",
+      "address": "Duncan and Queen Streets\nPort of Spain"
+    },
+    {
+      "name": "Atherly's by the Park",
+      "type": "nightclub",
+      "phone": [
+        "652-7373"
+      ],
+      "address": "Sutton Street\nSan Fernando\n652-7373 (Tel)"
+    },
+    {
+      "name": "Aura Restaurant & Bar",
+      "type": "nightclub",
+      "address": "51 Cipriani Blvd\nPort of Spain\n627-AURA/2872 (Tel)"
+    },
+    {
+      "name": "Bamba 9.0 Star Lounge",
+      "type": "nightclub",
+      "phone": [
+        "305-0731"
+      ],
+      "address": "110 Eastern Main Road\nSt. Augustine\n305-0731 (Tel)"
+    },
+    {
+      "name": "Basement Pub",
+      "type": "nightclub",
+      "phone": [
+        "628-2705"
+      ],
+      "address": "Royal Palm Plaza\nSaddle Rd.\nMaraval\n628-2705 (Tel)"
+    },
+    {
+      "name": "Barracuda",
+      "type": "nightclub",
+      "address": "CrewsInn\nChaguaramas"
+    },
+    {
+      "name": "Bat & Ball English Pub",
+      "type": "nightclub",
+      "address": "Tragarete Road\nWoodbrook"
+    },
+    {
+      "name": "Bay View Restaurant and Lounge",
+      "type": "nightclub",
+      "email": [
+        "bayview.maracasbay@gmail.com"
+      ],
+      "extra_info": "email: Bay View Restaurant and Lounge",
+      "phone": [
+        "292-8701"
+      ],
+      "address": "North Coast Road\nMaracas Bay\n292-8701 (Tel)"
+    },
+    {
+      "name": "Beveca Sports Club Lounge",
+      "type": "nightclub",
+      "phone": [
+        "640-2551"
+      ],
+      "address": "3 Eastern Main Road\nTacarigua\n640-2551 (Tel)"
+    },
+    {
+      "name": "Big Apple Night Club",
+      "type": "nightclub",
+      "address": "Debe"
+    },
+    {
+      "name": "Bunty II",
+      "type": "nightclub",
+      "address": "Carenage"
+    },
+    {
+      "name": "Calypso Inn Beach Bar",
+      "type": "nightclub",
+      "phone": [
+        "680-0965"
+      ],
+      "address": "Calypso Road\nManzanilla Beach\n680-0965 (Tel)"
+    },
+    {
+      "name": "Canboulay Restaurant & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "653-2138"
+      ],
+      "address": "3 Sutton Street\nSan Fernando\n653-2138 (Tel)"
+    },
+    {
+      "name": "Caribbean Corner",
+      "type": "nightclub",
+      "address": "St. James"
+    },
+    {
+      "name": "Carnival Bar",
+      "type": "nightclub",
+      "phone": [
+        "624-3211"
+      ],
+      "address": "Trinidad Hilton\n624-3211 (Tel)"
+    },
+    {
+      "name": "Carnetta",
+      "type": "nightclub",
+      "phone": [
+        "628-2732"
+      ],
+      "address": "99 Saddle Road\nMaraval\n628-2732 (Tel)"
+    },
+    {
+      "name": "Carnival City Ultra Sports Lounge",
+      "type": "nightclub",
+      "phone": [
+        "223-1193"
+      ],
+      "address": "Upper level\nGulf City Shopping Complex\nLa Romaine\n223-1193 (Tel)"
+    },
+    {
+      "name": "Casa de la Ibiza",
+      "type": "nightclub",
+      "address": "Tragarete Road (just opposite the Queen's Park Oval)\nWoodbrook"
+    },
+    {
+      "name": "Cascade Club",
+      "type": "nightclub",
+      "phone": [
+        "624-1181"
+      ],
+      "address": "The Normandie\n10 Nook Ave.\nSt. Ann's\n624-1181 (Tel)"
+    },
+    {
+      "name": "CBS Bar & Lounge",
+      "type": "nightclub",
+      "address": "18 Rust Street\nSt. Clair, Port of Spain"
+    },
+    {
+      "name": "Celebs Night Club & Sports Cafe",
+      "type": "nightclub",
+      "phone": [
+        "652-7641"
+      ],
+      "address": "Gulf City\nLa Romaine\n652-7641 (Tel)"
+    },
+    {
+      "name": "CCN Towers",
+      "type": "nightclub",
+      "address": "Tent City"
+    },
+    {
+      "name": "Chaconia Inn",
+      "type": "nightclub",
+      "phone": [
+        "628-5086"
+      ],
+      "address": "106 Saddle Road\nMaraval\n628-5086 (Tel)"
+    },
+    {
+      "name": "Central Sports Bar & Lounge",
+      "type": "nightclub",
+      "address": "Southern Main Road\nCouva"
+    },
+    {
+      "name": "Circa Lounge",
+      "type": "nightclub",
+      "phone": [
+        "222-0081"
+      ],
+      "address": "One Woobrook\nPort of Spain\n222-0081 (Tel)"
+    },
+    {
+      "name": "City Limitz",
+      "type": "nightclub",
+      "phone": [
+        "310-0712"
+      ],
+      "address": "#2 Yard Street\nChaguanas\n310-0712 (Tel)"
+    },
+    {
+      "name": "Cloud 9 Casino",
+      "type": "nightclub",
+      "address": "SS Erin Road\nDebe"
+    },
+    {
+      "name": "Club 110",
+      "type": "nightclub",
+      "address": "Cipero Street\nSan Fernando"
+    },
+    {
+      "name": "Club Alegre",
+      "type": "nightclub",
+      "address": "Western Main Road\nSt James"
+    },
+    {
+      "name": "Club Belle Bagai",
+      "type": "nightclub",
+      "phone": [
+        "438-8651"
+      ],
+      "address": "Village Plaza\nPleasantville\n438-8651 (Tel)"
+    },
+    {
+      "name": "Club Bleu",
+      "type": "nightclub",
+      "address": "Library Corner\nSan Fernando"
+    },
+    {
+      "name": "Club Casanovas",
+      "type": "nightclub",
+      "phone": [
+        "662-1253"
+      ],
+      "address": "10 Macoya Road.\nTunapuna\n662-1253 (Tel)"
+    },
+    {
+      "name": "Club Coconuts",
+      "type": "nightclub",
+      "address": "Cascadia Hotel\nSt. Ann's\n623-NUTS/6887 (Tel)"
+    },
+    {
+      "name": "Club Deja Vous",
+      "type": "nightclub",
+      "address": "Mulchan Seuchan Road\nChaguanas"
+    },
+    {
+      "name": "Club Epic",
+      "type": "nightclub",
+      "address": "Arima"
+    },
+    {
+      "name": "Club Glamor",
+      "type": "nightclub",
+      "address": "48 Western Main Road\nSt. James"
+    },
+    {
+      "name": "Club India",
+      "type": "nightclub",
+      "phone": [
+        "462-2937",
+        "742-0262",
+        "710-4061"
+      ],
+      "address": "30 Chaguanas Main Road\nChaguanas\n462-2937 (Christopher)\n742-0262 (Jenny)\n710-4061 (Raj)"
+    },
+    {
+      "name": "Club Kolumbo",
+      "type": "nightclub",
+      "phone": [
+        "653-7684"
+      ],
+      "address": "36 Sutton Street\nSan Fernando\n653-7684 (Tel)"
+    },
+    {
+      "name": "Club Liquid",
+      "type": "nightclub",
+      "address": "Long Circular Road\nSt. James"
+    },
+    {
+      "name": "Club Princess",
+      "type": "nightclub",
+      "address": "Independence Square\nPort of Spain"
+    },
+    {
+      "name": "Club Onyx",
+      "type": "nightclub",
+      "address": "R and M Plaza\nHigh Street\nSan Fernando"
+    },
+    {
+      "name": "Club Pure Energy",
+      "type": "nightclub",
+      "address": "Eastern Main Road\nTunapuna"
+    },
+    {
+      "name": "Club Senses",
+      "type": "nightclub",
+      "address": "Royal Palm Suites Hotel\nSaddle Road\nMaraval"
+    },
+    {
+      "name": "Club Unique",
+      "type": "nightclub",
+      "phone": [
+        "748-3533"
+      ],
+      "address": "Santa FLora\n748-3533 (Tel)"
+    },
+    {
+      "name": "Club Zen",
+      "type": "nightclub",
+      "address": "Keate Street\nPort of Spain"
+    },
+    {
+      "name": "Copa Cabana Night Club",
+      "type": "nightclub",
+      "address": "Dundonald Street\nPort of Spain"
+    },
+    {
+      "name": "Cordials",
+      "type": "nightclub",
+      "phone": [
+        "628-8627"
+      ],
+      "address": "72 Tragarete Road\nNewtown\n628-8627 (Tel)"
+    },
+    {
+      "name": "Crobar",
+      "type": "nightclub",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "D' Avenue Sports Bar & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "688-8352"
+      ],
+      "address": "Ariapita Avenue & Luis Avenue\nWoodbrook\n688-8352 (Tel)"
+    },
+    {
+      "name": "D Bocas",
+      "type": "nightclub",
+      "phone": [
+        "627-3474"
+      ],
+      "address": "15 Chacon Street\nPort of Spain\n627-3474 (Tel)"
+    },
+    {
+      "name": "D Club",
+      "type": "nightclub",
+      "address": "Chaguaramas"
+    },
+    {
+      "name": "De Nu Pub",
+      "type": "nightclub",
+      "phone": [
+        "627-4042"
+      ],
+      "address": "corner: Ariapita Avenue & French Street\nWoodbrook\n627-4042 (Tel)"
+    },
+    {
+      "name": "Drink Lounge & Bistro",
+      "type": "nightclub",
+      "phone": [
+        "223-7243"
+      ],
+      "address": "63 Rosalino Street\nWoodbrook\n223-7243 (Tel)"
+    },
+    {
+      "name": "Driftwood Pub",
+      "type": "nightclub",
+      "address": "St Joseph Village\nSan Fernando"
+    },
+    {
+      "name": "Drink Wine Bar",
+      "type": "nightclub",
+      "phone": [
+        "622-2895"
+      ],
+      "address": "63 Rosalino Street\nWoodbrook\n622-2895 (Tel)"
+    },
+    {
+      "name": "Eggys",
+      "type": "nightclub",
+      "address": "Cipriani Street\nMorvant"
+    },
+    {
+      "name": "Euphoria Lounge",
+      "type": "nightclub",
+      "phone": [
+        "361-5705"
+      ],
+      "address": "58 Dundonald Street\nPort of Spain\n361-5705 (Tel)"
+    },
+    {
+      "name": "Flambeau Bar",
+      "type": "nightclub",
+      "address": "Fyzabad"
+    },
+    {
+      "name": "Gallery Pub",
+      "type": "nightclub",
+      "phone": [
+        "657-0189"
+      ],
+      "address": "Gulf City\nLa Romain\n657-0189 (Tel)"
+    },
+    {
+      "name": "Game Time Sports Bar",
+      "type": "nightclub",
+      "phone": [
+        "225-2271"
+      ],
+      "address": "10 Ariapita Avenue\nWoodbrook\n225-2271 (Tel)"
+    },
+    {
+      "name": "Gazebo Bar",
+      "type": "nightclub",
+      "phone": [
+        "624-3211"
+      ],
+      "address": "Trinidad Hilton\n624-3211 (Tel)"
+    },
+    {
+      "name": "Groove Nightclub",
+      "type": "nightclub",
+      "extra_info": "(formerly Sachells)",
+      "phone": [
+        "346-0453"
+      ],
+      "address": "137 Lambie Street\nVistabella, San Fernando\n346-0453 (Tel)"
+    },
+    {
+      "name": "Hawaii Nightclub",
+      "type": "nightclub",
+      "address": "Agnes Street\nMarabella"
+    },
+    {
+      "name": "HI-RPM Bar & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "652-3760"
+      ],
+      "address": "Gulf City\nLa Romain\n652-3760 (Tel)"
+    },
+    {
+      "name": "High Sierra Nightclub",
+      "type": "nightclub",
+      "address": "corner of Penitence and Chacon Streets\nSan Fernando"
+    },
+    {
+      "name": "Himalaya Club",
+      "type": "nightclub",
+      "phone": [
+        "638-4023"
+      ],
+      "address": "#3 Upper 3rd Avnue\nBarataria\n638-4023 (Tel)"
+    },
+    {
+      "name": "Ibiza Night Club & Rooftop Lounge",
+      "type": "nightclub",
+      "phone": [
+        "305-0340"
+      ],
+      "address": "33 Carlos Street\nPort of Spain\n305-0340"
+    },
+    {
+      "name": "Ice Club",
+      "type": "nightclub",
+      "phone": [
+        "646-5575"
+      ],
+      "address": "Independence Square (above Royal Castle)\nPort of Spain\n646-5575 (Tel)"
+    },
+    {
+      "name": "Island Club",
+      "type": "nightclub",
+      "phone": [
+        "645-3333"
+      ],
+      "address": "Grand Bazaar\n645-3333 (Tel)"
+    },
+    {
+      "name": "J. Malone's Irish Pub and Restaurant",
+      "type": "nightclub",
+      "phone": [
+        "624-9828"
+      ],
+      "address": "MovieTowne Entertainment & Shopping Complex\nLot D, MovieTowne Boulevard\nAudrey Jeffers Highway\nPort of Spain\n624-9828 (Tel)"
+    },
+    {
+      "name": "Jenny's on the Boulevard",
+      "type": "nightclub",
+      "phone": [
+        "625-1807"
+      ],
+      "address": "6 Ciprani Blvd.\n625-1807 (Tel)"
+    },
+    {
+      "name": "Kaiso Blues Caf�",
+      "type": "nightclub",
+      "address": "85 Woodford Street\nNewtown"
+    },
+    {
+      "name": "Kokopelli Sports Bar",
+      "type": "nightclub",
+      "phone": [
+        "461-2368",
+        "390-6955"
+      ],
+      "address": "#249 Southern Main Road\nCunupia\n461-2368 (Tel1)\n390-6955 (Tel2)"
+    },
+    {
+      "name": "La Fantasie",
+      "type": "nightclub",
+      "phone": [
+        "624-1181"
+      ],
+      "address": "The Normandie\nNook Ave.\nSt. Ann's\n624-1181 (Tel)"
+    },
+    {
+      "name": "LaRumba",
+      "type": "nightclub",
+      "address": "7a Long Circular Road\nSt James"
+    },
+    {
+      "name": "Lazy Lizard Restaurant and Bar",
+      "type": "nightclub",
+      "phone": [
+        "305-8843"
+      ],
+      "address": "4 Rodney Road\nEndeavour, Chaguanas\n305-8843 (Tel)"
+    },
+    {
+      "name": "LIV Nightlife",
+      "type": "nightclub",
+      "phone": [
+        "653-9129"
+      ],
+      "address": "South Trunk Road\nGulf View, La Romaine\n653-9129 (Tel)"
+    },
+    {
+      "name": "Livin' Room",
+      "type": "nightclub",
+      "phone": [
+        "664-0303"
+      ],
+      "address": "Sorzano Street\nArima\n664-0303 (Tel)"
+    },
+    {
+      "name": "Liquid Nightclub",
+      "type": "nightclub",
+      "phone": [
+        "675-4426"
+      ],
+      "address": "Barataria\n675-4426 (Tel)"
+    },
+    {
+      "name": "Ma Pau Members Club",
+      "type": "nightclub",
+      "phone": [
+        "624-3331"
+      ],
+      "address": "French Street & Ariapita Ave.\nWoodbrook\n624-3331 (Tel)"
+    },
+    {
+      "name": "Mangoes Restaurant and Bar",
+      "type": "nightclub",
+      "phone": [
+        "626-2646"
+      ],
+      "address": "64 Independence Square\nPort of Spain\n62-MANGO/626-2646 (Tel)"
+    },
+    {
+      "name": "Martinique Hang Out",
+      "type": "nightclub",
+      "address": "Union Road\nMarabella"
+    },
+    {
+      "name": "Mickel�s Restaurant and Bar",
+      "type": "nightclub",
+      "phone": [
+        "495-1098"
+      ],
+      "address": "173 Cipero Road\nSan Fernando\n495-1098 (Tel)"
+    },
+    {
+      "name": "Mix Moods",
+      "type": "nightclub",
+      "address": "Prince of Wales Street\nSouth Trinidad"
+    },
+    {
+      "name": "Monarchs on D Woodford",
+      "type": "nightclub",
+      "extra_info": "(Monarchs Restaurant & Bar)",
+      "phone": [
+        "771-5617"
+      ],
+      "address": "#85 Woodford Street\nPort of Spain\n771-5617"
+    },
+    {
+      "name": "Moon over Bourbon Street",
+      "type": "nightclub",
+      "phone": [
+        "637-3448"
+      ],
+      "address": "Southern Landing\nWest Mall\nWestmoorings\n637-3448 (Tel)"
+    },
+    {
+      "name": "Moonlighting Pub",
+      "type": "nightclub",
+      "address": "Eastern Main Road\nTunapuna"
+    },
+    {
+      "name": "More Vino",
+      "type": "nightclub",
+      "phone": [
+        "622-8466"
+      ],
+      "address": "23 O'Connor Street\nWoodbrook\n622-8466 (Tel)"
+    },
+    {
+      "name": "Mr Q's Place",
+      "type": "nightclub",
+      "phone": [
+        "748-4575"
+      ],
+      "address": "1D Wrightson Road (behind SWWTU Hall)\nPort of Spain\n748-4575 (Tel)"
+    },
+    {
+      "name": "Mystic Nightclub",
+      "type": "nightclub",
+      "address": "Mulchan Sieuchand Road\nChaguanas"
+    },
+    {
+      "name": "Nex' Door Pub",
+      "type": "nightclub",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Nica's Nightclub",
+      "type": "nightclub",
+      "address": "Libertville\nRio Claro"
+    },
+    {
+      "name": "Nice Place Restaurant and Bar",
+      "type": "nightclub",
+      "phone": [
+        "222-7863"
+      ],
+      "address": "Cor. Lime Head and Perseverance Road\nChase Village, Chaguanas\n222-7863 (Tel)"
+    },
+    {
+      "name": "Nu Element Sports Bar & Night Club",
+      "type": "nightclub",
+      "address": "corner Queen & Sozano Street\nArima"
+    },
+    {
+      "name": "Paprika Restaurant & Bar",
+      "type": "nightclub",
+      "phone": [
+        "622-5930"
+      ],
+      "address": "201 Western Main Road\nCocorite\n622-5930 (Tel)"
+    },
+    {
+      "name": "Pier 1",
+      "type": "nightclub",
+      "phone": [
+        "634-4472"
+      ],
+      "address": "Western Main Road\nChagaramas\n634-4472 (Tel)"
+    },
+    {
+      "name": "Philip and Fraser's",
+      "type": "nightclub",
+      "phone": [
+        "623-7632"
+      ],
+      "address": "16 Phillips Street\nPort of Spain\n623-7632 (Tel)"
+    },
+    {
+      "name": "Potionz Loung",
+      "type": "nightclub",
+      "phone": [
+        "221-6489",
+        "339-5934"
+      ],
+      "address": "Churchill Roosevelt Highway\nPiarco\n221-6489 (Tel)\n339-5934 (Cell)"
+    },
+    {
+      "name": "Prestige Nightclub",
+      "type": "nightclub",
+      "address": "153 Aranjuez Main Road\nAranjuez"
+    },
+    {
+      "name": "Princess Club",
+      "type": "nightclub",
+      "address": "Independence Square\nPort of Spain"
+    },
+    {
+      "name": "Prive Club and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "652-4360"
+      ],
+      "address": "23 South Trunk Road\nLa Romain\n652-4360 (Tel)"
+    },
+    {
+      "name": "Pub Illusions",
+      "type": "nightclub",
+      "address": "Mayaro"
+    },
+    {
+      "name": "Qutie�s Restaurant and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "788-4372"
+      ],
+      "address": "One Woodbrook Place\nWoodbrook, Port of Spain\n788-4372 (Tel)"
+    },
+    {
+      "name": "Rafters",
+      "type": "nightclub",
+      "phone": [
+        "628-9258"
+      ],
+      "address": "6 Warner Street\nNewtown\nPort of Spain\n628-9258 (Tel)"
+    },
+    {
+      "name": "Ragoo's",
+      "type": "nightclub",
+      "phone": [
+        "628-0402"
+      ],
+      "address": "48A Aripita Avenue\nWoodbrook\n628-0402 (Tel)"
+    },
+    {
+      "name": "Republik Lounge",
+      "type": "nightclub",
+      "phone": [
+        "324-2307"
+      ],
+      "address": "34 Sutton Street\nSan Fernando\n324-2307 (Tel)"
+    },
+    {
+      "name": "Rogue",
+      "type": "nightclub",
+      "phone": [
+        "622-5350"
+      ],
+      "address": "1 Ariapita Avenue\nWoodbrook\n622-5350 (Tel)"
+    },
+    {
+      "name": "Roslyn Hall and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "221-3345"
+      ],
+      "address": "31-33 Auzonville Road\nTunapuna\n221-3345 (Tel)"
+    },
+    {
+      "name": "Royal Palm Suite Hotel",
+      "type": "nightclub",
+      "phone": [
+        "628-5086"
+      ],
+      "address": "7 Saddle Rd.\nMaraval\n628-5086 (Tel)"
+    },
+    {
+      "name": "Rumba Latina Restaurant & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "236-1859"
+      ],
+      "address": "#92 Ramsaran Street\nChaguanas\n236-1859 (Tel)"
+    },
+    {
+      "name": "Sabor Latina",
+      "type": "nightclub",
+      "address": "Shoppes of Maraval\nSaddle Road\nMaraval"
+    },
+    {
+      "name": "Sabor Latino",
+      "type": "nightclub",
+      "phone": [
+        "622-8123"
+      ],
+      "address": "Shoppes of Maraval\nSaddle Road\nMaraval\n622-8123 (Tel)"
+    },
+    {
+      "name": "Satchmo�s Restaurant and Jazz Lounge",
+      "type": "nightclub",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Screamers 1",
+      "type": "nightclub",
+      "phone": [
+        "677-4803"
+      ],
+      "address": "Fyzabad\n677-4803 (Tel)"
+    },
+    {
+      "name": "Screamers 2",
+      "type": "nightclub",
+      "phone": [
+        "657-2445"
+      ],
+      "address": "Gullfview\n657-2445 (Tel)"
+    },
+    {
+      "name": "Sensational Sammy's Restobar",
+      "type": "nightclub",
+      "extra_info": "(Sensational Sammy Seafood Plus Restaurant & Bar)",
+      "phone": [
+        "265-1172"
+      ],
+      "address": "20 St. Joseph Street\nArima\n265-1172 (Tel)"
+    },
+    {
+      "name": "Siam Nightlife",
+      "type": "nightclub",
+      "phone": [
+        "782-7406"
+      ],
+      "address": "13 Queens Park East\nPort of Spain\n782-7406 (Tel)"
+    },
+    {
+      "name": "Sky Bar Lounge",
+      "type": "nightclub",
+      "phone": [
+        "628-9717"
+      ],
+      "address": "46 Ariapita Avenue\nWoodbrook (opposite Republic Bank)\n628-9717 (Tel)"
+    },
+    {
+      "name": "Skyy View Night Club Lounge",
+      "type": "nightclub",
+      "phone": [
+        "678-7415",
+        "680-0937"
+      ],
+      "address": "Lady Hailes Avenue\nSan Fernando\n678-7415 (Tel1)\n680-0937 (Tel2)"
+    },
+    {
+      "name": "Space La Nouba",
+      "type": "nightclub",
+      "address": "Maska compound\nSouth Trunk Road\nGulf View, La Romain"
+    },
+    {
+      "name": "Squeeze Pub",
+      "type": "nightclub",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Smokeys & Bunty",
+      "type": "nightclub",
+      "address": "Ariapata Avenue\nWoodbrook"
+    },
+    {
+      "name": "Spots Entertainment",
+      "type": "nightclub",
+      "phone": [
+        "798-7241"
+      ],
+      "address": "Malabar Road\nArima\n798-7241 (Tel)"
+    },
+    {
+      "name": "Stag Atlantis Fridays, at Lair Experience",
+      "type": "nightclub",
+      "address": "Third Avenue\nBarataria"
+    },
+    {
+      "name": "Steel Restaurant & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "242-3651"
+      ],
+      "address": "South Park Mall\nMichael Rahael Boulevard, (Off Tarouba Link Road)Tarouba, San Fernando\n242-3651 (Tel)"
+    },
+    {
+      "name": "Sting Nightclub",
+      "type": "nightclub",
+      "phone": [
+        "657-2385"
+      ],
+      "address": "opp. of Gulf City Shopping Mall\nGulf View, La Romaine\n657-2385 (Tel)"
+    },
+    {
+      "name": "T's Bar & Lounge",
+      "type": "nightclub",
+      "address": "Savonetta Junction\nCalifornia"
+    },
+    {
+      "name": "Tage Resturant Bar & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "644-1043"
+      ],
+      "address": "Naparima Mayoaro Road\nLibertville-Poole Village, Rio Claro\n644-1043 (Tel)"
+    },
+    {
+      "name": "The Avenue Pub House",
+      "type": "nightclub",
+      "phone": [
+        "221-4422"
+      ],
+      "address": "#73 Arapita Ave\nWoodbrook\n221-4422 (Tel)"
+    },
+    {
+      "name": "The Base Night Club",
+      "type": "nightclub",
+      "address": "Chaguaramas"
+    },
+    {
+      "name": "The Bat and Ball Pub",
+      "type": "nightclub",
+      "address": "Queen Park Oval\nTragrete Road\nPort of Spain"
+    },
+    {
+      "name": "The Calypso Lounge",
+      "type": "nightclub",
+      "phone": [
+        "624-3211"
+      ],
+      "address": "Trinidad Hilton\n624-3211 (Tel)"
+    },
+    {
+      "name": "The Checkered Flag",
+      "type": "nightclub",
+      "address": "Cipero Street (Cross Crossing)\nSan Fernando"
+    },
+    {
+      "name": "The Club",
+      "type": "nightclub",
+      "address": "Gulf City\nLa Romain\n652-CLUB/2582 (Tel)"
+    },
+    {
+      "name": "The Fifth Element Club",
+      "type": "nightclub",
+      "phone": [
+        "754-4442"
+      ],
+      "address": "cor. of Queen and Sorzano Streets\nArima\n754-4442 (Tel)"
+    },
+    {
+      "name": "The Flamingo Penthouse",
+      "type": "nightclub",
+      "phone": [
+        "663-2251"
+      ],
+      "address": "Eastern Main Road\nSt. Augustine\n663-2251 (Tel)"
+    },
+    {
+      "name": "The Hive TT Sports Bar and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "770-4867"
+      ],
+      "address": "#614 Eastern Main Road (Next to JChai hardware)\nArima\n770-4867 (Tel)"
+    },
+    {
+      "name": "The Lair",
+      "type": "nightclub",
+      "address": "Long Circular Road\nSt. James"
+    },
+    {
+      "name": "The Lair Experience Discotheque",
+      "type": "nightclub",
+      "address": "Prizgar Road & Third Avenue Extension North\nSan Juan"
+    },
+    {
+      "name": "The Living Room Night Club",
+      "type": "nightclub",
+      "address": "Arima"
+    },
+    {
+      "name": "The Lobby Bar",
+      "type": "nightclub",
+      "phone": [
+        "624-3211"
+      ],
+      "address": "Trinidad Hilton\n624-3211 (Tel)"
+    },
+    {
+      "name": "The Lure",
+      "type": "nightclub",
+      "address": "Sweet Water Marina\nChaguaramas"
+    },
+    {
+      "name": "The Oasis",
+      "type": "nightclub",
+      "address": "101 Circular Road\nSan Fernando"
+    },
+    {
+      "name": "The Parrot",
+      "type": "nightclub",
+      "phone": [
+        "662-5631"
+      ],
+      "address": "Valpark Plaza\nValsayn\n662-5631 (Tel)"
+    },
+    {
+      "name": "The Pelican Inn",
+      "type": "nightclub",
+      "phone": [
+        "624-7486"
+      ],
+      "address": "Coblentz Ave.\nCascade\n624-7486 (Tel)"
+    },
+    {
+      "name": "The Rig Restaurant & Lounge",
+      "type": "nightclub",
+      "phone": [
+        "653-9129"
+      ],
+      "address": "South Trunk Road\nLa Romaine\n653-9129 (Tel)"
+    },
+    {
+      "name": "The Rise Grill and Bar Restaurant",
+      "type": "nightclub",
+      "phone": [
+        "665-5627",
+        "333-2979",
+        "681-5429"
+      ],
+      "address": "Rodney Road\nEndeavour\n665-5627 (Tel1)\n333-2979 (Tel2)\n681-5429 (Tel3)"
+    },
+    {
+      "name": "The Rooftop Terrace",
+      "type": "nightclub",
+      "phone": [
+        "334-6923"
+      ],
+      "address": "Ramdhan Complex\nSonny Ladoo Trace\nMcBean, Couva\n334-6923 (Tel)"
+    },
+    {
+      "name": "The Silhouettes Lounge and Night Clubt",
+      "type": "nightclub",
+      "phone": [
+        "221-6918"
+      ],
+      "address": "Valpark Shopping Plaza\nValsayn\n221-6918 (Tel)"
+    },
+    {
+      "name": "The Tunnel",
+      "type": "nightclub",
+      "phone": [
+        "671-4819"
+      ],
+      "address": "Chaguanas\n671-4819 (Tel)"
+    },
+    {
+      "name": "TJ by the Sea",
+      "type": "nightclub",
+      "phone": [
+        "657-9278"
+      ],
+      "address": "South Trunk Road\nSan Fernando\n657-9278 (Tel)"
+    },
+    {
+      "name": "Trevor's Edge",
+      "type": "nightclub",
+      "phone": [
+        "645-3131"
+      ],
+      "address": "1 St John's Road\nSt Augustine\n645-3131 (Tel)"
+    },
+    {
+      "name": "Touch \"N\" Taste Restaurant and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "636-1912"
+      ],
+      "address": "8 West Boundary Street\nCalifornia, Couva\n636-1912 (Tel)"
+    },
+    {
+      "name": "Trotters",
+      "type": "nightclub",
+      "phone": [
+        "627-8768"
+      ],
+      "address": "cor. Maraval and Sweet Briar Roads\nSt. Clair\n627-8768 (Tel)"
+    },
+    {
+      "name": "Une Cachette",
+      "type": "nightclub",
+      "phone": [
+        "637-5954"
+      ],
+      "address": "Aqua View Terrace\nDhiens Bay\nCarenage\n637-5954 (Tel)"
+    },
+    {
+      "name": "Upper Level Club",
+      "type": "nightclub",
+      "phone": [
+        "637-1753"
+      ],
+      "address": "West Mall\nWestmoorings\n637-1753 (Tel)"
+    },
+    {
+      "name": "VAS Lounge",
+      "type": "nightclub",
+      "phone": [
+        "235-3224"
+      ],
+      "address": "16, Rust Street\nPort of Spain\n235-3224 (Tel)"
+    },
+    {
+      "name": "Veni Mang�",
+      "type": "nightclub",
+      "address": "67A Ariapita Avenue\nPort of Spain\n624�4597 (Tel)"
+    },
+    {
+      "name": "Villa Creole",
+      "type": "nightclub",
+      "phone": [
+        "628-2209"
+      ],
+      "address": "45 Baden-Powell St.\nWoodbrook\n628-2209 (Tel)"
+    },
+    {
+      "name": "Wave",
+      "type": "nightclub",
+      "address": "Royal Palm Suites Hotel\nSaddle Road\nMaraval"
+    },
+    {
+      "name": "We Village",
+      "type": "nightclub",
+      "address": "St Joseph Road\nArima"
+    },
+    {
+      "name": "Whiskey Business Restaurant and Loungeb",
+      "type": "nightclub",
+      "phone": [
+        "685-8969"
+      ],
+      "address": "Tulsa Trace\nPenal\n685-8969 (Tel)"
+    },
+    {
+      "name": "Whispers",
+      "type": "nightclub",
+      "phone": [
+        "622-7219"
+      ],
+      "address": "3 Bengal St.\nSt. James\n622-7219 (Tel)"
+    },
+    {
+      "name": "Yihai Entertainment and Sports Bar",
+      "type": "nightclub",
+      "phone": [
+        "395-3758"
+      ],
+      "address": "Southern Main Road\nCunupia\n395-3758 (Tel)"
+    },
+    {
+      "name": "Bar Code",
+      "type": "nightclub",
+      "address": "Milford Road\nScarborough"
+    },
+    {
+      "name": "Bonkers",
+      "type": "nightclub",
+      "phone": [
+        "639-7173"
+      ],
+      "address": "Store Bay Local Road\nCrown Point\n639-7173 (Tel)"
+    },
+    {
+      "name": "Blue Crab Restaurant",
+      "type": "nightclub",
+      "phone": [
+        "639-2737"
+      ],
+      "address": "Robinson Street\nScarborough\n639-2737 (Tel)"
+    },
+    {
+      "name": "Cabin Pub",
+      "type": "nightclub",
+      "phone": [
+        "639-3196"
+      ],
+      "address": "Carrington St.\nScarborough\n639-3196 (Tel)"
+    },
+    {
+      "name": "Club Nutts (The Shade Night Club)",
+      "type": "nightclub",
+      "phone": [
+        "741-3792"
+      ],
+      "address": "Store Bay Branch Road\nBon Accord\n741-3792 (Tel)"
+    },
+    {
+      "name": "Copra Tray",
+      "type": "nightclub",
+      "phone": [
+        "639-8493"
+      ],
+      "address": "Store Bay Local Road\nBon Accord\n639-8493 (Tel)"
+    },
+    {
+      "name": "Cruz Cocktail Bar and Bristro",
+      "type": "nightclub",
+      "address": "Bon Accord\nTobago"
+    },
+    {
+      "name": "Crystal Palace",
+      "type": "nightclub",
+      "phone": [
+        "639-5565"
+      ],
+      "address": "Milford & Mt. Marie Road\n639-5565 (Tel)"
+    },
+    {
+      "name": "Diver's Den Bar & Grill",
+      "type": "nightclub",
+      "phone": [
+        "639-8533"
+      ],
+      "address": "cor. Mt. Pleasant Road & Robert Street\nCrown Point\nTobago\n639-8533 (Tel)"
+    },
+    {
+      "name": "Docksite",
+      "type": "nightclub",
+      "address": "Milford Road\nLower Scarborough"
+    },
+    {
+      "name": "Fairways Restaurant & Golf Lounge",
+      "type": "nightclub",
+      "phone": [
+        "660-4411",
+        "340-4913"
+      ],
+      "address": "Club House Tobago Plantations\nLowlands"
+    },
+    {
+      "name": "Flamboyant Restaurant & Bar",
+      "type": "nightclub",
+      "phone": [
+        "639-8793"
+      ],
+      "address": "Bon Accord\n639-8793 (Tel)"
+    },
+    {
+      "name": "Grafton Beach Resort",
+      "type": "nightclub",
+      "phone": [
+        "639-0191"
+      ],
+      "address": "Black Rock\n639-0191 (Tel)"
+    },
+    {
+      "name": "Howdy Dan's Restaurant & Bar",
+      "type": "nightclub",
+      "email": [
+        "howdydansrestandbar@yahoo.com"
+      ],
+      "extra_info": "email: Howdy Dan's Restaurant & Bar",
+      "phone": [
+        "285-9125"
+      ],
+      "address": "corner Dutch & Milford Roads\nScarborough\n285-9125 (Tel)"
+    },
+    {
+      "name": "Jade Monkey Casino Bar & Grill",
+      "type": "nightclub",
+      "phone": [
+        "631-0044"
+      ],
+      "address": "Milford Road\nCrown Point\n631-0044 (Tel)"
+    },
+    {
+      "name": "Kariwak Village Hotel",
+      "type": "nightclub",
+      "phone": [
+        "639-8442"
+      ],
+      "address": "Store Bay Local Rd\nCrown Pont\n639-8442 (Tel)"
+    },
+    {
+      "name": "Le Grand Courlan Resort & Spa",
+      "type": "nightclub",
+      "phone": [
+        "639-9667"
+      ],
+      "address": "Black Rock\n639-9667 (Tel)"
+    },
+    {
+      "name": "Les Flambeaux",
+      "type": "nightclub",
+      "phone": [
+        "639-4347"
+      ],
+      "address": "Palm Tree Village Resort\nLambeau\n639-4347 (Tel)"
+    },
+    {
+      "name": "Mid-Point Bar",
+      "type": "nightclub",
+      "address": "Canaan"
+    },
+    {
+      "name": "Moon Over Water Sports Bar and Lounge",
+      "type": "nightclub",
+      "phone": [
+        "709-9698"
+      ],
+      "address": "Pleasant Prospect\nBlack Rock\n709-9698 (Tel)"
+    },
+    {
+      "name": "Mount Irvine Bay Hotel",
+      "type": "nightclub",
+      "phone": [
+        "639-8871"
+      ],
+      "address": "Mt. Irvine\n639-8871 (Tel)"
+    },
+    {
+      "name": "Palm Tree Village",
+      "type": "nightclub",
+      "phone": [
+        "639-4347"
+      ],
+      "address": "Little Rockley Bay\nLambeau\n639-4347 (Tel)"
+    },
+    {
+      "name": "Patino�s Restaurant & Bar",
+      "type": "nightclub",
+      "phone": [
+        "639-9481"
+      ],
+      "address": "Shirvan Road\nBuccoo\n639-9481 (Tel)"
+    },
+    {
+      "name": "Phillies Pub",
+      "type": "nightclub",
+      "phone": [
+        "639-4348"
+      ],
+      "address": "Little Rockley Bay\nMilford Road\n639-4348 (Tel)"
+    },
+    {
+      "name": "Rouselle's",
+      "type": "nightclub",
+      "phone": [
+        "639-4738"
+      ],
+      "address": "Bacolet St.\nScarborough\n639-4738 (Tel)"
+    },
+    {
+      "name": "Safari",
+      "type": "nightclub",
+      "address": "opposite Republic Bank,\nUptown Scarborough"
+    },
+    {
+      "name": "Seahorse InnOld Grafton Road",
+      "type": "nightclub",
+      "extra_info": "Black Rock\n639-0686 (Tel)\nShipwreck Bar",
+      "phone": [
+        "639-4341"
+      ],
+      "address": "Blue Waters Inn\nSpeyside\n639-4341 (Tel)"
+    },
+    {
+      "name": "Starting Gate Pub",
+      "type": "nightclub",
+      "phone": [
+        "639-0225"
+      ],
+      "address": "Old Race Course\nShirvan Rd\nCanaan\n639-0225 (Tel)"
+    },
+    {
+      "name": "Surf Bar",
+      "type": "nightclub",
+      "phone": [
+        "639-2851"
+      ],
+      "address": "Rex Turtle Beach Hotel\nCourland Bay\n639-2851 (Tel)"
+    },
+    {
+      "name": "The Deep Disco",
+      "type": "nightclub",
+      "extra_info": "Crown Point\nThe Flambeaux",
+      "address": "Milford Road\nScarborough"
+    },
+    {
+      "name": "The Gardens",
+      "type": "nightclub",
+      "address": "Shirvan Road\nMount Pleasant"
+    },
+    {
+      "name": "The Lacatan",
+      "type": "nightclub",
+      "phone": [
+        "639-2731"
+      ],
+      "address": "Blue Crab Restaurant\nRobinson Street\nScarborough\n639-2731 (Tel)"
+    },
+    {
+      "name": "The Lyrical Lounge",
+      "type": "nightclub",
+      "address": "Pleasant Prospect"
+    },
+    {
+      "name": "Tino's Entertainment Centre",
+      "type": "nightclub",
+      "address": "Wilson Road\nScarborough"
+    },
+    {
+      "name": "Villas Garden",
+      "type": "nightclub",
+      "address": "Fort Street\nScarborough"
+    },
+    {
+      "name": "Y2K Pub",
+      "type": "nightclub",
+      "address": "Wilson Road\nScarborough"
+    }
+  ]
+}

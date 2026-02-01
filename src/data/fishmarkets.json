@@ -1,0 +1,224 @@
+{
+  "source": "http://tntisland.com/fishmarkets.html",
+  "page_title": "Trinidad & Tobago Fish Markets",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "B & S Fishing",
+      "type": "fish_market",
+      "phone": [
+        "681-2404"
+      ],
+      "address": "Carapichaima\n681-2404"
+    },
+    {
+      "name": "Barana Seafood Processors Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Retail Market)",
+      "phone": [
+        "625-2597"
+      ],
+      "address": "Production Avenue\nSealots, Port of Spain\n625-2597 (Tel)"
+    },
+    {
+      "name": "Belle Garden Fish Market",
+      "type": "fish_market",
+      "address": "Bell Garden, Tobago"
+    },
+    {
+      "name": "Big Yard Fish Market",
+      "type": "fish_market",
+      "address": "Port of Spain"
+    },
+    {
+      "name": "Carenage Fishing Centre",
+      "type": "fish_market",
+      "address": "Western Maind Road\nCaranage"
+    },
+    {
+      "name": "Continental Handlers Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "632-3715"
+      ],
+      "address": "25A Ciboney Towers\nWestmoorings Southeast\n632-3715 (Tel)"
+    },
+    {
+      "name": "#157 Southern Main Road",
+      "type": "fish_market",
+      "extra_info": "Marabella\n222-5911 (Tel)\nDockside Seafoods (Trinidad) Ltd.\n(Retail Market)",
+      "phone": [
+        "648-4507"
+      ],
+      "address": "3 Bonasse Village\nPoint Fortin\n648-4507 (Tel)"
+    },
+    {
+      "name": "Emily Seafood International Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "627-8227"
+      ],
+      "address": "National Fisheries Compound\nSea Lots, Port of Spain\n627-8227 (Tel)"
+    },
+    {
+      "name": "Exports Etcetera Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "626-2448"
+      ],
+      "address": "1 Fernandes Industrial Centre\nPort of Spain\n626-2448"
+    },
+    {
+      "name": "Grande Ice & Fish Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "668-4165"
+      ],
+      "address": "5 Paul Street\nSangre Grand\n668-4165 (Tel)"
+    },
+    {
+      "name": "Jacob Fishing Enterprises Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "639-7171"
+      ],
+      "address": "Bon Accord Estate\nBon Accord, Tobago\n639-7171 (Tel)"
+    },
+    {
+      "name": "James David",
+      "type": "fish_market",
+      "extra_info": "(Retail Market)",
+      "phone": [
+        "627-7002"
+      ],
+      "address": "Production Avenue\nSealots, Port of Spain\n627-7002 (Tel)"
+    },
+    {
+      "name": "Macoya Market",
+      "type": "fish_market",
+      "phone": [
+        "645-9073"
+      ],
+      "address": "Tunapuna\n645-9073 (Tel)"
+    },
+    {
+      "name": "Meyer Henry",
+      "type": "fish_market",
+      "extra_info": "(Retail Market)",
+      "phone": [
+        "627-7062"
+      ],
+      "address": "Production Avenue\nSealots, Port of Spain\n627-7062 (Tel)"
+    },
+    {
+      "name": "Namdevco Farmers Market",
+      "type": "fish_market",
+      "address": "Port of Spain"
+    },
+    {
+      "name": "National Fisheries Co Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Retail/Wholesale Market)",
+      "phone": [
+        "623-7171"
+      ],
+      "address": "Production Avenue\nSealots, Port of Spain\n623-7171 (Tel)"
+    },
+    {
+      "name": "Ocean Delight",
+      "type": "fish_market",
+      "phone": [
+        "290-3474"
+      ],
+      "address": "307 Fernandes Business Centre\nEastern Main Road\nPort of Spain\n290-3474 (Tel)"
+    },
+    {
+      "name": "Oceanside Fish Centre Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "632-5794"
+      ],
+      "address": "191 Western Main Rd\nCarenage\n632-5794 (Tel)"
+    },
+    {
+      "name": "Orange Valley Fish Market",
+      "type": "fish_market",
+      "address": "Orange Valley"
+    },
+    {
+      "name": "Saleem's Seafood and Poultry",
+      "type": "fish_market",
+      "address": "Couva"
+    },
+    {
+      "name": "San Fernando Market",
+      "type": "fish_market",
+      "address": "San Fernando"
+    },
+    {
+      "name": "#3 Patna Street (Opp. Long Circular Mall)",
+      "type": "fish_market",
+      "extra_info": "St. James\n628-1417 (Tel)\n#46 � 54 Royal Road\nSan Fernando\n222-8808 (Tel1)\n653-3846 (Tel2)\n#48 Sellier Street\nSt. Augustine\n222-3311 (Tel1)\n662-6104 (Tel2)\n#49 Rodney Road\nChaguanas\n221-2901 (Tel)\nTobago Paradise Travel & Grill",
+      "phone": [
+        "322-9441"
+      ],
+      "address": "Pigeon Point Road\nTobago\n322-9441 (Tel)"
+    },
+    {
+      "name": "Tobago Sea Products Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Wholesale Market)",
+      "phone": [
+        "639-2359"
+      ],
+      "address": "61 Grafton New Road\nBlack Rock, Tobago\n639-2359 (Tel)"
+    },
+    {
+      "name": "Trinidad Seafoods Ltd.",
+      "type": "fish_market",
+      "extra_info": "(Retail Market)",
+      "phone": [
+        "290-3474"
+      ],
+      "address": "Mission Road Freeport\n290-3474 (Tel)"
+    },
+    {
+      "name": "Tunapuna Market",
+      "type": "fish_market",
+      "address": "Tunapuna"
+    },
+    {
+      "name": "Dockside Food Company",
+      "type": "fish_market",
+      "locations": [
+        {
+          "phone": [
+            "646-8809",
+            "222-8546"
+          ],
+          "address": "#1 O'Meara Road\nArima\n646-8809 (Tel1)\n222-8546 (Tel2)"
+        }
+      ]
+    },
+    {
+      "name": "Sea Foods Enterprises Ltd.",
+      "type": "fish_market",
+      "locations": [
+        {
+          "phone": [
+            "645-0601"
+          ],
+          "address": "3 Frederick Settlement\n645-0601 (Tel)"
+        }
+      ],
+      "extra_info": "(Head Office)\n(Retail/Wholesale Market)"
+    }
+  ]
+}

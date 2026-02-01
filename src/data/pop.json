@@ -1,0 +1,125 @@
+{
+  "source": "http://tntisland.com/pop.html",
+  "page_title": "TnT Soft Drink Labels",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Welcome to Tringo Sweet Drink Gallery",
+      "type": "soft_drink"
+    },
+    {
+      "name": "Busta",
+      "type": "soft_drink"
+    },
+    {
+      "name": "Caribbean Cool",
+      "type": "soft_drink"
+    },
+    {
+      "name": "Cole Cold",
+      "type": "soft_drink"
+    },
+    {
+      "name": "Fruta",
+      "type": "soft_drink"
+    },
+    {
+      "name": "Chubby",
+      "type": "soft_drink"
+    },
+    {
+      "name": "try your favourite sweet drink in one of these flavours.",
+      "type": "soft_drink",
+      "description": "* Apple"
+    },
+    {
+      "name": "* Banana",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Blueberry",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Cherry Crush",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Classic Soda",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Club Soda",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Cream Soda",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Diet Banana",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Diet Cola",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Diet Kola Champagne",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Ginger Ale",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Ginger Beer",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Grape",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Grapefruit",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Green Crush",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Guarana",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Kola Champagne",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Lemon Lime",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Lime Squash",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Pear Pineapple",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Pinkade",
+      "type": "soft_drink"
+    },
+    {
+      "name": "* Tonic Tutti Fruitti",
+      "type": "soft_drink"
+    },
+    {
+      "name": "note:\n- 1 - website are on the net, please see the \"drinks\" section on my tnt links page.",
+      "type": "soft_drink"
+    }
+  ]
+}

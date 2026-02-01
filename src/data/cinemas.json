@@ -1,0 +1,151 @@
+{
+  "source": "http://tntisland.com/cinemas.html",
+  "page_title": "Trinidad & Tobago Cinemas",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Cinema Circuit",
+      "type": "cinema",
+      "phone": [
+        "667-3274"
+      ],
+      "address": "6-7 Hollis Avenue\nArima\n667-3274 (Tel)"
+    },
+    {
+      "name": "Level 6 North Tower Carpark, Gulf City Mall",
+      "type": "cinema",
+      "extra_info": "San Fernando\n389-6926 (Tel)\nPricePlaza\nChaguanas\nDigicel IMAX",
+      "phone": [
+        "299-4629"
+      ],
+      "address": "One Woodbrook Place\nPort of Spain\n299-4629 (Tel)"
+    },
+    {
+      "name": "Empire Cinema",
+      "type": "cinema",
+      "address": "Penitence Street\nSan Fernando"
+    },
+    {
+      "name": "Jubilee Cinema",
+      "type": "cinema",
+      "phone": [
+        "665-5812"
+      ],
+      "address": "13 Main Road\nChaguanas\n665-5812 (Tel)"
+    },
+    {
+      "name": "Kabsco Cinema",
+      "type": "cinema",
+      "phone": [
+        "667-4003"
+      ],
+      "address": "42 Sorozano Street\nArima\n667-4003 (Tel)"
+    },
+    {
+      "name": "Little Carib Theatre",
+      "type": "cinema",
+      "phone": [
+        "622-4644"
+      ],
+      "address": "White & Roberts Streets\nWoodbrook\nPort of Spain\n622-4644 (Tel)"
+    },
+    {
+      "name": "Metro Cinema",
+      "type": "cinema",
+      "phone": [
+        "652-4107"
+      ],
+      "address": "41-43 Hariis Promenade\nPort of San Fernando\n652-4107 (Tel)"
+    },
+    {
+      "name": "Chaguanas",
+      "type": "cinema",
+      "extra_info": "Naparima Bowl",
+      "phone": [
+        "652-4704"
+      ],
+      "address": "19 Paradise Pasture\nSan Fernando\n652-4704"
+    },
+    {
+      "name": "New De Luxe Cinema",
+      "type": "cinema",
+      "phone": [
+        "652-0028"
+      ],
+      "address": "45 Harris Promenade\nSan Fernando\n652-0028 (Tel)"
+    },
+    {
+      "name": "Oasis Entertainment",
+      "type": "cinema",
+      "phone": [
+        "668-4821"
+      ],
+      "address": "Eastern Main Road\nSangre Grande\n668-4821 (Tel)"
+    },
+    {
+      "name": "SouthPark Caribbean Cinemas 10",
+      "type": "cinema",
+      "phone": [
+        "640-3028"
+      ],
+      "address": "Tarouba Link Road (opposite Toyota)\nSan Fernando\n640-3028 (Tel)"
+    },
+    {
+      "name": "The Regent Cinema",
+      "type": "cinema",
+      "phone": [
+        "647-8439"
+      ],
+      "address": "Clark Road Junction\nPenal\n647-8439 (Tel)"
+    },
+    {
+      "name": "Tobago Cinemas",
+      "type": "cinema",
+      "locations": [
+        {
+          "phone": [
+            "639-2066"
+          ],
+          "address": "Gate-TobagoCarrington Street\nScarborough\n639-2066 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Trinidad Cinemas",
+      "type": "cinema",
+      "locations": [
+        {
+          "phone": [
+            "640-8788"
+          ],
+          "address": "Caribbean Cinemas 8Trincity Mall\nTrincity\n640-8788 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Cinema One",
+      "type": "cinema",
+      "locations": [
+        {
+          "phone": [
+            "389-6925"
+          ],
+          "address": "One Woodbrook Place\nPort of Spain\n389-6925 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Movietowne",
+      "type": "cinema",
+      "locations": [
+        {
+          "phone": [
+            "627-8277"
+          ],
+          "address": "Audrey Jeffers Highway\nPort of Spain\n627-8277 (Tel)"
+        }
+      ]
+    }
+  ]
+}

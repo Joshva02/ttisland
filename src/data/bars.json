@@ -1,0 +1,2414 @@
+{
+  "source": "http://tntisland.com/bars.html",
+  "page_title": "Trinidad & Tobago Bars",
+  "category": "entertainment",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "007 Pub",
+      "type": "bar",
+      "address": "Union Road\nMarabella"
+    },
+    {
+      "name": "106 Bar",
+      "type": "bar",
+      "address": "Papourie Road and Priam Street\nDiamond Village, San Fernando"
+    },
+    {
+      "name": "110 Jazz and Calypso Lounge",
+      "type": "bar",
+      "address": "110 Cipero Street\nSan Fernando"
+    },
+    {
+      "name": "5th Element Club",
+      "type": "bar",
+      "phone": [
+        "754-4442"
+      ],
+      "address": "Sorzano & Queen Streets\nArima"
+    },
+    {
+      "name": "51 Degrees",
+      "type": "bar",
+      "phone": [
+        "627-0051"
+      ],
+      "address": "51 Cipriani Boulevard\nPort of Spain"
+    },
+    {
+      "name": "69 Sports Bar & Grill",
+      "type": "bar",
+      "phone": [
+        "356-2316"
+      ],
+      "address": "Main Road\nSt Ann's"
+    },
+    {
+      "name": "7-11 Sports Bar",
+      "type": "bar",
+      "address": "corner of Charlotte Street and Independence Square\nPort of Spain"
+    },
+    {
+      "name": "Adesh Members Club and Bar",
+      "type": "bar",
+      "address": "El Dorado"
+    },
+    {
+      "name": "After Work",
+      "type": "bar",
+      "phone": [
+        "667-1760"
+      ],
+      "address": "50 Broadway\nArima"
+    },
+    {
+      "name": "Alibi Bar",
+      "type": "bar",
+      "address": "Santa Flora trinidad"
+    },
+    {
+      "name": "All Out Sports Bar and Gourmet Grill",
+      "type": "bar",
+      "phone": [
+        "622-6730"
+      ],
+      "address": "1st Floor\nQueen's Park Oval\n94 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "Amshard's Bar",
+      "type": "bar",
+      "address": "Union Road\nRio Claro"
+    },
+    {
+      "name": "Amsterdam Bar",
+      "type": "bar",
+      "phone": [
+        "776-4949"
+      ],
+      "address": "Main Road\nPatience Hill, Tobago"
+    },
+    {
+      "name": "Andy's Bar",
+      "type": "bar",
+      "address": "Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Angie Bar",
+      "type": "bar",
+      "address": "Roops junction\nCouva"
+    },
+    {
+      "name": "Anil�s Sports Bar",
+      "type": "bar",
+      "address": "Caratal Road\nGasparillo"
+    },
+    {
+      "name": "Antonio�s Bar",
+      "type": "bar",
+      "address": "Western Main Road\nPoint Cumana"
+    },
+    {
+      "name": "Antonio�s Beer Garden",
+      "type": "bar",
+      "address": "Pointe-a-Pierre Road\nSan Fernando"
+    },
+    {
+      "name": "Atherly's by the Park",
+      "type": "bar",
+      "phone": [
+        "652-7373"
+      ],
+      "address": "Sutton Street\nSan Fernando"
+    },
+    {
+      "name": "Aura Bar",
+      "type": "bar",
+      "phone": [
+        "487-7760"
+      ],
+      "address": "43 Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Aura Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "627-2872"
+      ],
+      "address": "51 Cipriani Blvd\nPort of Spain"
+    },
+    {
+      "name": "Azucar Restaurant and Bar",
+      "type": "bar",
+      "phone": [
+        "631-0121"
+      ],
+      "address": "Shirvan Road\nMount Pleasant, Tobago"
+    },
+    {
+      "name": "B's Crop Over Restaurant and Bar",
+      "type": "bar",
+      "address": "Vistabella"
+    },
+    {
+      "name": "Bad Boyz Sports Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "774-0529"
+      ],
+      "address": "Eastern Main Road\nEl Dorado"
+    },
+    {
+      "name": "Bagai Bar",
+      "type": "bar",
+      "address": "Second Street\nSan Juan"
+    },
+    {
+      "name": "Bage Bar",
+      "type": "bar",
+      "address": "Penal"
+    },
+    {
+      "name": "Bal's Bar",
+      "type": "bar",
+      "address": "Phillipine Road\nHermitage Village, San Fernando"
+    },
+    {
+      "name": "Bar Code",
+      "type": "bar",
+      "address": "Milford Road\nScarborough, Tobago"
+    },
+    {
+      "name": "Bar Hop In",
+      "type": "bar",
+      "phone": [
+        "639-0223"
+      ],
+      "address": "#2 Patricia Terrace, Shirvan Road\nBuccoo, Tobago"
+    },
+    {
+      "name": "Barracuda",
+      "type": "bar",
+      "address": "Crews Inn\nChaguaramas"
+    },
+    {
+      "name": "Bat & Ball English Pub",
+      "type": "bar",
+      "address": "Tragarete Road\nWoodbrook"
+    },
+    {
+      "name": "Bastard's Sports Bar",
+      "type": "bar",
+      "address": "Montrose, Chaguanas"
+    },
+    {
+      "name": "Bay View Restaurant and Lounge",
+      "type": "bar",
+      "phone": [
+        "292-8701"
+      ],
+      "address": "North Coast Road\nMaracas Bay"
+    },
+    {
+      "name": "Baya�s Bar",
+      "type": "bar",
+      "address": "Bass Street\nCantaro Village"
+    },
+    {
+      "name": "Beach Boys Guest House and Bar",
+      "type": "bar",
+      "address": "Los Iros"
+    },
+    {
+      "name": "Bear Feelings Sports Bar",
+      "type": "bar",
+      "phone": [
+        "747-4747"
+      ],
+      "address": "55 Southern Main Road\nMcBean, Couva"
+    },
+    {
+      "name": "Belle Bagai Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nMarabella"
+    },
+    {
+      "name": "Big S Sports Bar",
+      "type": "bar",
+      "address": "Centenary Street\nTunapuna"
+    },
+    {
+      "name": "Birdie's Bar and Recreation Club",
+      "type": "bar",
+      "address": "St John�s Village, San Fernando"
+    },
+    {
+      "name": "Black Pearl Bar",
+      "type": "bar",
+      "address": "901 Eastern Main Road (opposite Mario's)\nSangre Grande"
+    },
+    {
+      "name": "Black Dolphin Recreation Pub",
+      "type": "bar",
+      "address": "Queen Street\nArima"
+    },
+    {
+      "name": "Black Stalin's Premiere Bar and Lounge",
+      "type": "bar",
+      "address": "311 Cedar Hill Road\nClaxton Bay"
+    },
+    {
+      "name": "Blazerz Sports Bar",
+      "type": "bar",
+      "phone": [
+        "234-2947"
+      ],
+      "address": "163 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "Bleu's Bar",
+      "type": "bar",
+      "address": "corner of Gordon Street and Riverside Road\nCurepe"
+    },
+    {
+      "name": "Block 11 Sports Bar",
+      "type": "bar",
+      "address": "SS Erin Road\nSanta Flora"
+    },
+    {
+      "name": "Block Bar",
+      "type": "bar",
+      "address": "Caura Junction\nEl Dorado"
+    },
+    {
+      "name": "Blu Roc Bar",
+      "type": "bar",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Blue Legacy Bar",
+      "type": "bar",
+      "phone": [
+        "470-0934"
+      ],
+      "address": "Rochard Douglas Road\nBarrackpore"
+    },
+    {
+      "name": "Bobby's Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nCurepe"
+    },
+    {
+      "name": "Bonkers",
+      "type": "bar",
+      "phone": [
+        "639-7173"
+      ],
+      "address": "Toucan Inn\nStore Bay Local Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Boodram�s Bar",
+      "type": "bar",
+      "address": "Tunapuna"
+    },
+    {
+      "name": "Ariapita Avenue",
+      "type": "bar",
+      "extra_info": "Woodbrook\nBoundary Beer Garden & Lounge",
+      "address": "#57 Boundary Road Extension\nSan Juan"
+    },
+    {
+      "name": "Boyo's Bar",
+      "type": "bar",
+      "address": "SS Erin Road\nQuarry Village, Siparia"
+    },
+    {
+      "name": "Brooklyn Bar",
+      "type": "bar",
+      "address": "Carlos & Roberts Streets\nPort of Spain"
+    },
+    {
+      "name": "Boujies Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "671-1634"
+      ],
+      "address": "Orangefield Junction\nChase Village, Carapichaima"
+    },
+    {
+      "name": "Bruise Bar",
+      "type": "bar",
+      "address": "Belle Smythe and Bushe Streets\nCurepe"
+    },
+    {
+      "name": "Boyuer's Bar",
+      "type": "bar",
+      "address": "Mt Pleasant"
+    },
+    {
+      "name": "Buckey's/Buckley's Bar",
+      "type": "bar",
+      "address": "Alexander Street\nValencia"
+    },
+    {
+      "name": "Bull Bull's Bar",
+      "type": "bar",
+      "address": "Old Valencia Road\nValencia"
+    },
+    {
+      "name": "C1 Sports Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "332-0151"
+      ],
+      "address": "173 Southern Main Road\nCouva"
+    },
+    {
+      "name": "Caps Pub & Lounge",
+      "type": "bar",
+      "address": "#48 Southern Main Road\nCurepe"
+    },
+    {
+      "name": "Caribbean Cuisine Bar",
+      "type": "bar",
+      "address": "Milford Road\nScarborough, Tobago"
+    },
+    {
+      "name": "Caribbean Queen Bar",
+      "type": "bar",
+      "address": "SS Erin Road\nBatchya Village, Penal"
+    },
+    {
+      "name": "Caribbean Vibes Bar",
+      "type": "bar",
+      "phone": [
+        "317-4767"
+      ],
+      "address": "Southern Main Road\nMarabella"
+    },
+    {
+      "name": "CBS Bar & Lounge",
+      "type": "bar",
+      "address": "18 Rust Street\nSt. Clair, Port of Spain"
+    },
+    {
+      "name": "Chadee�s Bar (The Place to Be)",
+      "type": "bar",
+      "phone": [
+        "663-9220"
+      ],
+      "address": "Warren & Warner Streets\nSt. Augustine"
+    },
+    {
+      "name": "Champ's Bar",
+      "type": "bar",
+      "address": "Railway Road\nChaguanas"
+    },
+    {
+      "name": "Charm�s Recreation Club",
+      "type": "bar",
+      "address": "Ben Lomond\nWilliamsville"
+    },
+    {
+      "name": "Charles' Bar",
+      "type": "bar",
+      "phone": [
+        "669-3033"
+      ],
+      "address": "Upper Village\nBlanchisseuse"
+    },
+    {
+      "name": "Charlies� Bar",
+      "type": "bar",
+      "address": "Point-a-Pierre Road\nSan Fernando"
+    },
+    {
+      "name": "Charlo's Bar",
+      "type": "bar",
+      "address": "Corinth\nCocoyea"
+    },
+    {
+      "name": "Chill Out Bar",
+      "type": "bar",
+      "phone": [
+        "492-9454"
+      ],
+      "address": "Milford Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Chill Restaurant and Bar",
+      "type": "bar",
+      "address": "Guapo/Cap-de-Ville Road\nPoint Fortin"
+    },
+    {
+      "name": "Cheers Bar",
+      "type": "bar",
+      "address": "Ramoutar Street\nSangre Grande"
+    },
+    {
+      "name": "Chelsea's Hot Spot Restaurant & Bar",
+      "type": "bar",
+      "address": "151 Manahambre Road\nSte Madeleine"
+    },
+    {
+      "name": "City Limitz",
+      "type": "bar",
+      "phone": [
+        "310-0712"
+      ],
+      "address": "#2 Yard Street\nChaguanas"
+    },
+    {
+      "name": "Classic Recreation Club",
+      "type": "bar",
+      "address": "Todd's Road\nChaguanas"
+    },
+    {
+      "name": "Classy Bar",
+      "type": "bar",
+      "address": "O'Meara Road South\nCarapo Village"
+    },
+    {
+      "name": "Club Coconuts",
+      "type": "bar",
+      "phone": [
+        "623-6887"
+      ],
+      "address": "Cascadia Hotel\nSt. Ann's"
+    },
+    {
+      "name": "Club Nutts (formerly The Shade Night Club)",
+      "type": "bar",
+      "phone": [
+        "741-3792"
+      ],
+      "address": "Store Bay Branch Road\nBon Accord"
+    },
+    {
+      "name": "Club Oxygen",
+      "type": "bar",
+      "address": "High Street\nPrinces Town"
+    },
+    {
+      "name": "Club Rush",
+      "type": "bar",
+      "address": "Western Main Road\nSt. James"
+    },
+    {
+      "name": "Club Samkiss",
+      "type": "bar",
+      "address": "Southern Main Road\nChase Village"
+    },
+    {
+      "name": "Club Up Top",
+      "type": "bar",
+      "address": "SS Erin Road\nDuncan Village, San Fernando"
+    },
+    {
+      "name": "Cocoa Shed",
+      "type": "bar",
+      "address": "La Brea"
+    },
+    {
+      "name": "Colonnade Restaurant and Bar",
+      "type": "bar",
+      "address": "Caratal Road\nGasparillo"
+    },
+    {
+      "name": "Columbus Snackette",
+      "type": "bar",
+      "phone": [
+        "639-8886"
+      ],
+      "address": "Store Bay Road, Tobago"
+    },
+    {
+      "name": "Cool Scene Bar",
+      "type": "bar",
+      "address": "Los Iros Junction\nLos Iros"
+    },
+    {
+      "name": "Cool Water Restaurant & Pub",
+      "type": "bar",
+      "address": "Craignish Village, Princes Town"
+    },
+    {
+      "name": "Copper's Bar",
+      "type": "bar",
+      "address": "Valencia"
+    },
+    {
+      "name": "Corky's Bar",
+      "type": "bar",
+      "address": "Watts Trace and Southern Main Road\nCurepe"
+    },
+    {
+      "name": "Corro Pub",
+      "type": "bar",
+      "address": "El Socorro Main Road\nEl Socorro"
+    },
+    {
+      "name": "Country Cabin Sports Bar",
+      "type": "bar",
+      "address": "Torrib Trace\nNew Grant"
+    },
+    {
+      "name": "Country Town Bar",
+      "type": "bar",
+      "address": "No 2 Scale\nBarrackpore"
+    },
+    {
+      "name": "Countryside Sports Bar",
+      "type": "bar",
+      "address": "Windward Main Road\nGoodwood"
+    },
+    {
+      "name": "Crawford's Bar",
+      "type": "bar",
+      "address": "Sisters Road\nHardbargain, Princes Town"
+    },
+    {
+      "name": "Cricket Wicket",
+      "type": "bar",
+      "phone": [
+        "628-6766"
+      ],
+      "address": "149 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "Crossroads",
+      "type": "bar",
+      "address": "Gasparillo"
+    },
+    {
+      "name": "Cruz Cocktail Bar and Bristro",
+      "type": "bar",
+      "address": "Bon Accord, Tobago"
+    },
+    {
+      "name": "D 59 Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "312-5959"
+      ],
+      "address": "23 Bamboo Boulevard\nBamboo Settlement #3"
+    },
+    {
+      "name": "D' Avenue Sports Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "688-8352"
+      ],
+      "address": "Ariapita Avenue & Luis Avenue\nWoodbrook"
+    },
+    {
+      "name": "D' Base Bar",
+      "type": "bar",
+      "address": "Xeres Road\nCarlsen Field, Chaguanas"
+    },
+    {
+      "name": "D' Corro Pub",
+      "type": "bar",
+      "address": "El Socorro Road\nSan Juan"
+    },
+    {
+      "name": "D' Embassy Sports Bar",
+      "type": "bar",
+      "address": "11 Upper El Socorro Road\nSan Juan"
+    },
+    {
+      "name": "D' Liquor Bin",
+      "type": "bar",
+      "email": [
+        "dliquorbin@hotmail.com"
+      ],
+      "extra_info": "email: D' Liquor Bin",
+      "phone": [
+        "736-1495"
+      ],
+      "address": "105 Union Village\nClaxton Bay"
+    },
+    {
+      "name": "D' Mix Bar",
+      "type": "bar",
+      "address": "Arena Road\nFreeport"
+    },
+    {
+      "name": "D' Palace Resturant & Bar",
+      "type": "bar",
+      "phone": [
+        "734-4571"
+      ],
+      "address": "#4 Shivan Drive\nSan Chiquito, Sangre Grande\nTel2 220-6299"
+    },
+    {
+      "name": "Dave's Bar",
+      "type": "bar",
+      "address": "Battoo Avenue\nMarabella"
+    },
+    {
+      "name": "De Nu Pub",
+      "type": "bar",
+      "phone": [
+        "627-4042"
+      ],
+      "address": "Ariapata Avenue and French Streeet\nWoodbrook"
+    },
+    {
+      "name": "Diablo's Bar",
+      "type": "bar",
+      "address": "St. Croix Road\nPrinces Town"
+    },
+    {
+      "name": "Dianne's Bar",
+      "type": "bar",
+      "address": "Blitz Village\nPleasantville"
+    },
+    {
+      "name": "Diver's Den Bar & Grill",
+      "type": "bar",
+      "phone": [
+        "639-8533"
+      ],
+      "address": "Mt. Pleasant Road and Robert Street\nCrown Point, Tobago"
+    },
+    {
+      "name": "Docksite Restaurant and Bar",
+      "type": "bar",
+      "address": "Milford Road\nLower Scarborough, Tobago"
+    },
+    {
+      "name": "Dogie's Bar",
+      "type": "bar",
+      "address": "Manzanilla Road\nSangre Grande"
+    },
+    {
+      "name": "Don Carlos Recreation Club",
+      "type": "bar",
+      "phone": [
+        "623-7619"
+      ],
+      "address": "55 Duke Street\nPort of Spain"
+    },
+    {
+      "name": "Double Deuce Recreation Club",
+      "type": "bar",
+      "address": "Eastern Main Road\nTunapuna"
+    },
+    {
+      "name": "Douk�s Bar",
+      "type": "bar",
+      "address": "Pointe-a-Pierre Road\nSan Fernando"
+    },
+    {
+      "name": "Dream Girls Bar",
+      "type": "bar",
+      "address": "Vessigny Village\nLa Brea"
+    },
+    {
+      "name": "Driller's Sports Bar",
+      "type": "bar",
+      "phone": [
+        "798-0290"
+      ],
+      "address": "Alexander Street,Capildeo Block\nCouva"
+    },
+    {
+      "name": "Drink Wine Bar",
+      "type": "bar",
+      "phone": [
+        "622-2895"
+      ],
+      "address": "63 Rosalino Street\nWoodbrook"
+    },
+    {
+      "name": "Dutch Fort Restaurant and Bar",
+      "type": "bar",
+      "phone": [
+        "708-5560"
+      ],
+      "address": "Milford Road\nScarborough"
+    },
+    {
+      "name": "Dynamic Sports Bar",
+      "type": "bar",
+      "address": "Mt Lambert Circular and Hollis Street\nMt Lambert"
+    },
+    {
+      "name": "Dynamite Bar",
+      "type": "bar",
+      "address": "Cipero and Sutton Street\nSan Fernando"
+    },
+    {
+      "name": "Eagles' Recreation Bar and Club",
+      "type": "bar",
+      "address": "Savannah Road\nFive Rivers"
+    },
+    {
+      "name": "Earth Restaurant Bar",
+      "type": "bar",
+      "phone": [
+        "350-5436"
+      ],
+      "address": "Cipriani Boulevard\nPort of Spain"
+    },
+    {
+      "name": "East Wing Recreation Club",
+      "type": "bar",
+      "address": "Tumpuna Road\nArima"
+    },
+    {
+      "name": "Ecstacy Bar",
+      "type": "bar",
+      "address": "#44 Main Road, Tabaquite Road\nTabquite"
+    },
+    {
+      "name": "Eddie�s Bar",
+      "type": "bar",
+      "phone": [
+        "397-0997"
+      ],
+      "address": "Anthony Branch Trace\nPenal"
+    },
+    {
+      "name": "Eggy's Pub",
+      "type": "bar",
+      "address": "Cipriani Street\nMorvant"
+    },
+    {
+      "name": "Elixir Nightclub",
+      "type": "bar",
+      "address": "Ariapita Avenue\nPort of Spain"
+    },
+    {
+      "name": "Elsie's Bar",
+      "type": "bar",
+      "address": "St Croix Road\nPrinces Town"
+    },
+    {
+      "name": "Epicurian Palace",
+      "type": "bar",
+      "address": "Bobb Street\nLa Romaine"
+    },
+    {
+      "name": "Fifty Shades of Gold Bar",
+      "type": "bar",
+      "address": "Naparima Mayaro Road\nUnion Village Rio Claro"
+    },
+    {
+      "name": "Flambeau Bar",
+      "type": "bar",
+      "address": "Fyzabad"
+    },
+    {
+      "name": "Flavours Bar",
+      "type": "bar",
+      "address": "Cocorite Road\nArima"
+    },
+    {
+      "name": "Flying Angels Bar",
+      "type": "bar",
+      "phone": [
+        "640-7142",
+        "485-3239"
+      ],
+      "address": "Eastern Main Road\nAruoca"
+    },
+    {
+      "name": "Food Garden Pub",
+      "type": "bar",
+      "address": "Katwaroo Trace\nSangre Grande"
+    },
+    {
+      "name": "Fordy's Pub",
+      "type": "bar",
+      "phone": [
+        "652-9579",
+        "678-1740"
+      ],
+      "address": "92A Rushworth Street\nSan Fernando"
+    },
+    {
+      "name": "Fonz Restaurant and Bar",
+      "type": "bar",
+      "address": "Pointe-a-Pierre Road\nVistabella"
+    },
+    {
+      "name": "Four Cane Rum Shed",
+      "type": "bar",
+      "phone": [
+        "654-1133"
+      ],
+      "address": "351 Rochard Douglas Road\nBarrackpore"
+    },
+    {
+      "name": "Foxy's Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nMarabella"
+    },
+    {
+      "name": "Frankies",
+      "type": "bar",
+      "phone": [
+        "622-6609"
+      ],
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Frankies Bar",
+      "type": "bar",
+      "address": "Tumpuna Road\nArima"
+    },
+    {
+      "name": "Frankie's Bar",
+      "type": "bar",
+      "address": "Delhi Road\nFyzabad"
+    },
+    {
+      "name": "Frazina�s Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nRousillac"
+    },
+    {
+      "name": "Friends Bar and Lounge",
+      "type": "bar",
+      "address": "1295 S.S. Erin Road\nPenal"
+    },
+    {
+      "name": "Fun Seekers Restaurant and Bar",
+      "type": "bar",
+      "address": "Bonne Aventure Road\nGasparillo"
+    },
+    {
+      "name": "Garage Pub",
+      "type": "bar",
+      "phone": [
+        "657-5773"
+      ],
+      "address": "Rushworth Street\nSan Fernando"
+    },
+    {
+      "name": "Gemini Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nEdinburgh Village, Chaguanas"
+    },
+    {
+      "name": "Georges Bar",
+      "type": "bar",
+      "address": "Eastern Main Road (opposite Moosai Hardware)\nEl Dorado"
+    },
+    {
+      "name": "Gloria's Bar",
+      "type": "bar",
+      "address": "Jeffers Crossing\nTabaquite"
+    },
+    {
+      "name": "Golden Arches Bar",
+      "type": "bar",
+      "address": "Watts Street\nCurepe"
+    },
+    {
+      "name": "Golden Flower Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "660-0568"
+      ],
+      "address": "Moriah, Tobago"
+    },
+    {
+      "name": "Goldgate Casino & Pub",
+      "type": "bar",
+      "address": "Independence Square (next to Royal Castle)\nPort of Spain"
+    },
+    {
+      "name": "Grasshoppers Bar",
+      "type": "bar",
+      "address": "Evans Street & Curepe Junction\nCurepe"
+    },
+    {
+      "name": "Green Street Sports Bar and Grill",
+      "type": "bar",
+      "phone": [
+        "667-2495",
+        "652-3760"
+      ],
+      "address": "Arima"
+    },
+    {
+      "name": "Groove Nightclub",
+      "type": "bar",
+      "extra_info": "(formerly Sachells)",
+      "phone": [
+        "346-0453"
+      ],
+      "address": "137 Lambie Street\nVistabella, San Fernando"
+    },
+    {
+      "name": "Hakka Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "221-0080"
+      ],
+      "address": "4 Taylor Street\nWoodbrook\n221-0080"
+    },
+    {
+      "name": "Hammerhead Beach Bar & Grill",
+      "type": "bar",
+      "phone": [
+        "333-0054"
+      ],
+      "address": "Manzanilla Beach\nEastern Main Road\nManzanilla"
+    },
+    {
+      "name": "Hanggers Extreme Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "239-5808",
+        "290-2753"
+      ],
+      "address": "Shop #1B\nHeartland Plaza\nNarsaloo Ramaya Road\nChaguanas"
+    },
+    {
+      "name": "Hangover Restaurant and Bar",
+      "type": "bar",
+      "address": "Penal Rock Road\nPenal"
+    },
+    {
+      "name": "Happy Boys Restaurant and Bar",
+      "type": "bar",
+      "address": "Esmeralda Road\nWilliamsville"
+    },
+    {
+      "name": "Happy Times Sports Ba",
+      "type": "bar",
+      "address": "Rochard Douglas Road\nBarrackpore"
+    },
+    {
+      "name": "Harbor Pub",
+      "type": "bar",
+      "address": "South Quay\nPort of Spain"
+    },
+    {
+      "name": "Hashtag Lounge",
+      "type": "bar",
+      "phone": [
+        "334-8715"
+      ],
+      "address": "Cipero Street\nSan Fernando"
+    },
+    {
+      "name": "Hereford�s Bar (Pie�s Bar)",
+      "type": "bar",
+      "phone": [
+        "291-2951"
+      ],
+      "address": "11A Maraval Road\nPort of Spain"
+    },
+    {
+      "name": "HI-RPM Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "652-3760"
+      ],
+      "address": "Gulf City\nLa Romain"
+    },
+    {
+      "name": "High Rollers Sports Bar",
+      "type": "bar",
+      "phone": [
+        "662-0724"
+      ],
+      "address": "#6 Golden Drive\nLa Paille Village, Caroni"
+    },
+    {
+      "name": "High Voltage Bar",
+      "type": "bar",
+      "address": "Techier Main Road\nPoint Fortin"
+    },
+    {
+      "name": "Highway to Heaven Bar",
+      "type": "bar",
+      "address": "off Mission Road\nFreeport"
+    },
+    {
+      "name": "Hill View Bar",
+      "type": "bar",
+      "address": "Dumfries Road\nHermitage Village, San Fernando"
+    },
+    {
+      "name": "Home on D Hill Recreation Bar",
+      "type": "bar",
+      "address": "Prince Street\nArima"
+    },
+    {
+      "name": "Home Turf Pub",
+      "type": "bar",
+      "address": "Rio Claro"
+    },
+    {
+      "name": "Honey Corner Bar",
+      "type": "bar",
+      "address": "Mora Trace\nMatura"
+    },
+    {
+      "name": "Honey Grille Restaurant and Bar",
+      "type": "bar",
+      "address": "French Street (opposite the Woodbrook Secondary School)\nWoodbrook"
+    },
+    {
+      "name": "Hunter's Bar",
+      "type": "bar",
+      "phone": [
+        "624-1524"
+      ],
+      "address": "38 Norfolk\nBelmont"
+    },
+    {
+      "name": "Hutt Shutts Sports Bar",
+      "type": "bar",
+      "phone": [
+        "640-4004"
+      ],
+      "address": "Eastern Main Road\nTacarigua"
+    },
+    {
+      "name": "Hutt Shutts Sports and Entertainment Center",
+      "type": "bar",
+      "phone": [
+        "640-0078"
+      ],
+      "address": "Lp # 2 Balgobin Street off Crown Street\nTacarigua, Arouca"
+    },
+    {
+      "name": "Icon Bar",
+      "type": "bar",
+      "address": "Madras Road\nChin Chin, Cunupia"
+    },
+    {
+      "name": "Illusions Bar",
+      "type": "bar",
+      "address": "Pigeon Point corner\nCrown Point, Tobago"
+    },
+    {
+      "name": "Inviolable Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "738-2049"
+      ],
+      "address": "Drayton Street\nSan Fernando"
+    },
+    {
+      "name": "J and J Big Yard",
+      "type": "bar",
+      "phone": [
+        "670-2117",
+        "373-8441"
+      ],
+      "address": "23 3/4 Mile Pole\nCumana Main Road\nToco"
+    },
+    {
+      "name": "J�s Restaurant and Bar",
+      "type": "bar",
+      "address": "Batchyia Village\nPenal"
+    },
+    {
+      "name": "Jack Palance Bar",
+      "type": "bar",
+      "address": "Eastern Main Road & Caura Royal Road (Caura Junction)\nEl Dorado"
+    },
+    {
+      "name": "Jade Monkey Casino Bar and Grill",
+      "type": "bar",
+      "phone": [
+        "631-0044"
+      ],
+      "address": "Tobago Technology Centre\nMilford Road\nCrown Point"
+    },
+    {
+      "name": "Jai's Bar",
+      "type": "bar",
+      "phone": [
+        "665-2600"
+      ],
+      "address": "Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Jazzy's Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "628-6355"
+      ],
+      "address": "48 Western Main Road\nSt. James"
+    },
+    {
+      "name": "Jerry's Bar",
+      "type": "bar",
+      "address": "Jerry Junction\nWaterloo"
+    },
+    {
+      "name": "Junction Pub, Buccoo Junction",
+      "type": "bar",
+      "phone": [
+        "492-9454"
+      ],
+      "address": "corner Auchenskeoch Buccoo and Shirvan Junction\nTobago"
+    },
+    {
+      "name": "Jus' Creole Bar",
+      "type": "bar",
+      "address": "Cantaro Village\nSanta Cruz"
+    },
+    {
+      "name": "K's Beer Garden",
+      "type": "bar",
+      "phone": [
+        "774-9435"
+      ],
+      "address": "Eastern Main Road (opp Police Station)\nSan Juan"
+    },
+    {
+      "name": "K.B's Restaurant and Bar",
+      "type": "bar",
+      "address": "Maloney Street\nPetit Bourg"
+    },
+    {
+      "name": "Kai Mi",
+      "type": "bar",
+      "phone": [
+        "672-5438"
+      ],
+      "address": "Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Kaiso Corner",
+      "type": "bar",
+      "address": "SS Erin Road\nSanta Flora"
+    },
+    {
+      "name": "Kamachie's Bar",
+      "type": "bar",
+      "address": "Caroni South Bank Road\nKelly Village"
+    },
+    {
+      "name": "Kanhai's Bar",
+      "type": "bar",
+      "address": "Retrench Village\nSan Fernando"
+    },
+    {
+      "name": "Kariwak Village",
+      "type": "bar",
+      "phone": [
+        "639-8442"
+      ],
+      "address": "Crown Point, Tobago"
+    },
+    {
+      "name": "Keyon's Cutting Edge Barber Saloon",
+      "type": "bar",
+      "address": "Victoria Village\nSan Fernando"
+    },
+    {
+      "name": "Khan's Bar",
+      "type": "bar",
+      "address": "Pascal Road\nPiparo"
+    },
+    {
+      "name": "Kings Landing Bar",
+      "type": "bar",
+      "phone": [
+        "758-1939"
+      ],
+      "address": "66 Bonne Adventure Road\nGasparillo"
+    },
+    {
+      "name": "Kinshasha Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nCurepe"
+    },
+    {
+      "name": "Knockers Sports Bar",
+      "type": "bar",
+      "address": "Seventh Avenue & Eighth Street\nBarataria"
+    },
+    {
+      "name": "Kourts Bar",
+      "type": "bar",
+      "address": "Railway Road\nChaguanas"
+    },
+    {
+      "name": "L & L Grocery & Bar",
+      "type": "bar",
+      "phone": [
+        "663-4121"
+      ],
+      "address": "24 Mangroo Street, Bamboo Settlement\nValsayn\n663-4121 (Tel)"
+    },
+    {
+      "name": "La Cabana Bar",
+      "type": "bar",
+      "address": "Eccles Street\nCurepe"
+    },
+    {
+      "name": "La Luna Bar",
+      "type": "bar",
+      "address": "Eastern Main Road\nArouca"
+    },
+    {
+      "name": "La Paille Recreation Bar",
+      "type": "bar",
+      "address": "La Paille Road\nPrinces Town"
+    },
+    {
+      "name": "Landing Strip Restaurant and Bar",
+      "type": "bar",
+      "address": "Coffee Street\nSan Fernando"
+    },
+    {
+      "name": "Lara's Bar",
+      "type": "bar",
+      "address": "Eastern Main Road\nSangre Grande"
+    },
+    {
+      "name": "Level 1 Restaurant and Sports Bar",
+      "type": "bar",
+      "phone": [
+        "358-4722"
+      ],
+      "address": "15 Wickham Street\nPoint Fortin"
+    },
+    {
+      "name": "Limers Bar",
+      "type": "bar",
+      "address": "Battoo Avenue\nMarabella"
+    },
+    {
+      "name": "Limers Bar",
+      "type": "bar",
+      "address": "Acono Junction\nMaracas Valley"
+    },
+    {
+      "name": "Liquid Nightclub",
+      "type": "bar",
+      "phone": [
+        "675-4426"
+      ],
+      "address": "Barataria"
+    },
+    {
+      "name": "Little Las Vegas Recreation Club",
+      "type": "bar",
+      "address": "Coffee Street\nSan Fernando"
+    },
+    {
+      "name": "Livewire Bar",
+      "type": "bar",
+      "address": "Lambeau, Tobago"
+    },
+    {
+      "name": "LJ's Pub",
+      "type": "bar",
+      "address": "Norfolk Street\nBelmont"
+    },
+    {
+      "name": "Lounge 69",
+      "type": "bar",
+      "address": "Eastern Main Road\nGuaico, Sangre Grande"
+    },
+    {
+      "name": "Lover's Paradise Bar",
+      "type": "bar",
+      "address": "Lovers Lane\nIcacos Village"
+    },
+    {
+      "name": "Lucky 7 Restaurant and Bar",
+      "type": "bar",
+      "address": "Hope Road\nPrinces Town"
+    },
+    {
+      "name": "Lun Su Bar",
+      "type": "bar",
+      "address": "Tabaquite Road"
+    },
+    {
+      "name": "Maestro Bar",
+      "type": "bar",
+      "phone": [
+        "62-"
+      ],
+      "address": "Southern Main Road\nChase Village \nMangoes Restaurant & Cocktail Lounge64 Independence Square\nPort of Spain\nMANGO/626-2646"
+    },
+    {
+      "name": "Machismo's Bar",
+      "type": "bar",
+      "address": "Coffee Street\nSan Fernando"
+    },
+    {
+      "name": "Marshall's Bar",
+      "type": "bar",
+      "address": "Cipero and Sutton Streets\nSan Fernando"
+    },
+    {
+      "name": "Marshall's Korner",
+      "type": "bar",
+      "phone": [
+        "287-9021"
+      ],
+      "address": "79 Sutton Street\nSan Fernando"
+    },
+    {
+      "name": "Martiniques Hangout",
+      "type": "bar",
+      "address": "Union Road\nMarabella"
+    },
+    {
+      "name": "MBar on the Avenue",
+      "type": "bar",
+      "address": "83A Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "McKie Restaurant and Bar",
+      "type": "bar",
+      "address": "St John's Village, St. Augustine"
+    },
+    {
+      "name": "Mellow Moods Bar",
+      "type": "bar",
+      "phone": [
+        "330-2894",
+        "268-5599"
+      ],
+      "address": "Saddle Road\nSan Juan"
+    },
+    {
+      "name": "Michelle�s Bar and Lounge (formerly Falcon Crest Bar)",
+      "type": "bar",
+      "address": "Bonne Aventure Main Road\nGasparillo"
+    },
+    {
+      "name": "Mid-Point Bar",
+      "type": "bar",
+      "address": "Canaan, Tobago"
+    },
+    {
+      "name": "Mid Town Bar",
+      "type": "bar",
+      "phone": [
+        "232-8284"
+      ],
+      "address": "Market Street\nPrinces Town"
+    },
+    {
+      "name": "Ming's Restaurant and Bar",
+      "type": "bar",
+      "address": "Leotaud Street\nSan Fernando"
+    },
+    {
+      "name": "Mix Moods",
+      "type": "bar",
+      "address": "Prince of Wales Street\nSouth Trinidad"
+    },
+    {
+      "name": "Mona Livers Bar",
+      "type": "bar",
+      "address": "Chaguanas"
+    },
+    {
+      "name": "Monarchs Lounge & Bar",
+      "type": "bar",
+      "address": "10 Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Moon Over Water Sports Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "342-0642"
+      ],
+      "address": "33 Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Moon Over Water Sports Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "709-9698"
+      ],
+      "address": "Pleasant Prospect\nBlack Rock, Tobago"
+    },
+    {
+      "name": "Moonlighting Restaurant & Pub",
+      "type": "bar",
+      "phone": [
+        "663-0346"
+      ],
+      "address": "137 Eastern Main Road\nSt. Augustine"
+    },
+    {
+      "name": "More Daru Bar",
+      "type": "bar",
+      "phone": [
+        "707-4856"
+      ],
+      "address": "Orange Field Road\nCarapichaima"
+    },
+    {
+      "name": "More Vino Wine Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "622-"
+      ],
+      "address": "23 O'Connor Street\nWoodbrook\nVINO/8466"
+    },
+    {
+      "name": "Narine�s Bar",
+      "type": "bar",
+      "address": "Ramdass Street\nSangre Grande"
+    },
+    {
+      "name": "Naughty Girls Bar",
+      "type": "bar",
+      "address": "Battoo Avenue\nMarabella"
+    },
+    {
+      "name": "Nella's Sports Bar",
+      "type": "bar",
+      "address": "Arima Old Road\nArouca"
+    },
+    {
+      "name": "Net Bar",
+      "type": "bar",
+      "address": "Orange Field Road\nCarapichaima"
+    },
+    {
+      "name": "New Vibes Bar",
+      "type": "bar",
+      "address": "Cunaripo Road\nSangre Grande"
+    },
+    {
+      "name": "Nex' Door Pub",
+      "type": "bar",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Nice Time Bar",
+      "type": "bar",
+      "address": "Ben Lomond\nWilliamsville"
+    },
+    {
+      "name": "North Stand Bar",
+      "type": "bar",
+      "address": "Circular Road\nMount Lambert"
+    },
+    {
+      "name": "Nova Bar",
+      "type": "bar",
+      "address": "Lord Kitchener Avenue\nArima"
+    },
+    {
+      "name": "Nu Element Sports Bar & Night Club",
+      "type": "bar",
+      "address": "corner Queen & Sozano Street\nArima"
+    },
+    {
+      "name": "Nu Luna Sports Bar & Lounge",
+      "type": "bar",
+      "address": "Eastern Main Road\nArouca"
+    },
+    {
+      "name": "Nyahbinghi Bar",
+      "type": "bar",
+      "address": "corner Abercromby and King Streets\nSt Joseph"
+    },
+    {
+      "name": "Oasis Lounge",
+      "type": "bar",
+      "phone": [
+        "701-0527"
+      ],
+      "address": "Broadway Street\nPort of Spain"
+    },
+    {
+      "name": "Obsession Bar",
+      "type": "bar",
+      "address": "Buen Intento\nPrinces Town"
+    },
+    {
+      "name": "Old Navy Restaurant and Bar",
+      "type": "bar",
+      "address": "Western Main Road (near the Chaguaramas Military Museum)\nChaguaramas"
+    },
+    {
+      "name": "Olive's",
+      "type": "bar",
+      "address": "Elizabeth Street\nSt. Clair"
+    },
+    {
+      "name": "Oliver's Bar",
+      "type": "bar",
+      "address": "Lothians Road\nPrinces Town"
+    },
+    {
+      "name": "One Love Bar",
+      "type": "bar",
+      "address": "Guapo Road\nFyzabad"
+    },
+    {
+      "name": "Original Backyard Restaurant and Sports Bar",
+      "type": "bar",
+      "phone": [
+        "350-9803"
+      ],
+      "address": "Tragarete Road\nNewtown"
+    },
+    {
+      "name": "Orinoco Bar",
+      "type": "bar",
+      "address": "Eastern Main Road\nSangre Grande"
+    },
+    {
+      "name": "Palance Bar",
+      "type": "bar",
+      "address": "El Dorado, Tunapuna"
+    },
+    {
+      "name": "Paprika Resturant & Bar",
+      "type": "bar",
+      "phone": [
+        "622-5930"
+      ],
+      "address": "201 Western Main Road\nCocorite"
+    },
+    {
+      "name": "Party House Bar",
+      "type": "bar",
+      "address": "Massahood Junction\nFyzabad"
+    },
+    {
+      "name": "Pavement Laungie & Bar",
+      "type": "bar",
+      "address": "Sutton Street\nSan Fernando"
+    },
+    {
+      "name": "Pier 1",
+      "type": "bar",
+      "phone": [
+        "634-4472"
+      ],
+      "address": "Western Main Road\nChaguaramas"
+    },
+    {
+      "name": "Pearl Hall Restaurant and Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nCalifornia"
+    },
+    {
+      "name": "Pelos",
+      "type": "bar",
+      "address": "Trinidad"
+    },
+    {
+      "name": "Pepper Source Bar",
+      "type": "bar",
+      "address": "Rushworth Street\nSan Fernando"
+    },
+    {
+      "name": "Persad Gayandeo",
+      "type": "bar",
+      "phone": [
+        "668-4839"
+      ],
+      "address": "Eastern Main Road\nSangre Grande"
+    },
+    {
+      "name": "PJ's Bar",
+      "type": "bar",
+      "address": "Mount Pleasant Road\nSpringvale, Claxton Bay"
+    },
+    {
+      "name": "Planners Sports Bar",
+      "type": "bar",
+      "address": "Leotaud Street\nSan Fernando"
+    },
+    {
+      "name": "Platinum Club",
+      "type": "bar",
+      "address": "Bonne Aventure Road\nGasparillo"
+    },
+    {
+      "name": "Ponderosa Bar",
+      "type": "bar",
+      "address": "Maloney"
+    },
+    {
+      "name": "Potionz Lounge",
+      "type": "bar",
+      "phone": [
+        "221-6489",
+        "339-5934"
+      ],
+      "address": "Churchill Roosevelt Highway\nPiarco"
+    },
+    {
+      "name": "Prestige Nightclub",
+      "type": "bar",
+      "address": "153 Aranjuez Main Road\nAranjuez"
+    },
+    {
+      "name": "Pro Sports Bar",
+      "type": "bar",
+      "phone": [
+        "222-2406"
+      ],
+      "address": "Malabar Ext. Road\nMalabar, Arima"
+    },
+    {
+      "name": "Providence Bar",
+      "type": "bar",
+      "phone": [
+        "701-7410"
+      ],
+      "address": "Corner Lopinot Road and Eastern Main Road\nArouca"
+    },
+    {
+      "name": "Pub Illusions",
+      "type": "bar",
+      "address": "Mayaro"
+    },
+    {
+      "name": "Punishers Bar",
+      "type": "bar",
+      "address": "Broomage Main Road\nPrinces Town"
+    },
+    {
+      "name": "Questions Bar and Lounge",
+      "type": "bar",
+      "address": "253 Southern Main Road\nLa Romain"
+    },
+    {
+      "name": "R&J Restaurant and Bar",
+      "type": "bar",
+      "address": "Sancho Branch Road\nNew Grant"
+    },
+    {
+      "name": "Rainbow Recreational Club",
+      "type": "bar",
+      "address": "Garth Trace\nPrinces Town"
+    },
+    {
+      "name": "Ralphie�s Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nOropouche"
+    },
+    {
+      "name": "Real Steel Restaurant and Bar",
+      "type": "bar",
+      "address": "De Gannes Village\nSiparia"
+    },
+    {
+      "name": "Rhythm Masters International Bar and Lounge",
+      "type": "bar",
+      "address": "Sutton and Mucurapo Streets\nSan Fernando"
+    },
+    {
+      "name": "Richie's Bar",
+      "type": "bar",
+      "address": "Point Fortin Main Road\nPoint Fortin"
+    },
+    {
+      "name": "Rising Star Restaurant and Bar",
+      "type": "bar",
+      "phone": [
+        "653-2576"
+      ],
+      "address": "Hilda Lazzari Terrace\nSan Fernando"
+    },
+    {
+      "name": "Rising Star Restaurant and Pub",
+      "type": "bar",
+      "address": "Albert Street\nSan Fernando"
+    },
+    {
+      "name": "Ritz Bar",
+      "type": "bar",
+      "address": "Todd Street\nSan Fernando"
+    },
+    {
+      "name": "Riverlime Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "757-1070",
+        "319-0064"
+      ],
+      "address": "LP 20, Garden Village\nArouca"
+    },
+    {
+      "name": "Roger's Bar",
+      "type": "bar",
+      "address": "Clarke Road\nPenal"
+    },
+    {
+      "name": "Roland's Bar",
+      "type": "bar",
+      "address": "Tabaquite"
+    },
+    {
+      "name": "Ronald's Bar",
+      "type": "bar",
+      "phone": [
+        "628-5064"
+      ],
+      "address": "Gatacre & Baden Powell Streets\nPort of Spain"
+    },
+    {
+      "name": "Rooftop Bar",
+      "type": "bar",
+      "address": "Junion Street and Southern Main Road\nCalifornia"
+    },
+    {
+      "name": "Roslyn Hall and Lounge",
+      "type": "bar",
+      "phone": [
+        "221-3345"
+      ],
+      "address": "31-33 Auzonville Road\nTunapuna"
+    },
+    {
+      "name": "Rossi Bar",
+      "type": "bar",
+      "address": "Ojoe Road\nSangre Grande"
+    },
+    {
+      "name": "Rossi Sports Bar",
+      "type": "bar",
+      "address": "Canaan, Tobago"
+    },
+    {
+      "name": "Roxbury Bar",
+      "type": "bar",
+      "address": "Southern Main Roa\nCunupia"
+    },
+    {
+      "name": "Rude Girlz Bar",
+      "type": "bar",
+      "address": "Chin Chin Road\nCunupia"
+    },
+    {
+      "name": "Run Jungle Bar",
+      "type": "bar",
+      "address": "Naparima/Mayaro Road\nLibertyville, Rio Claro"
+    },
+    {
+      "name": "Rumedy Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nSouth Oropouche"
+    },
+    {
+      "name": "Ryan�s Rec Pub",
+      "type": "bar",
+      "address": "Prince Street\nPort of Spain"
+    },
+    {
+      "name": "Safari",
+      "type": "bar",
+      "address": "opposite Republic Bank\nUptown Scarborough, Tobago"
+    },
+    {
+      "name": "Sam's Bar",
+      "type": "bar",
+      "address": "Le Platte Village\nMaraval"
+    },
+    {
+      "name": "Santa Monica Bar",
+      "type": "bar",
+      "address": "D'Abadie"
+    },
+    {
+      "name": "Savannah View Bar",
+      "type": "bar",
+      "address": "Maracas, St Joseph"
+    },
+    {
+      "name": "Sea View Bar",
+      "type": "bar",
+      "phone": [
+        "657-8809"
+      ],
+      "address": "9 Queen Street\nSan Fernando"
+    },
+    {
+      "name": "Secret Lounge Bar",
+      "type": "bar",
+      "phone": [
+        "354-8945"
+      ],
+      "address": "292 S.S Erin Road\nQuarry Village, Siparia"
+    },
+    {
+      "name": "Seerie's Bar",
+      "type": "bar",
+      "address": "Manahambre and Circular Road\nPrinces Town"
+    },
+    {
+      "name": "Seon's Bar",
+      "type": "bar",
+      "address": "Royal Road\nSan Fernando"
+    },
+    {
+      "name": "Shantila Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "7515-653"
+      ],
+      "address": "Lachoos Road\nPenal"
+    },
+    {
+      "name": "Sherry's Bar",
+      "type": "bar",
+      "address": "Naparima Mayaro Road\nRio Claro"
+    },
+    {
+      "name": "Sherry's Restaurant and Bar",
+      "type": "bar",
+      "address": "Marabella"
+    },
+    {
+      "name": "Shy's Bar",
+      "type": "bar",
+      "address": "Pointe-a-Pierre Road\nSan Fernando"
+    },
+    {
+      "name": "Shipwreck",
+      "type": "bar",
+      "address": "Chin Chin Road\nCunupia"
+    },
+    {
+      "name": "Shooting Gallery Sports Bar",
+      "type": "bar",
+      "address": "Debe"
+    },
+    {
+      "name": "Shotters Restaurant and Bar",
+      "type": "bar",
+      "phone": [
+        "774-9288"
+      ],
+      "address": "Apt. 2 Milford Road\nStore Bay"
+    },
+    {
+      "name": "Shy's Bar",
+      "type": "bar",
+      "address": "Pointe-a-Pierre Road\nSan Fernando"
+    },
+    {
+      "name": "Side Bar",
+      "type": "bar",
+      "phone": [
+        "738-1486"
+      ],
+      "address": "Claxton Bay Junction, Southern Main Road\nClaxton Bay, Couva"
+    },
+    {
+      "name": "Sinking It Deep Restaurant and Pub",
+      "type": "bar",
+      "address": "Bay Road and Southern Main Road\nMarabella"
+    },
+    {
+      "name": "Sky Bar & Lounge",
+      "type": "bar",
+      "address": "46 Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "Smokeys & Bunty",
+      "type": "bar",
+      "address": "Ariapata Avenue\nWoodbrook"
+    },
+    {
+      "name": "Soca Bar (aka Jackpot�s Bar)",
+      "type": "bar",
+      "address": "Prince Street\nPort of Spain"
+    },
+    {
+      "name": "Soca Islands Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "354-8629"
+      ],
+      "address": "Main Road Point Fortin\nPoint Fortin"
+    },
+    {
+      "name": "Soir�e Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "738-3640"
+      ],
+      "address": "193 Toco Road\nSangre Grande"
+    },
+    {
+      "name": "Son's Bar",
+      "type": "bar",
+      "address": "Prince Street\nPort of Spain"
+    },
+    {
+      "name": "Soulmate Resturant and Bar",
+      "type": "bar",
+      "address": "Scarborough, Tobago"
+    },
+    {
+      "name": "Spektakula 4 Rum",
+      "type": "bar",
+      "address": "Tunapuna"
+    },
+    {
+      "name": "Spices Authentic Indian Restaurant & Bar",
+      "type": "bar",
+      "email": [
+        "spicesclub@tstt.net.tt"
+      ],
+      "extra_info": "email: Spices Bar",
+      "phone": [
+        "657-7809"
+      ],
+      "address": "13 Sutton Street\nSan Fernando"
+    },
+    {
+      "name": "Spidey's Bar",
+      "type": "bar",
+      "address": "Dumfries Road\nRambert Village"
+    },
+    {
+      "name": "Splinterz Restaurant & Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nSouth Oropouche"
+    },
+    {
+      "name": "Spongys Bar",
+      "type": "bar",
+      "address": "Curepe Priority Mall\nCurepe"
+    },
+    {
+      "name": "Spunky's Pub",
+      "type": "bar",
+      "phone": [
+        "682-6471"
+      ],
+      "address": "1 Bombay Street\nSt. James, Port of Spain"
+    },
+    {
+      "name": "St Peter's Bar",
+      "type": "bar",
+      "address": "King�s Wharf\nSan Fernando"
+    },
+    {
+      "name": "Sting Nightclub",
+      "type": "bar",
+      "phone": [
+        "657-2385"
+      ],
+      "address": "Gulf View\nLa Romain"
+    },
+    {
+      "name": "Strood's Bar",
+      "type": "bar",
+      "address": "15 Maraj Street, Pasea Extension\nTunapuna"
+    },
+    {
+      "name": "Submarine Sports Bar",
+      "type": "bar",
+      "address": "Fanny Village\nMain Road\nPoint Fortin"
+    },
+    {
+      "name": "Sunset Bar",
+      "type": "bar",
+      "phone": [
+        "382-1613"
+      ],
+      "address": "Unit 7, Buccoo Integrated Facilities\nAuchenskeoch Buccoo Bay Road\nBuccoo, Tobago"
+    },
+    {
+      "name": "Susie's Bar",
+      "type": "bar",
+      "phone": [
+        "727-1954"
+      ],
+      "address": "#96 Aranguez Main Road\nAranguez, San Juan"
+    },
+    {
+      "name": "Tajudeen's Bar",
+      "type": "bar",
+      "address": "Cipero Road\nSan Fernando"
+    },
+    {
+      "name": "Tacoma Recreation Club",
+      "type": "bar",
+      "address": "Palo Seco"
+    },
+    {
+      "name": "Take and Pass Restaurant Bar",
+      "type": "bar",
+      "phone": [
+        "221-8793"
+      ],
+      "address": "#68 Lime Head Road\nChase Village, Chaguanas"
+    },
+    {
+      "name": "Tango Bar, Grill & Lounge",
+      "type": "bar",
+      "address": "#118 Southern Main Road\nCurepe"
+    },
+    {
+      "name": "Tantrum Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "277-4381"
+      ],
+      "address": "60A Guaracara Tabaquite Road\nReform Village, Gasparillo"
+    },
+    {
+      "name": "Telia Tequila Sports Bar",
+      "type": "bar",
+      "phone": [
+        "221-4422"
+      ],
+      "address": "St Mary�s Village\nFreeport\nThe Avenue Pub House#73 Arapita Ave\nWoodbrook"
+    },
+    {
+      "name": "The Bar",
+      "type": "bar",
+      "address": "Ariapita Avenue\nPort of Spain"
+    },
+    {
+      "name": "The Deep Disco",
+      "type": "bar",
+      "address": "Crown Point, Tobago"
+    },
+    {
+      "name": "The Idle Hour",
+      "type": "bar",
+      "address": "1 Bombay Street\nSt. James, Port of Spain"
+    },
+    {
+      "name": "The Liquor House Bar & Mini Mart",
+      "type": "bar",
+      "phone": [
+        "223-4410"
+      ],
+      "address": "#14 Southern Main Road\nEnterprise, Chaguanas"
+    },
+    {
+      "name": "The Original Valley Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nFyzabad"
+    },
+    {
+      "name": "The OverHang",
+      "type": "bar",
+      "phone": [
+        "744-2149"
+      ],
+      "address": "Upstairs Jimmy's Mini Mart\nCrown Point"
+    },
+    {
+      "name": "The Pelican Inn Pub",
+      "type": "bar",
+      "phone": [
+        "624-7486"
+      ],
+      "address": "2-4 Coblentz Avenue\nCascade"
+    },
+    {
+      "name": "The Rise Grill and Bar Restaurant",
+      "type": "bar",
+      "phone": [
+        "665-5627",
+        "333-2979",
+        "681-5429"
+      ],
+      "address": "Rodney Road\nEndeavour"
+    },
+    {
+      "name": "The Squeeze",
+      "type": "bar",
+      "address": "Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "The Toucan Restaurant & Bar",
+      "type": "bar",
+      "phone": [
+        "380-3684"
+      ],
+      "address": "67A Ariapita Avenue\nPort of Spain"
+    },
+    {
+      "name": "Three Palms Bar",
+      "type": "bar",
+      "address": "Buen Intento Road\nPrinces Town"
+    },
+    {
+      "name": "Timerz Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nCunupia"
+    },
+    {
+      "name": "Tino's Restaurant and Bar",
+      "type": "bar",
+      "address": "Wilson Road\nScarborough, Tobago"
+    },
+    {
+      "name": "Togetherness Restaurant and Bar",
+      "type": "bar",
+      "address": "Egypt Village\nPoint Fortin"
+    },
+    {
+      "name": "Top Gear Bar",
+      "type": "bar",
+      "address": "Tasker Road\nPrinces Town"
+    },
+    {
+      "name": "Tracks Bar",
+      "type": "bar",
+      "address": "Factory Road\nGasparillo"
+    },
+    {
+      "name": "Traditions Bar and Grill",
+      "type": "bar",
+      "phone": [
+        "767-5669"
+      ],
+      "address": "Pigeon Point Road\nCrown Point"
+    },
+    {
+      "name": "Traffic Jam Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "662-2643"
+      ],
+      "address": "King & Abercromby Streets\nSt. Joseph"
+    },
+    {
+      "name": "Trevor's Edge Pub",
+      "type": "bar",
+      "phone": [
+        "645-3131"
+      ],
+      "address": "#1 Saint John Road\nSt. Augustine"
+    },
+    {
+      "name": "Tri Star Bar",
+      "type": "bar",
+      "address": "corner of #718 Dades Trace Junction and #715 Tabaquite Road\nRio Claro"
+    },
+    {
+      "name": "Trio's Bar",
+      "type": "bar",
+      "address": "St Charles Road\nPrinces Town"
+    },
+    {
+      "name": "Triple S Restuarant & Bar",
+      "type": "bar",
+      "address": "#65 Rock Road\nPenal"
+    },
+    {
+      "name": "Trooper's Bar",
+      "type": "bar",
+      "phone": [
+        "497-2911"
+      ],
+      "address": "67 Sanahee Trace, Mohess Road\nBarrackpore"
+    },
+    {
+      "name": "Tropical Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nSt Margarets"
+    },
+    {
+      "name": "Tropicana Bar",
+      "type": "bar",
+      "address": "Hermitage Village\nClaxton Bay"
+    },
+    {
+      "name": "Turning Peak Bar",
+      "type": "bar",
+      "address": "La Plaisance Road\nLa Romaine"
+    },
+    {
+      "name": "Upper Level Club",
+      "type": "bar",
+      "phone": [
+        "637-1753"
+      ],
+      "address": "Westmoorings"
+    },
+    {
+      "name": "Uncle Sam�s Restaurant and Bar",
+      "type": "bar",
+      "address": "Maracas Bay Old Road\nMaracas Bay"
+    },
+    {
+      "name": "Unique Bar and Restaurant",
+      "type": "bar",
+      "phone": [
+        "374-0414"
+      ],
+      "address": "Montrose Main Road\nChaguanas"
+    },
+    {
+      "name": "Up Top Bar & Lounge",
+      "type": "bar",
+      "phone": [
+        "722-2171",
+        "318-5898"
+      ],
+      "address": "Milford Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Unwined",
+      "type": "bar",
+      "phone": [
+        "769-4080"
+      ],
+      "address": "Henry Street & 80 Eastern Main Road\nArouca"
+    },
+    {
+      "name": "US One",
+      "type": "bar",
+      "phone": [
+        "624-9876"
+      ],
+      "address": "Frederick Street\nPort of Spain"
+    },
+    {
+      "name": "Val's Bar",
+      "type": "bar",
+      "address": "Southern Main Road\nMarabella"
+    },
+    {
+      "name": "Val's Bar",
+      "type": "bar",
+      "address": "Samuel Street\nMatelot Village"
+    },
+    {
+      "name": "Vanessa's Bar and Lounge",
+      "type": "bar",
+      "phone": [
+        "644-0249"
+      ],
+      "address": "2229 Naparima Mayaro Road\nLibertville, Rio Claro"
+    },
+    {
+      "name": "Vegas Bar",
+      "type": "bar",
+      "address": "Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Vice City Bar",
+      "type": "bar",
+      "address": "Caroni South Bank Road\nSt Helena"
+    },
+    {
+      "name": "Vidales Bar",
+      "type": "bar",
+      "address": "SS Erin Road\nPenal"
+    },
+    {
+      "name": "Villa Cruz Sports Bar",
+      "type": "bar",
+      "phone": [
+        "270-2909"
+      ],
+      "address": "Akal Trace, La Pastora\nCantaro Village, Santa Cruz."
+    },
+    {
+      "name": "Villas Garden",
+      "type": "bar",
+      "address": "Fort Street\nScarborough, Tobago"
+    },
+    {
+      "name": "Webster�s Bar",
+      "type": "bar",
+      "address": "Cantaro Extension, Cantaro Village\nUpper Santa Cruz"
+    },
+    {
+      "name": "Whiskey Business Restaurant and Loungeb",
+      "type": "bar",
+      "phone": [
+        "685-8969"
+      ],
+      "address": "Tulsa Trace\nPenal"
+    },
+    {
+      "name": "Whistle Stop Pub",
+      "type": "bar",
+      "address": "Tunapuna"
+    },
+    {
+      "name": "Williams Sports Bar",
+      "type": "bar",
+      "address": "De Gannes Village\nSiparia"
+    },
+    {
+      "name": "Willow's Bar",
+      "type": "bar",
+      "address": "Mt Lambert Circular Road and First Avenue\nMt Lambert"
+    },
+    {
+      "name": "Wild Thing Restaurant & Sportsbar",
+      "type": "bar",
+      "address": "Cantaro Village, Santa Cruz"
+    },
+    {
+      "name": "Wing Hua",
+      "type": "bar",
+      "phone": [
+        "665-4639"
+      ],
+      "address": "Caroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Woodford Cafe",
+      "type": "bar",
+      "phone": [
+        "672-0001"
+      ],
+      "address": "Price Plaza\nChaguanas"
+    },
+    {
+      "name": "Y2K Pub",
+      "type": "bar",
+      "address": "Wilson Road\nScarborough, Tobago"
+    },
+    {
+      "name": "Zen - The Four Levels",
+      "type": "bar",
+      "phone": [
+        "625-9936"
+      ],
+      "address": "9 - 11 Keate Street\nPort of Spain"
+    },
+    {
+      "name": "Zong Chang Restaurant and Bar",
+      "type": "bar",
+      "address": "Bonne Aventure Road\nGasparillo"
+    },
+    {
+      "name": "Bootleggers Restaurant and Bar",
+      "type": "bar",
+      "locations": [
+        {
+          "phone": [
+            "640-8448"
+          ],
+          "address": "Trincity Mall\nTrincity"
+        }
+      ]
+    },
+    {
+      "name": "Buzz Bar",
+      "type": "bar",
+      "locations": [
+        {
+          "phone": [
+            "221-8375"
+          ],
+          "address": "One Woodbrook Place\nDamian Street\nPort of Spain"
+        }
+      ]
+    }
+  ]
+}

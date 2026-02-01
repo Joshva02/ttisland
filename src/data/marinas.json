@@ -1,0 +1,60 @@
+{
+  "source": "http://tntisland.com/marinas.html",
+  "page_title": "Trinidad & Tobago Marinas",
+  "category": "transportation",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Corel Cove Marina",
+      "type": "marina",
+      "phone": [
+        "634-2040"
+      ],
+      "address": "Western Main Road\nChaguaramas\n(Tel) 634-2040"
+    },
+    {
+      "name": "Crewsinn Marina & Boatyard",
+      "type": "marina",
+      "phone": [
+        "634-4384"
+      ],
+      "address": "Chaguaramas Terminal Drive\nChaguaramas\n(Tel) 634-4384"
+    },
+    {
+      "name": "Humming Bird Marine",
+      "type": "marina",
+      "phone": [
+        "634-4046"
+      ],
+      "address": "Western Main Road\nChaguaramas\n(Tel) 634-4046"
+    },
+    {
+      "name": "IMS Yacht Services",
+      "type": "marina",
+      "phone": [
+        "625-2104"
+      ],
+      "address": "First Avenue South\nChaguaramas\n(Tel) 625-2104"
+    },
+    {
+      "name": "La Soufriere Maritime Ltd.",
+      "type": "marina",
+      "phone": [
+        "634-1717"
+      ],
+      "address": "The Esplanade\nWestern Main Road\nChaguaramas\n(Tel) 634-1717"
+    },
+    {
+      "name": "Powerboat Mutual Facilities",
+      "type": "marina",
+      "locations": [
+        {
+          "phone": [
+            "634-4303"
+          ],
+          "address": "Western Main Road\nChaguaramas\n(Tel) 634-4303"
+        }
+      ]
+    }
+  ]
+}

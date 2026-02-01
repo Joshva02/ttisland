@@ -1,0 +1,44 @@
+{
+  "source": "http://tntisland.com/beer.html",
+  "page_title": "TnT Beer Labels",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Welcome to Tringo Beer Gallery",
+      "type": "beer_label"
+    },
+    {
+      "name": "Carib Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "Carib Strong Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "Royal Extra Stout Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "Carib Brewery",
+      "type": "beer_label"
+    },
+    {
+      "name": "Stag Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "Malta Carib Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "Shandy Carib Beer",
+      "type": "beer_label"
+    },
+    {
+      "name": "1 - website are on the net, please see the \"drinks\" section on my tnt links page.",
+      "type": "beer_label"
+    }
+  ]
+}

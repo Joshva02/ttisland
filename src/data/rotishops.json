@@ -1,0 +1,498 @@
+{
+  "source": "http://tntisland.com/rotishops.html",
+  "page_title": "Trinidad & Tobago Roti Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Ali's Roti Shop",
+      "type": "roti_shop",
+      "address": "Back Chain Street\nEl Socorro, San Juan"
+    },
+    {
+      "name": "Ali's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "346-3329"
+      ],
+      "address": "8 Western Main Road\nSt. James"
+    },
+    {
+      "name": "243 Southern Main Road",
+      "type": "roti_shop",
+      "extra_info": "Marabella\nTel: 658-1691\nAnn's Roti (Arima)",
+      "address": "Elizabeth Avenue (off Tumpuna Road ... opposite the maxi)\nArima"
+    },
+    {
+      "name": "Aptie's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "640-0273"
+      ],
+      "address": "13 Huggins Street\nTacarigua"
+    },
+    {
+      "name": "Belly Full",
+      "type": "roti_shop",
+      "phone": [
+        "472-9273"
+      ],
+      "address": "Fyzabad"
+    },
+    {
+      "name": "Boujies Restaurant & Bar",
+      "type": "roti_shop",
+      "phone": [
+        "671-1634"
+      ],
+      "address": "Orangefield Junction\nChase Village\nCarapichaima"
+    },
+    {
+      "name": "Carmen's Roti Shop",
+      "type": "roti_shop",
+      "address": "Rochard Douglas Road\nBarrackpore"
+    },
+    {
+      "name": "Chamelly's Roti Shop",
+      "type": "roti_shop",
+      "address": "Southern Main Road\nLa Romain"
+    },
+    {
+      "name": "Charlies Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "645-6767"
+      ],
+      "address": "10 Cochrane Street\nTunapuna"
+    },
+    {
+      "name": "Charmin's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "790-0544"
+      ],
+      "address": "Rivulet Road\nPoint Lisas"
+    },
+    {
+      "name": "Curry Lovers Roti Shop & Restaurant",
+      "type": "roti_shop",
+      "phone": [
+        "348-5966"
+      ],
+      "address": "42 Macoya Road\nMacoya"
+    },
+    {
+      "name": "D' Roti Corner",
+      "type": "roti_shop",
+      "phone": [
+        "354-0525"
+      ],
+      "address": "Southern Main Road\nMarabella\n354-0525"
+    },
+    {
+      "name": "D' Roti Hut",
+      "type": "roti_shop",
+      "phone": [
+        "681- 8717"
+      ],
+      "address": "Eastern Main Road\nSangre Grande"
+    },
+    {
+      "name": "D's Roti Shop",
+      "type": "roti_shop",
+      "address": "Kelly Junction\nGuaracara Tabaquite Main Road\nWilliamsville"
+    },
+    {
+      "name": "76 Charlotte Street",
+      "type": "roti_shop",
+      "extra_info": "Port of Spain\nTel: 623-2256\n12 Saddle Road\nSan Juan\nTel: 638-7684\nDon's Roti Shop",
+      "phone": [
+        "637-8310"
+      ],
+      "address": "corner: Crystal Stream Avenue and Morne Coco Road\nDiego Martin"
+    },
+    {
+      "name": "Newtown (between Maraval Road & Picton Street)",
+      "type": "roti_shop",
+      "extra_info": "Port of Spain\nEmpyrean Roti Shop & Grill",
+      "phone": [
+        "334-6007"
+      ],
+      "address": "Zev Ben Eliazer Avenue\nDiego Martin"
+    },
+    {
+      "name": "Epic Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "343-2234"
+      ],
+      "address": "267 Main Road\nLongdenville, Chaguanas"
+    },
+    {
+      "name": "Homestyle Cooking and Roti Shop",
+      "type": "roti_shop",
+      "address": "#69, Bonne Aventure Road\nGasparillo"
+    },
+    {
+      "name": "Indepedence Square",
+      "type": "roti_shop",
+      "extra_info": "Port Of Spain\nTel: 627-3036\nCharlotte Street\nPort Of Spain\nTel: 625- roti (7684)\nEastern Main Road\nSilver Mill\nTel: 674- roti (7684)\nEastern Main Road\nTunapuna\nTel: 662- 2831\nFar Fan Street\nArima\nTel: 667-4130\nHott Roti Shoppe",
+      "phone": [
+        "652-9465"
+      ],
+      "address": "121 Coffee Street\nSan Fernando"
+    },
+    {
+      "name": "Hurry Kurry",
+      "type": "roti_shop",
+      "phone": [
+        "628-1691"
+      ],
+      "address": "Royal Palm Suite Hotel (Food Court)\nSaddle Road\nMaraval"
+    },
+    {
+      "name": "Islands Restaurant & Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "622-3949"
+      ],
+      "address": "Tardieu Marine Compound\nWestern Main Road\nChaguaramas"
+    },
+    {
+      "name": "Island Roti Shop & Caf�",
+      "type": "roti_shop",
+      "phone": [
+        "634-2016"
+      ],
+      "address": "Western Main Road\nChagaramas"
+    },
+    {
+      "name": "Juman's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "645-5104"
+      ],
+      "address": "Jackson Street\nCurepe"
+    },
+    {
+      "name": "Karamath's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "653-1142"
+      ],
+      "address": "157 Coffee Street\nSan Fernando"
+    },
+    {
+      "name": "Khan's Roti & Tea Shop",
+      "type": "roti_shop",
+      "phone": [
+        "648-3423"
+      ],
+      "address": "5 Mainfield Road\nPoint Fortin"
+    },
+    {
+      "name": "Knick Nacks Roti Shop",
+      "type": "roti_shop",
+      "address": "SS Erin Road\nPenal"
+    },
+    {
+      "name": "Lovey's",
+      "type": "roti_shop",
+      "address": "Tumpuna Road (off Eastern Main Road)\nTunapuna"
+    },
+    {
+      "name": "M & J Roti Shop",
+      "type": "roti_shop",
+      "address": "Main Road\nChaguanas"
+    },
+    {
+      "name": "Mala's Roti Shop",
+      "type": "roti_shop",
+      "address": "Cipero Street (next to Shireen's Pharmacy)\nSan Fernando"
+    },
+    {
+      "name": "Mechelle Chatoor's Roti Hut & Catering Services",
+      "type": "roti_shop",
+      "phone": [
+        "327-6466"
+      ],
+      "address": "Pepper Village, Fyzabad"
+    },
+    {
+      "name": "Mom's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "331-1716"
+      ],
+      "address": "Waterloo Road\nCarapichaima"
+    },
+    {
+      "name": "Mona's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "488-4012"
+      ],
+      "address": "Southern Main Road (Opposite the police station at the round-about)\nMarabella"
+    },
+    {
+      "name": "Nandalal's Hot-o-Hot Roti Shop",
+      "type": "roti_shop",
+      "address": "Barataria"
+    },
+    {
+      "name": "NarKarz Roti",
+      "type": "roti_shop",
+      "phone": [
+        "469-1779 ("
+      ],
+      "address": "Mt. Moriah, Welcome Estates\nCunupia\nwhatapps)"
+    },
+    {
+      "name": "Parbatie's Roti Shop",
+      "type": "roti_shop",
+      "address": "Old Airport Food Court\nPiarco"
+    },
+    {
+      "name": "Patraj Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "622-6219"
+      ],
+      "address": "161 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "R&B Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "725-1055",
+        "743-7971"
+      ],
+      "address": "Southern Main Road\nAripero Village\nRousillac\nR&R Jr Roti ShopEastern Main Road\nD'Abadie\nYorke Avenue\nArima"
+    },
+    {
+      "name": "Diego Martin",
+      "type": "roti_shop",
+      "extra_info": "Ree�s Kitchen",
+      "phone": [
+        "390-9083"
+      ],
+      "address": "Southern Main Road\nChase Village"
+    },
+    {
+      "name": "Rena's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "635-7684"
+      ],
+      "address": "Milford Road\nScarborough"
+    },
+    {
+      "name": "Roti Supreme",
+      "type": "roti_shop",
+      "phone": [
+        "675-7684"
+      ],
+      "address": "80 Queen Street\nPort of Spain"
+    },
+    {
+      "name": "S&S Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "331-2456"
+      ],
+      "address": "Pranz Gradens\nCaroni Savannah Road\nChaguanas"
+    },
+    {
+      "name": "Sandra Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "385-8644"
+      ],
+      "address": "Constance Street\nChaguanas"
+    },
+    {
+      "name": "Sherry's Roti Shop",
+      "type": "roti_shop",
+      "address": "5th Street\nSan Juan"
+    },
+    {
+      "name": "Sheila's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "350-3387",
+        "755-5926"
+      ],
+      "address": "Pasea Main Road\nTunapuna"
+    },
+    {
+      "name": "Smallie's Roti Shop",
+      "type": "roti_shop",
+      "email": [
+        "smalliesrotishop@gmail.com"
+      ],
+      "extra_info": "email: smalliesrotishop@gmail.com.",
+      "phone": [
+        "499-0594",
+        "361-9799"
+      ],
+      "address": "City Gate\nSouth Quay\nPort of Spain"
+    },
+    {
+      "name": "Sumintra's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "647-1383"
+      ],
+      "address": "Katwaroo Trace\n1147 S.S. Erin Road\nPenal"
+    },
+    {
+      "name": "Sylvie's Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "387-7244"
+      ],
+      "address": "4 Back Chain Street\nSan Juan"
+    },
+    {
+      "name": "The Bamboo Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "636-3352"
+      ],
+      "address": "48 Southern Main Road\nCouva"
+    },
+    {
+      "name": "The Food Sauce",
+      "type": "roti_shop",
+      "phone": [
+        "624-6551"
+      ],
+      "address": "44 Charlotte Street\nPort of Spain"
+    },
+    {
+      "name": "The Curry Leaf Indian Cuisine and Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "685-0672",
+        "379-4289"
+      ],
+      "address": "#4 Crystal Stream Avenue\nDiego-Martin"
+    },
+    {
+      "name": "The Curry Spot",
+      "type": "roti_shop",
+      "phone": [
+        "645-9241"
+      ],
+      "address": "Valpark Shopping Plaza\nValsayn"
+    },
+    {
+      "name": "The Hot Shop",
+      "type": "roti_shop",
+      "address": "Maraval Road\nNewtown\nPort of Spain"
+    },
+    {
+      "name": "The Hott Shoppe",
+      "type": "roti_shop",
+      "phone": [
+        "622-4073"
+      ],
+      "address": "20 Mucurapo Road\nSt James\nPort of Spain"
+    },
+    {
+      "name": "The Roti Cafe",
+      "type": "roti_shop",
+      "phone": [
+        "676-7759"
+      ],
+      "address": "194 Upper Saddle Road\nSanta Cruz"
+    },
+    {
+      "name": "The Roti Shoppe",
+      "type": "roti_shop",
+      "phone": [
+        "675-7684"
+      ],
+      "address": "124 Eastern Main Road\nBarataria"
+    },
+    {
+      "name": "Tina Roti Shop",
+      "type": "roti_shop",
+      "address": "Carlos Street & Tragarete Road\nWoodbrook"
+    },
+    {
+      "name": "Tropical Lime",
+      "type": "roti_shop",
+      "phone": [
+        "665-1033"
+      ],
+      "address": "Price Plaza\nEndeavour, Chaguanas"
+    },
+    {
+      "name": "We Foods Roti Shop",
+      "type": "roti_shop",
+      "phone": [
+        "623-5540"
+      ],
+      "address": "1 Gordon Street\nPort of Spain"
+    },
+    {
+      "name": "Amin's Restaurant & Roti Shop",
+      "type": "roti_shop",
+      "locations": [
+        {
+          "phone": [
+            "652-5108"
+          ],
+          "address": "10 Gooding Village\nSan Fernando\nTell 652-5108"
+        }
+      ]
+    },
+    {
+      "name": "Dee Balo's Roti Shop",
+      "type": "roti_shop",
+      "locations": [
+        {
+          "phone": [
+            "624-7684"
+          ],
+          "address": "53 Park Street\nPort of Spain"
+        }
+      ]
+    },
+    {
+      "name": "Dopson's Roti Shop",
+      "type": "roti_shop",
+      "locations": [
+        {
+          "address": "Marli Street\nPort of Spain"
+        }
+      ]
+    },
+    {
+      "name": "Hosein's Roti Shop",
+      "type": "roti_shop",
+      "locations": [
+        {
+          "phone": [
+            "627-2357"
+          ],
+          "address": "Queen & George Streets\nPort Of Spain"
+        }
+      ]
+    },
+    {
+      "name": "R&R Jr Roti Shop",
+      "type": "roti_shop",
+      "locations": [
+        {
+          "phone": [
+            "725-1055",
+            "743-7971"
+          ],
+          "address": "Eastern Main Road\nD'Abadie\nYorke Avenue\nArima"
+        }
+      ]
+    }
+  ]
+}

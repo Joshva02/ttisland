@@ -1,0 +1,84 @@
+{
+  "source": "http://tntisland.com/hostels.html",
+  "page_title": "Trinidad & Tobago Hostels",
+  "category": "accommodations",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Geddes Grant Women's Hostel",
+      "type": "hostel",
+      "phone": [
+        "623-5700"
+      ],
+      "address": "Port Of Spain"
+    },
+    {
+      "name": "Josephine Shaw Girls Hostell",
+      "type": "hostel",
+      "phone": [
+        "623-2547"
+      ],
+      "address": "Port Of Spain"
+    },
+    {
+      "name": "Men's Hostel",
+      "type": "hostel",
+      "phone": [
+        "623-4710"
+      ],
+      "address": "Port Of Spain"
+    },
+    {
+      "name": "Mom's Bed and Breakfast",
+      "type": "hostel",
+      "phone": [
+        "660-7903"
+      ],
+      "address": "Englishman's Bay\nMiss Mills Road\nCastara"
+    },
+    {
+      "name": "Oropouche Hostel",
+      "type": "hostel",
+      "email": [
+        "info@oropouchehostel.com"
+      ],
+      "extra_info": "email: Oropouche Hostel",
+      "phone": [
+        "678-9005 ("
+      ],
+      "address": "Toco Road\nVega de Oropouche\nHollis)"
+    },
+    {
+      "name": "Plantation Beach Villas Ltd",
+      "type": "hostel",
+      "phone": [
+        "639-9377"
+      ],
+      "address": "Stone Haven Bay Road\nScarborough"
+    },
+    {
+      "name": "Salvation Army The Divisional Headquarters",
+      "type": "hostel",
+      "phone": [
+        "625-4120"
+      ],
+      "address": "27 Edward Street\nPort Of Spain"
+    },
+    {
+      "name": "Simple Escapes",
+      "type": "hostel",
+      "phone": [
+        "628-1283"
+      ],
+      "address": "25 Baden Powell Street\nWoodbrook"
+    },
+    {
+      "name": "Working Lad's Hostel",
+      "type": "hostel",
+      "phone": [
+        "623-6514"
+      ],
+      "address": "Port of Spain"
+    }
+  ]
+}

@@ -1,26 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #FFFFFF;
+  --fg: #0A0A0A;
+  --cream: #F5F5F5;
+  --warm-white: #FFFFFF;
+  --terra: #CE1126;
+  --ochre: #CE1126;
+  --deep-green: #0A0A0A;
+  --sea: #0A0A0A;
+  --charcoal: #0A0A0A;
+  --faded: #888888;
+  --rule: #E0E0E0;
+  --rule-dark: #333333;
+  --surface: #FFFFFF;
+  --ink: #0A0A0A;
+  --font-display: 'Syne', 'Helvetica Neue', sans-serif;
+  --font-body: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-cream: var(--cream);
+  --color-warm-white: var(--warm-white);
+  --color-terra: var(--terra);
+  --color-ochre: var(--ochre);
+  --color-deep-green: var(--deep-green);
+  --color-sea: var(--sea);
+  --color-charcoal: var(--charcoal);
+  --color-faded: var(--faded);
+  --color-rule: var(--rule);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --font-mono: var(--font-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.dark {
+  --bg: #0A0A0A;
+  --fg: #F0F0F0;
+  --cream: #161616;
+  --warm-white: #111111;
+  --charcoal: #1A1A1A;
+  --surface: #141414;
+  --faded: #888888;
+  --rule: #2A2A2A;
+  --ink: #F0F0F0;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.65;
+  letter-spacing: 0.01em;
 }
+
+::selection {
+  background: var(--terra);
+  color: #fff;
+}
+
+/* Grain overlay — gives that printed/risograph feel */
+.grain::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.04;
+  z-index: 9999;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+  background-size: 256px;
+}
+
+/* Editorial rule — horizontal line */
+.editorial-rule {
+  border: none;
+  height: 1px;
+  background: var(--rule);
+}
+
+/* Display headings — Syne, tight tracking */
+.heading-display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+}
+
+/* Mono labels */
+.label-mono {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  line-height: 1;
+}
+
+/* Marquee / ticker strip */
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ticker-strip {
+  animation: ticker 30s linear infinite;
+}
+.ticker-strip:hover {
+  animation-play-state: paused;
+}
+
+/* Stagger reveal */
+@keyframes revealUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.reveal-up {
+  animation: revealUp 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+/* Hover underline expand */
+.hover-line {
+  position: relative;
+  display: inline-block;
+}
+.hover-line::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background: var(--terra);
+  transition: width 0.3s ease;
+}
+.hover-line:hover::after {
+  width: 100%;
+}
+
+/* Category pill */
+.cat-pill-active {
+  background: var(--charcoal);
+  color: var(--cream);
+}
+.dark .cat-pill-active {
+  background: #E8E8E8;
+  color: #1A1A1A;
+}
+
+/* Inverted toggle — used for buttons/toggles that swap bg in dark mode */
+.toggle-active {
+  background: var(--charcoal);
+  color: var(--cream);
+}
+.dark .toggle-active {
+  background: #E8E8E8;
+  color: #1A1A1A;
+}
+
+/* Feature section — dark bg with light text in both modes */
+.feature-section {
+  background: var(--charcoal);
+  color: #F5F5F5;
+}
+
+/* Card hover */
+.card-hover {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: var(--faded); }

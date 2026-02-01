@@ -1,0 +1,926 @@
+{
+  "source": "http://tntisland.com/panyards.html",
+  "page_title": "Trinidad & Tobago Panyards",
+  "category": "steelpan",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Alumknights Steel Orchestra",
+      "type": "panyard",
+      "location": "1-#11 Faria Avenue\nCalvary Hill, Arima\nEastern Region\nBirdsong Academy",
+      "contact": "UWI (University of West Indies) Old Works Compound\nSt. Augustine\nEastern Region"
+    },
+    {
+      "name": "BP Renegades Youth Steel Orchestra",
+      "type": "panyard",
+      "location": "#138 Renegades Way (#138 Charlotte Street)\nPort of Spain\nNorthern Region\nCordettes Academy for the Arts",
+      "contact": "#40 Foster Road\nSangre Grande\nEastern Region"
+    },
+    {
+      "name": "Courts Sound Specialists Youth Steel Orchestra",
+      "type": "panyard",
+      "location": "La Paix Circular, Eastern Main Road\nLaventille\nNorthern Region\nDesperadoes Youth Steel Orchestra",
+      "contact": "Desperadoes Pan Theatre\nLot 6-8, George Street\nPort of Spain\nNorthern Region"
+    },
+    {
+      "name": "First Citizens Bank (FCB) SuperNovas Youth Steel Orchestra",
+      "type": "panyard",
+      "location": "Surrey Village\nLopinot Road\nArouca\nEastern Region\nFonclaire Juniors",
+      "contact": "Dottin Street\nSan Fernando\nSouth/Central Region"
+    },
+    {
+      "name": "Highlander Youth Steel Orchestra",
+      "type": "panyard",
+      "location": "#4 Eastern Main Road\nSuccess Village, Laventille\nNorthern Region\nHill Toppers Steelpan Academy",
+      "contact": "#88 Robinson Lane, #2 Damarie Hill\nSangre Grande\nEastern Region"
+    },
+    {
+      "name": "Kimberly's Royal Steel Orchestra",
+      "type": "panyard",
+      "location": "Bellamy Street\nArima\nEastern Region\nMassy Trinidad All Stars Youth Steel Orchestra",
+      "contact": "#46-48 Duke Street\nPort of Spain\nNorthern Region"
+    },
+    {
+      "name": "Matthew's Steel Orchestra Music Academy",
+      "type": "panyard",
+      "location": "North East Community Centre\n17 Lantana Terra\nDuranta Gardens, Sangre Grande\nEastern Region\nNGC La Brea Nightingales Youth Steel Orchestra",
+      "contact": "Tanti Park\nPoint D'or, La Brea\nSouth/Central Region"
+    },
+    {
+      "name": "Old Tech Steel Youths Orchestra",
+      "type": "panyard",
+      "location": "Chaconia Avenue & Pleasantville Circular\nPleasantville, San Fernando\nSouth/Central Region\nPan Angels Youth Steel Orchestra",
+      "contact": "Southern Main Road\nEnterprise, Chaguanas\nSouth/Central Region"
+    },
+    {
+      "name": "Panasonic Connection Steel Orchestra",
+      "type": "panyard",
+      "location": "#10 Macoon Street\nVictoria Village, San Fernando\nSouth/Central Region\nPandemonium Youth Steel Orchestra",
+      "contact": "#3 Norfolk Street\nBelmont, Port of Spain\nNorthern Region"
+    },
+    {
+      "name": "Phase II Pan Groove Junior Steel Orchestra",
+      "type": "panyard",
+      "location": "#13 Hamilton Street Street\nWoodbrook, Port of Spain\nNorthern Region\nProman Starlift Youth Steel Orchestra",
+      "contact": "#1 Christopher Samuel Drive, Mucurapo Road\nPort of Spain\nNorthern Region"
+    },
+    {
+      "name": "RBC Redemption Sound Setters Youth",
+      "type": "panyard",
+      "location": "Montgomery Road\nBethel, Tobago\nTobago Region\nShell Invaders Youth Steel Orchestra",
+      "contact": "#147 Tragarete Road\nWoodbrook, Port of Spain\nNorthern Region"
+    },
+    {
+      "name": "Siparia Deltones Junior Steel Orchestra",
+      "type": "panyard",
+      "location": "Ellis Knight Complex\nRailway Road\nSiparia\nSouth/Central Region\nT&Tec Tropical Angel Harps Youth Steel Orchestra",
+      "contact": "Southern Main Road\nEnterprise, Chaguanas\nSouth/Central Region"
+    },
+    {
+      "name": "Valley Harps Youth Steel Orchestra",
+      "type": "panyard",
+      "location": "Morne Coco Road\nRiver Estate, Petit Valley\nNorthern Region\nback to the top\nTrinidad Panyards\nTotal Trinidad Bands: 242 (Single Pana aka Traditional Bands ~~ 80; Conventional Band Bands ~~ 162)\nBand",
+      "contact": "Location ~~ Zonal Region ~~ Band Type"
+    },
+    {
+      "name": "All Aces Symphony",
+      "type": "panyard",
+      "location": "Hutton Road\nSt Anns\nNorthern Region\nSingle Pan (Traditional) Band\nAntillean All Stars",
+      "contact": "#8 - 10 Carib Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Arima Allstars",
+      "type": "panyard",
+      "location": "Malabar Road\nArima\nEastern Region\nSingle Pan (Traditional) Band\nArima Angel Harps Steel Orchestra",
+      "contact": "Eastern Main Road & Olton Trace\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Arima Golden Symphony",
+      "type": "panyard",
+      "location": "Arima Angel Harps Panyard\ncorner Olton Road & Eastern Main Road\nArima\nEastern Region\nConventional Band\nArmarites",
+      "contact": "Don Miguel Street & Extension Road\nEl Socorro\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Arnaris",
+      "type": "panyard",
+      "location": "Chin Chin Road\nCunupia\nSouth/Central Region\nConventional Band\nAugmented Groove Steel Orchestra",
+      "contact": "Melodians Pan Yard\nBellamy Street\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "B Minor",
+      "type": "panyard",
+      "location": "Never Dirty Community Centre\nLaventille Ext. Road\nMorvant, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nBar 22",
+      "contact": "#57 St Ann's Main Road\nSt. Ann's\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Belmont 5th Dimension",
+      "type": "panyard",
+      "location": "#14 Upper St. Francois Valley Road\nBelmont, Port of Spain\nNorthern Region\nConventional Band\nBelmont City Kids International",
+      "contact": "Belmont Community Centre, Jerningham Avenue\nBelmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Belmont Harmonic",
+      "type": "panyard",
+      "location": "Belmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nBelmont Hi-Larks",
+      "contact": "Belmont Community Centre, Jerningham Avenue\nBelmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Birdsong",
+      "type": "panyard",
+      "location": "Sapodilla & Vincent Steets\nTunapuna\nEastern Region\nConventional Band\nBlanca 47",
+      "contact": "Tanti Park\nLa Brea\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Blue Diamonds",
+      "type": "panyard",
+      "location": "#34 - 41 Geroge Street\nPort of Spain\nNorthern Region\nConventional Band\nBon Air Rhythm Rockers",
+      "contact": "126-128 Eastern Main Road (NATCO Compound)\nBon Air West, Arouca\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Boystown",
+      "type": "panyard",
+      "location": "Cumana, Carenage\nNorthern Region\nConventional Band\nBP Renegades Steel Orchestra",
+      "contact": "#138 Renegades Way (#138 Charlotte Street)\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Brimblers",
+      "type": "panyard",
+      "location": "Corner Warren And Gallus Streets\nWoodbrook, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nBrazil RX4",
+      "contact": "Talparo Main Road\nBrazil Village, Brazil\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Cadenza Steel Orchestra",
+      "type": "panyard",
+      "location": "Pierreville, Mayaro\nSouth/Central Region\nConventional Band\nCaribbean Music",
+      "contact": "28th & 4th Street\nBarataria\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Caribbean Paradise",
+      "type": "panyard",
+      "location": "Chinapoo Basketball Court\nMorvant, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band \nCasablanca",
+      "contact": "#31 Belmont Circular Road\nBelmont, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Chord Masters",
+      "type": "panyard",
+      "location": "Pamberri Panyard, Santa Cruz old Road\nSan Juan\nEastern Region\nSingle Pan (Traditional) Band \nCity Sun Valley Groove",
+      "contact": "#10 Duke Street\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Cocorite Road Pan Groovers",
+      "type": "panyard",
+      "location": "Bellamy Street, Cocorite Road\nArima\nEastern Region\nSingle Pan (Traditional) Band\nCocorite West Wind",
+      "contact": "Opp. #7 Building\nWaterhole, Cocorite\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Codrington Pan Family",
+      "type": "panyard",
+      "location": "Port of Spain\nNorthern Region\nConventional Band\nCourts Sound Specialists of Laventille",
+      "contact": "La Pax Circular Road\nEastern Quarry, Laventille\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Crazy Golden Eagles",
+      "type": "panyard",
+      "location": "George Street Community Centre, George Street\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nCrescendoes",
+      "contact": "Old Southern Main Road\nChaguanas\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Crescendoes Musical",
+      "type": "panyard",
+      "location": "Queen's Park Savannah\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nCurepe Polyphonics",
+      "contact": "Sforzata Pan Theatre, Harris Street\nSt. Augustine\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Curepe Scherzando Steel Orchestra",
+      "type": "panyard",
+      "location": "Curepe Scherzando Pan Yard\nEvans Street\nCurepe\nEastern Region\nConventional Band\nback to the top\nD' Original Woodbrook Modernaires",
+      "contact": "French Street & Tragarete Road\nWoodbrook, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "D' Untouchables Pan Groove",
+      "type": "panyard",
+      "location": "#205 Pioneer Drive\nSea Lots, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nDesperadoes Steel Orchestra",
+      "contact": "Desperadoes Pan Theatre\nLot 6-8, George Street\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "East Phonics",
+      "type": "panyard",
+      "location": "Eastern Main Road\nValencia\nEastern Region\nConventional Band\nEdinburgh 500 Steel Ensemble",
+      "contact": "Lapwing Crescent\nEdinburgh 500, Chaguanasd\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Evangeltones",
+      "type": "panyard",
+      "location": "49th Street & Cecelia Road\nEl Dorado, Tunapuna\nEastern Region\nConventional Band\nback to the top\nFaith Revival",
+      "contact": "11 Eastern Main Road\nTunapuna\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Fascinators Pan Symphony",
+      "type": "panyard",
+      "location": "#1 Lammie Street\nEl Dorado, Tunapuna\nEastern Region\nConventional Band\nFirst Citizens Bank (FCB) Supernovas Steel Orchestra",
+      "contact": "Surrey Village\nLopinot Road\nArouca\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Five Rivers Modern Symphony",
+      "type": "panyard",
+      "location": "Range Road, Five Rivers\nArouca\nEastern Region\nConventional Band\nFlabej Now Ensemble",
+      "contact": "#15 Pembrook Street\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Flamingoes",
+      "type": "panyard",
+      "location": "St. Johns Road\nSt. John, St. Augustine\nEastern Region\nConventional Band\nFree Lancers Pan Groove",
+      "contact": "Duncan & Prince Streets\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "FUSDAT",
+      "type": "panyard",
+      "location": "#346 Street\nFanny Village, Point Fortin\nSouth/Central Region\nConventional Band\nFusion Steel Ensemble",
+      "contact": "NLCB Fonclaire Panyard\nDottin Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Fyzabad 4th Dimension",
+      "type": "panyard",
+      "location": "#291 Guapo Road\nFyzabad\nSouth/Central Region\nSingle Pan (Traditional) Band\nback to the top\nGenesis Pan Groove",
+      "contact": "LP #38, Evans Street\nCurepe\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Glory Tones",
+      "type": "panyard",
+      "location": "East Pan School, Eastern Main Road\nArouca\nEastern Region\nConventional Band\nGolden Hands",
+      "contact": "#134 Independence Avenue\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Gonzales Sheikers",
+      "type": "panyard",
+      "location": "#29 Lange Street\nGonzales\nNorthern Region\nConventional Band\nGospel Groove Pan Heights",
+      "contact": "#10 Avocado Drive\nSanta Rosa Heights\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Harlem Syncopaters",
+      "type": "panyard",
+      "location": "#63 Quarry Street, East Dry River\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nHarmonites",
+      "contact": "Chuchill Rosevelt Highway, Morvant Junction\nBarataria\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Harvard Harps",
+      "type": "panyard",
+      "location": "Harvard Club\nSerpentine Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band\nHatters Steel Orchestra",
+      "contact": "#100 Lady Hales Avenue\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Heritage Petroleum Siparia Deltones Steel Orchestra",
+      "type": "panyard",
+      "location": "Ellis Knight Complex\nRailway Road\nSiparia\nSouth/Central Region\nConventional Band\nHeritage Petroleum Skiffle Steel Orchestra",
+      "contact": "Coffee Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Highlarks",
+      "type": "panyard",
+      "location": "Belle's Cafe, 79 Belmont Ciruclar Road\nBelmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nHighlighters",
+      "contact": "#247 Bonne Aventure Road\nGasparillo\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Highlanders",
+      "type": "panyard",
+      "location": "Eastern Main Road & Williams Street\nSuccess Village, Laventille\nNorthern Region\nConventional Band\nHillside Symphony",
+      "contact": "Upper Hillside Street & Carib Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Humming Birds Pan Groove",
+      "type": "panyard",
+      "location": "#13 Fort George Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band\nHycupp Ensemble",
+      "contact": "#224 Eastern Main Road\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Ice Water Ensemble",
+      "type": "panyard",
+      "location": "#1 Bagatelle Road\nGreenhill, Diego Martin\nNorthern Region\nSingle Pan (Traditional) Band\nIn Focus",
+      "contact": "Starlift Drive & Western Main Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Is We",
+      "type": "panyard",
+      "location": "Picton & Nelson Streets\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nback to the top\nJadap",
+      "contact": "#2-4 Victoria Avenue\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Jah Roots",
+      "type": "panyard",
+      "location": "Warden Road\nCap-de-Ville, Point Fortin\nSouth/Central Region\nSingle Pan (Traditional) Band\nJay Notes",
+      "contact": "Guy Street\nSangre Grande\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Kalomo Kings",
+      "type": "panyard",
+      "location": "#116 Pleasantville Avenue\nPleasantville, San Fernando\nSouth/Central Region\nConventional Band\nKing's Row Retro Riddum",
+      "contact": "#55 Manahamber Road\nSt. Madeleine\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Klondikes Pan Sounds",
+      "type": "panyard",
+      "location": "Macoya Settlement, Macoya Road\nTunapuna\nEastern Region\nConventional Band\nKool",
+      "contact": "#25 - 27 Bonares Street\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "La Creole Pan Groove",
+      "type": "panyard",
+      "location": "La Puneta Avenue\nDeigo Martin\nNorthern Region\nSingle Pan (Traditional) Band\nLa Famille United Steel Orchestra",
+      "contact": "#48 Cascade Road, Cascade\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "La Horqueta Pan Groove",
+      "type": "panyard",
+      "location": "Neville Jules Crescent, Phase 5\nLa Horquetta, Arima\nEastern Region\nSingle Pan (Traditional) Band\nLa Romain Supervibes Pan Movement",
+      "contact": "Southern Main Road\nLa Romain\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Laventille Pan Strummers",
+      "type": "panyard",
+      "location": "Lovel & Tibury Place, East Dry River\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nLaventille Pasphonics",
+      "contact": "Upper Pashley Street\nLaventille\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Laventille Serenaders",
+      "type": "panyard",
+      "location": "St. Barbs & Laventille Roads\nLaventille\nNorthern Region\nConventional Band\nLincoln Express",
+      "contact": "#68 Ariapita Avenue\nWoodbrook, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Longdenville Claytones",
+      "type": "panyard",
+      "location": "Depot Road & Longdenville\nChaguanas\nSouth/Central Region\nConventional Band\nback to the top\nMagic Notes Rebirth",
+      "contact": "Talparo Main Road\nBrazil, Arima\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Maraval Blanca '47",
+      "type": "panyard",
+      "location": "Saddle Road\nMaraval\nNorthern Region\nSingle Pan (Traditional) Band\nMarsicans",
+      "contact": "Mausia Street\nArima\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Massy Trinidad All Stars Steel Orchestra",
+      "type": "panyard",
+      "location": "Neville Jules Junction\n#46-48 Duke Street\nPort of Spain\nNorthern Region\nConventional Band\nMelodians",
+      "contact": "Bellamy Street & Cocorite Road\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Merrytones",
+      "type": "panyard",
+      "location": "#1 Bagatelle Road\nGreenhill, Deigo Martin\nNorthern Region\nConventional Band\nMoods Steel Orchestra",
+      "contact": "Evans Street\nCurepe\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Morvant Ebonites",
+      "type": "panyard",
+      "location": "Don Santos Street, Morvant, Port of Spain\nNorthern Region\nConventional Band \nMotown Pan Theatre",
+      "contact": "Jadoo Trace\nMon Repos, San Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Mount Moriah Pan Movement",
+      "type": "panyard",
+      "location": "#17 Purcell Street\nSan Fernando\nSouth/Central Region\nConventional Band\nMusic Makers",
+      "contact": "#19 Straker Village, Picton Road\nLaventille\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Music Makers Steel Symphony",
+      "type": "panyard",
+      "location": "Jadoo Trace\nMon Repos, San Fernando\nSouth/Central Region\nConventional Band\nMusical Gems",
+      "contact": "Foreshore Lands\nCocorite\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Nayal Hill Steel Orchestra",
+      "type": "panyard",
+      "location": "#27 Layan Hill\nBelmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nNew Age Trendsetters",
+      "contact": "Francois Street, Southern Main Road\nEnterprise, Chaguanas\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "New Creation",
+      "type": "panyard",
+      "location": "Gonzales Village\nGuapo, Point Fortin\nSouth/Central Region\nConventional Band\nNew Wave",
+      "contact": "Dotton Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "New World Symphony",
+      "type": "panyard",
+      "location": "El Dorado Village\nTunapuna\nEastern Region\nConventional Band\nNewtown Playboys Steel Symphony",
+      "contact": "Tragarete Road\nNewtown, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "NGC Couva Joylanders Steel Orchestra",
+      "type": "panyard",
+      "location": "Railway Road\nCouva\nSouth/Central Region\nConventional Band\nNGC La Brea Nightingales",
+      "contact": "Tanti Park\nPoint Sable Road\nPoint D'or, La Brea\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "NLCB Fonclaire",
+      "type": "panyard",
+      "location": "Dottin Street\nSan Fernando\nSouth/Central Region\nConventional Band\nNocturne Fascinators",
+      "contact": "#1 Lammie Street\nEl Dorado Village, Tunapuna\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "North East All Stars",
+      "type": "panyard",
+      "location": "#6 Nexar Avenue, Randass Trace\nSangre Grande\nEastern Region\nSingle Pan (Traditional) Band \nNortholus Steel Orchestra#",
+      "contact": "#19 Stella Street\nCurepe\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Nostrand Symphony",
+      "type": "panyard",
+      "location": "#9 St Paul Street, East Dry River\nPort of Spain\nNorthern Region\nConventional Band\nNSA Vibrations",
+      "contact": "Starlift Drive & Western Main Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Nu Pioneers Pan Groove",
+      "type": "panyard",
+      "location": "Sanchez Street\nMausica Lands, Arima\nEastern Region\nSingle Pan (Traditional) Band\nNu Stars Steel Orchestra",
+      "contact": "corner Bypass & Mt. Pleasant Road\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Nu Tones",
+      "type": "panyard",
+      "location": "#6 Coryat Lane\nArima\nEastern Region\nConventional Band \nNutrien Silver Stars Steel Orchestra",
+      "contact": "#56 Tragarete Road\nNewtown, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Nuttin Big Pan Groove",
+      "type": "panyard",
+      "location": "#1 Roots Lane, Upper Morne Coco Road\nPetit Valley\nNorthern Region\nSingle Pan (Traditional) Band\nback to the top\nOld Tech Steel Orchestra",
+      "contact": "Pleasantville Community Centre\nChaconia Avenue & Pleasantville Circular\nPleasantville, San Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Ozone",
+      "type": "panyard",
+      "location": "Ortoire Village\nMayaro\nSouth/Central Region\nConventional Band\nback to the top\nPamberi Steel Orchestra",
+      "contact": "#11A Santa Cruz Old Road\nSan Juan\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Pan Angels",
+      "type": "panyard",
+      "location": "LP #55 Badase Street\nEnterprise, Chaguanas\nSouth/Central Region\nSingle Pan (Traditional) Band\nPan Elders Steel Orchestra",
+      "contact": "#18A Carib Street\nSan Fernando\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Pan Elites",
+      "type": "panyard",
+      "location": "Calvary Hill/Mt. Pleasant Community Centre\nMt.Pleasant\nEastern Region\nSingle Pan (Traditional) Band\nPan Family",
+      "contact": "Bath Street, East Dry River\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Pan Glow",
+      "type": "panyard",
+      "location": "#8A San Fernando Street\nSan Fernando\nSouth/Central Region\nConventional Band\nPan Jammers",
+      "contact": "Cantaro Village, Sam Boucaud Road\nUpper Santa Cruz\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Pan on the Move",
+      "type": "panyard",
+      "location": "Upper De Gannes Street\nArima\nEastern Region\nSingle Pan (Traditional) Band\nPan Professionals",
+      "contact": "#20 Haig Street & St. Clair\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Pan Revival Steel",
+      "type": "panyard",
+      "location": "Bynoe Trace\nEnterprise, Chaguanas\nSouth/Central Region\nConventional Band\nPan Stereonetts",
+      "contact": "Arima Angel Harps Panyard, Olton Road\nArima\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Pan Trinity",
+      "type": "panyard",
+      "location": "Albert Street\nArouca\nEastern Region\nConventional Band\nPan Vibes",
+      "contact": "St. Francois Valley Road\nBelmont, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Pan Vision",
+      "type": "panyard",
+      "location": "#19 Marli Street\nNewtown, Port of Spain\nNorthern Region\nConventional Band\nPanactics Steel Orchestra",
+      "contact": "Water Wheel Compound, River Estate\nDeigo Martin\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Panasonic Connection",
+      "type": "panyard",
+      "location": "#10 Macoon Street\nVictoria Village, San Fernando\nSouth/Central Region\nConventional Band\nPanazz Players",
+      "contact": "#14 Trinidad Crescent & Federation Park\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Pandemonium (Pan Demonium) Steel Orchestra",
+      "type": "panyard",
+      "location": "#3 Norfolk Street\nBelmont, Port of Spain\nNorthern Region\nConventional Band\nPandigenous",
+      "contact": "SWWTU & Wrightson Road\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Panhandle Steel Orchestra",
+      "type": "panyard",
+      "location": "Pierreville, Mayaro\nSouth/Central Region\nConventional Band\nPantastic Sounds",
+      "contact": "Old Southern Main Road\nCurepe\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Parry's Pan School",
+      "type": "panyard",
+      "location": "St Mary's Home, Eastern Main Road\nTacarigua\nEastern Region\nConventional Band\nPerfect Cadence Steel Orchestra",
+      "contact": "Pine Ridge Savannah\nArouca\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Phase II Pan Groove",
+      "type": "panyard",
+      "location": "#13 Hamilton Street Street\nWoodbrook, Port of Spain\nNorthern Region\nConventional Band\nPhiladelphians Funkadelic Steel Orchestra",
+      "contact": "#258 Quarry Road\nMorne Diablo\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Phoenix Steel Orchestra",
+      "type": "panyard",
+      "location": "St. Francois Girl's College\nSt. Francois Valley Road\nBelmont, Port of Spain\nNorthern Region\nConventional Band\nPlain Phonics",
+      "contact": "Rich Plain Road\nDeigo Martin\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Platinum Steel Orchestra",
+      "type": "panyard",
+      "location": "Potential Symphony Pan Yard, Upper 6th Avenue\nMalick, Barataria\nEastern Region\nConventional Band\nPlayers Symphony",
+      "contact": "Upper Davis Street\nBelmont, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Point Fortin United",
+      "type": "panyard",
+      "location": "Point Fortin\nSouth/Central Region\nConventional Band\nPotential Symphony",
+      "contact": "LP#67, Upper 6th Avenue\nMalick, Barataria\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Power Boat Scorpion Pan Groove",
+      "type": "panyard",
+      "location": "Haig Street\nCarenage\nNorthern Region\nSingle Pan (Traditional) Band\nPower Stars Steel Orchestra",
+      "contact": "Jeffers & #114 Western Main Roads\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Praise Pannist",
+      "type": "panyard",
+      "location": "#1 Sukhram Road & Ojoe Road\nSangre Grande\nEastern Region\nConventional Band\nProman Starlift Steel Orchestra",
+      "contact": "#1 Christopher Samuel Drive\nMucurapo, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Redemption Pan Groove",
+      "type": "panyard",
+      "location": "#16 Ryan Extension Road\nSan Juan\nEastern Region\nConventional Band\nRegion",
+      "contact": "Southern Main Road\nEnterprise, Chaguanas\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Republic Bank Exodus",
+      "type": "panyard",
+      "location": "St. Johns Village\nEastern Main Road & John Road\nSt. Augustine\nEastern Region\nConventional Band\nRhythm and Blues",
+      "contact": "Caura Royal Road\nEl Dorado Village\nTacarigua\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Rhythm Rockers",
+      "type": "panyard",
+      "location": "Sanchez Street Extension\nArima\nEastern Region\nSingle Pan (Traditional) Band\nRio Claro Koskeros",
+      "contact": "Railway Road\nRio Claro\nSouth/Central Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "RIPE (Revelation Institute for Performing Education)",
+      "type": "panyard",
+      "location": "Tunapuna Boys RC, Picton Street\nTunapuna\nEastern Region\nConventional Band\nRoadblock",
+      "contact": "corner Melbourne Street and Sydney Lane\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Royal Stars Pan Symphony",
+      "type": "panyard",
+      "location": "Old Health Centre, Don Santos Street\nMorvant, Port of Spain\nEastern Region\nSingle Pan (Traditional) Band\nback to the top\nSamaroo Jets",
+      "contact": "Surrey Village\nLopinot Road\nArouca\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "San City Steel Symphony",
+      "type": "panyard",
+      "location": "Carib Street Complex\nCarib Street\nSan Fernando\nSouth/Central Region\nConventional Band\nSan Juan All Stars",
+      "contact": "#20 Saddle Road, San Juan\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "San Juan East Side Symphony",
+      "type": "panyard",
+      "location": "Cor. Jerningham Street & Eastern Main Road\nPetit Bourg, San Juan\nEastern Region\nSingle Pan (Traditional) Band \nSangre Grande Cordettes Steel Orchestra",
+      "contact": "#40 Foster Road\nSangre Grande\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Scorpion Pan Reflections",
+      "type": "panyard",
+      "location": "#23 Haig Street\nCarenage\nNorthern Region\nSingle Pan (Traditional) Band\nScrunters Pan Groove",
+      "contact": "#18 Jeffers Lane\nSt. James, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Sea Lots One Love",
+      "type": "panyard",
+      "location": "#21A Beetham Highway\nSea Lots, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band \nSecond Street All Stars Steel Orchestra",
+      "contact": "#24 Second Street\nSan Juan\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Self Help Marines",
+      "type": "panyard",
+      "location": "Egypt Village\nPoint Fortin\nSouth/Central Region\nSingle Pan (Traditional) Band\nSforzata Steel Orchestra",
+      "contact": "corner Evans & Harris Streets\nCurepe\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Shades in Steel",
+      "type": "panyard",
+      "location": "Point-A-Pierre Road\nVistabella, San Fernando\nSouth/Central Region\nSingle Pan (Traditional) Band\nShell Invaders Steel Orchestra",
+      "contact": "Queens Park Oval Car Park\nTragarete Road\nWoodbrook, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Silver Harps",
+      "type": "panyard",
+      "location": "Salzar Trace\nPoint Fortin\nSouth/Central Region\nConventional Band\nSimple Song",
+      "contact": "#198 Pinto Road\nArima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Siparia Pan Patriots",
+      "type": "panyard",
+      "location": "Siparia\nSouth/Central Region\nSingle Pan (Traditional) Band\nSolo Pan Knights",
+      "contact": "#157 Eastern Main Road\nBarataria\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Sound Of Music",
+      "type": "panyard",
+      "location": "#71 Marigold Crescent, Coconut Drive\nMorvant, Port of Spain\nEastern Region\nConventional Band\nSouthern All Stars",
+      "contact": "Claxton Bay Secondary School\nClaxton Bay\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Spree Simon Harmonics",
+      "type": "panyard",
+      "location": "LP #1, Picton Street & Eastern Main Road\nLaventille\nNorthern Region\nSingle Pan (Traditional) Band\nSt. Anns Allstars",
+      "contact": "Symond Valley Road\nSt. Ann's\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "St. James North Stars",
+      "type": "panyard",
+      "location": "#63 Bombay Street\nSt. James, Port of Spain\nNorthern Region\nConventional Band\nSt. James Tripolians",
+      "contact": "#38C Western Main Road & Fort George Link Road\nSt. James, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "St. James United",
+      "type": "panyard",
+      "location": "#22 Ramjit Street\nSt. James, Port of Spain\nNorthern Region\nConventional Band\nSt. Margarets Superstars",
+      "contact": "6 St. Margaret's Lane (School)\nBelmont, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "St. Stephens Anglican Hall Stars",
+      "type": "panyard",
+      "location": "High Street\nPrincess Town\nSouth/Central Region\nConventional Band\nSt. Thomas Silver Stars",
+      "contact": "Maloney Regional Complex\nMaloney\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Star Saffire",
+      "type": "panyard",
+      "location": "Eastern Main Road\nValencia\nEastern Region\nSingle Pan (Traditional) Band\nStardust Steel Orchestra",
+      "contact": "Western Main Road\nPoint Cumana\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Starland",
+      "type": "panyard",
+      "location": "Techier Village\nPoint Fortin\nSouth/Central Region\nConventional Band\nStarlite Pioneers Pan Movement",
+      "contact": "#1222 Phase 1\nLa Horquetta, Arima\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Street Pan Gem",
+      "type": "panyard",
+      "location": "Enterprise Street via Longdonville\nChaguanas\nSouth/Central Region\nConventional Band\nStryke Stars",
+      "contact": "#14 Piccadily Street, Success Village\nLaventille\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Sun Valley",
+      "type": "panyard",
+      "location": "New Lands, Trinto Office\nPoint Fortin\nSouth/Central Region\nConventional Band\nSun Valley",
+      "contact": "Teesdale Road via Mandingo Road\nPrincess Town\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Super Sonics",
+      "type": "panyard",
+      "location": "St. Francois & Serraneau Road\nBelmont, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nSurvivors",
+      "contact": "Gabriel Street\nBiche\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "SWAVIC",
+      "type": "panyard",
+      "location": "Rushworth Street\nSan Fernando\nSouth/Central Region\nConventional Band\nback to the top\nT&Tec Tropical Angel Harps Steel Orchestra",
+      "contact": "Southern Main Road\nEnterprise, Chaguanas\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Tamana Pioneers",
+      "type": "panyard",
+      "location": "Cumuto Main Road, Four Roads\nTamana\nEastern Region\nConventional Band\nThird World",
+      "contact": "George Cabral Circular Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Tiger Tanks Supvervibes of La Romaine",
+      "type": "panyard",
+      "location": "Southern Main Road\nLa Romaine\nSouth/Central Region\nSingle Pan (Traditional) Band\nTipica",
+      "contact": "#6 Macoya Settlement\nMacoya, Tunapuna\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Tocouprising",
+      "type": "panyard",
+      "location": "Power Street, Toco\nEastern Region\nConventional Band\nTodd Road Rhythem Raiders",
+      "contact": "#34 Fletcher Road via Longdenville\nChaguanas\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Tokyo",
+      "type": "panyard",
+      "location": "#2 Plaisance Road\nEast Dry River, Port of Spain\nNorthern Region\nConventional Band\nTornadoes Steel Orchestra",
+      "contact": "Richardson Street\nPoint Fortin\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Tremolandos Steel Orchestra",
+      "type": "panyard",
+      "location": "Tamana Hill Road\nCoryal, Sangre Grande\nEastern Region\nConventional Band\nTrinidad East Side Symphony",
+      "contact": "Upper 6th Avenue\nMalick, Barataria\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Trinidad Nostalgic",
+      "type": "panyard",
+      "location": "De Gannes Street\nArima\nEastern Region\nSingle Pan (Traditional) Band\nTrinidad Pan Connoisseurs",
+      "contact": "Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Trinidad Pan Jewels",
+      "type": "panyard",
+      "location": "#49 Moonan Road\nWallerfield, Arima\nEastern Region\nConventional Band\nTrinidad Valley Harps",
+      "contact": "#32 Sunrees Road\nCharlo Village, Penal\nSouth/Central Region\nConventional Band"
+    },
+    {
+      "name": "Trinidad & Tobago Defence Force Steel Band",
+      "type": "panyard",
+      "location": "Defence Force Headquarters\nAirway Road\nChaguaramas\nNorthern Region\nSingle Pan (Traditional) Band\nTrinidad & Tobago Fire Service Steel Orchestrad",
+      "contact": "Fire Service Station Headquarters, Wrightson Road\nPort of Spain\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Trinidad & Tobago Music Stars",
+      "type": "panyard",
+      "location": "Chinapoo Basketball Court, Laventille Road\nMorvant, Port of Spain\nNorthern Region\nConventional Band\nTrinidad & Tobago Police Service Ensemble",
+      "contact": "Old Central Police Station, Wrightson Road\nPort of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Trinidad & Tobago Prison Service",
+      "type": "panyard",
+      "location": "Prison Sports Club Facility, Waterloo Ext. Road\nGolden Grove, Arouca\nEastern Region\nSingle Pan (Traditional) Band\nTunapuna All Stars",
+      "contact": "Piority Bus Route\nTunapuna\nEastern Region\nConventional Band"
+    },
+    {
+      "name": "Tunapuna Tipica",
+      "type": "panyard",
+      "location": "Old Health Centre\nEl Dorado, Tunapuna\nEastern Region\nConventional Band\nback to the top\nUFO Sounds",
+      "contact": "Calvary Hill\nArima\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Uni-Stars",
+      "type": "panyard",
+      "location": "Old St. Joseph Road, Bertie Marshall Boulevard\nSuccess Village, Laventille\nNorthern Region\nSingle Pan (Traditional) Band\nUnited Sounds",
+      "contact": "La Retreat Road\nWallerfield, Arouca\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Valley Harps Steel Orchestra",
+      "type": "panyard",
+      "location": "Morne Coco Road\nRiver Estate, Petit Valley\nNorthern Region\nConventional Band\nVoices",
+      "contact": "#166 Royal Road\nMaracas, St. Joseph\nEastern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "West Stars",
+      "type": "panyard",
+      "location": "Water Wheel Cottages\nWater Wheel Road\nRiver Estate, Diego Martin\nNorthern Region\nConventional Band \nWestern Stars Philharmonics",
+      "contact": "Mucurapo Road\nSt James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "White Oak Harmonics",
+      "type": "panyard",
+      "location": "Churchill Rosevlt Higway & Morvant\nPort of Spain Junction\nBarataria\nEastern Region\nConventional Band\nWindside Sound Groove",
+      "contact": "Synand Valley Road\nSt. James, Port of Spain\nNorthern Region\nConventional Band"
+    },
+    {
+      "name": "Frederick Street (Panorama), Port of Spain\nNorthern Region\nConventional Band\nWoodbrook Playboyz",
+      "type": "panyard",
+      "location": "#147 Tragarete Road\nWoodbrook, Port of Spain\nNorthern Region\nSingle Pan (Traditional) Band\nWorld Wide Steel Orchestra",
+      "contact": "Mt. Hololo Mountain Road\nCasacde, St. Ann's\nNorthern Region\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Xpress 21",
+      "type": "panyard",
+      "location": "#80 Old St. Joseph Road\nSuccess Village, Laventille\nNorthern Region\nConventional Band\nback to the top\nTobago Panyards \nTotal Tobago Bands: 35 (Single Pana aka Traditional Bands ~~ 13; Conventional Band Bands ~~ 22)\nBand",
+      "contact": "Location ~~ Band Type"
+    },
+    {
+      "name": "Alpha Pan Pioneers",
+      "type": "panyard",
+      "location": "RC Church Compound\nHay & Bacolet Streets\nScarborough\nConventional Band\nback to the top\nC & B Crown Cordaans",
+      "contact": "Bon Accord Government Primary School\nMilford Road\nCanaan\nConventional Band"
+    },
+    {
+      "name": "Dem Boys",
+      "type": "panyard",
+      "location": "Mason Hall\nConventional Band\nDixieland Steel Orchestra",
+      "contact": "Pan Theatre\nBuccoo Road\nMt Pleasant\nConventional Band"
+    },
+    {
+      "name": "East Stars",
+      "type": "panyard",
+      "location": "Charlotteville\nSingle Pan (Traditional) Band\nEuphonic Sounds",
+      "contact": "Tobago Marketing Co., Wilson Road\nScaroborugh\nConventional Band"
+    },
+    {
+      "name": "Get Down On It",
+      "type": "panyard",
+      "location": "Conventional Band\nGMC",
+      "contact": "Golden Lane\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Hope Pan Groove",
+      "type": "panyard",
+      "location": "Hope Farm Road\nHope Village\nSingle Pan (Traditional) Band\nback to the top\nKatzenjammers Steel Orchestra",
+      "contact": "Courland Bye-Pass\nBlack Rock\nConventional Band"
+    },
+    {
+      "name": "Melo Harps",
+      "type": "panyard",
+      "location": "Main Road\nBethel Village\nConventional Band\nMelo Tones",
+      "contact": "Les Coteaux\nConventional Band"
+    },
+    {
+      "name": "Metro Stars",
+      "type": "panyard",
+      "location": "Todd Street\nPembroke\nSingle Pan (Traditional) Band\nback to the top\nNatural Mystic",
+      "contact": "Patience Hill Government Primary School Grounds\nPatience Hill\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "New Addition",
+      "type": "panyard",
+      "location": "Buccoo\nConventional Band\nNew Vision",
+      "contact": "#59 Calder Hill\nScarborough\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "NGC Steel Xplosion Steel Orchestra",
+      "type": "panyard",
+      "location": "Buccoo Multi Complex-Facilities\nBucoo\nConventional Band \nNLCB Buccooneers Steel Orchestra",
+      "contact": "Pan Theatre\nChance Street\nBuccoo\nConventional Band"
+    },
+    {
+      "name": "Our Boys",
+      "type": "panyard",
+      "location": "Kirk & Fort Streets\nScarborough\nConventional Band\nback to the top\nPan Fanatics",
+      "contact": "Punch Bowl\nMason Hall\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Plymouth/Bethesda Steel Sensations",
+      "type": "panyard",
+      "location": "Adventure Mini Mall\nPlymouth\nConventional Band\nPlymouth Wonder Harps",
+      "contact": "Plymouth\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "RBC Redemption Sound Settlers Steel Orchestra",
+      "type": "panyard",
+      "location": "Pan Theatre\nMontgomery Road\nBethel\nConventional Band\nRoyal Pan Illusion",
+      "contact": "New Edition Bar\nBuccoo\nSingle Pan (Traditional) Band"
+    },
+    {
+      "name": "Rhythm Tigers",
+      "type": "panyard",
+      "location": "Fourth Street\nScarborough\nSingle Pan (Traditional) Band\nback to the top\nScarborough All Stars",
+      "contact": "Wilson Road\nScarborough\nConventional Band"
+    },
+    {
+      "name": "Serenaders",
+      "type": "panyard",
+      "location": "Single Pan (Traditional) Band\nSoul 22",
+      "contact": "Single Pan (Traditional) Band"
+    },
+    {
+      "name": "Symphonettes",
+      "type": "panyard",
+      "location": "Sherwood Park\nCarnbee\nConventional Band\nback to the top\nT&Tec New East Side New Dimesnsion",
+      "contact": "Pan Theatre, Belle Garden Main Road\nBelle Garden\nConventional Band"
+    },
+    {
+      "name": "Tobago Pan-Thers",
+      "type": "panyard",
+      "location": "Sea View Trace, Golden Lane Government School\nGolden Road\nGolden Lane\nSingle Pan (Traditional) Band\nback to the top\nUptown Fascinators",
+      "contact": "Shaw Park Food Hub, Shaw Park\nMilford Road Ext.\nScarborough\nConventional Band"
+    },
+    {
+      "name": "West Side Symphony",
+      "type": "panyard",
+      "location": "Pan Theatre\nPatience Hill\nConventional Band\nback to the top\nNotes: \nBand Category",
+      "contact": "Zonal Regional CountTotal Bands"
+    },
+    {
+      "name": "Single Pan aka Traditional Bands",
+      "type": "panyard",
+      "location": "North - 43\nEast - 26\nSouth/Central - 14\nTobago - 14",
+      "contact": "97"
+    },
+    {
+      "name": "Conventional Bands",
+      "type": "panyard",
+      "location": "North - 55\nEast - 58\nSouth/Central - 45\nTobago - 22",
+      "contact": "180"
+    },
+    {
+      "name": "Overall Bands (not including Junior Bands)",
+      "type": "panyard",
+      "location": "North - 98\nEast - 84\nSouth/Central - 59\nTobago - 36",
+      "contact": "277"
+    }
+  ]
+}

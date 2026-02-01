@@ -1,0 +1,743 @@
+{
+  "source": "http://tntisland.com/tobhotels.html",
+  "page_title": "Tobago Hotels/Inns/Motels/Resorts",
+  "category": "accommodations",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Arnos Vale Hotel",
+      "type": "hotel",
+      "phone": [
+        "639-2881"
+      ],
+      "address": "Tobago"
+    },
+    {
+      "name": "Arthur's By The Sea",
+      "type": "hotel",
+      "email": [
+        "arthur@trinidad.net"
+      ],
+      "extra_info": "email: Arthurs by the Seas",
+      "phone": [
+        "639-0196"
+      ],
+      "address": "Crown Point\nFax: 639-4122"
+    },
+    {
+      "name": "Bacolet Bay Apartments Hotel",
+      "type": "hotel",
+      "phone": [
+        "639-2955"
+      ],
+      "address": "Bacolet Street, Scarborough"
+    },
+    {
+      "name": "Bananaquit Apartments",
+      "type": "hotel",
+      "email": [
+        "bananaquit.tobago@gmail.com"
+      ],
+      "extra_info": "email: Bananaquit Apartments",
+      "phone": [
+        "368-3539"
+      ],
+      "address": "Storebay Local Road\nCrown Point Tobago"
+    },
+    {
+      "name": "Belleviste Apartments",
+      "type": "hotel",
+      "email": [
+        "almandoz@tstt.net.tt"
+      ],
+      "extra_info": "email: Belleviste Appartments",
+      "phone": [
+        "639-9351"
+      ],
+      "address": "Sandy Point\nFax: 639-9351"
+    },
+    {
+      "name": "Beverley's Oasis Suites",
+      "type": "hotel",
+      "phone": [
+        "639-7928"
+      ],
+      "address": "Birchwood Triangle\nHampden Road\nLowlands"
+    },
+    {
+      "name": "Blue Haven Hotel & Resort",
+      "type": "hotel",
+      "email": [
+        "info@bluehavenhotel.com"
+      ],
+      "extra_info": "email: Blue Haven",
+      "phone": [
+        "660-7400"
+      ],
+      "address": "Bacolet Bay, Scarorough\nFax: 660-7900"
+    },
+    {
+      "name": "Blue Horizon Resort",
+      "type": "hotel",
+      "email": [
+        "sales@blue-horizonresort.com"
+      ],
+      "extra_info": "email: Surf Side Hotel",
+      "phone": [
+        "639-0432"
+      ],
+      "address": "Jacamar Drive, Mt. Irvine"
+    },
+    {
+      "name": "Blue Waters Inn",
+      "type": "hotel",
+      "email": [
+        "bwi@bluewatersinn.com"
+      ],
+      "extra_info": "email: Blue Water Inn",
+      "phone": [
+        "660-4341"
+      ],
+      "address": "Speyside\nFax: 660-5195"
+    },
+    {
+      "name": "Bougainvillaea Hotel",
+      "type": "hotel",
+      "phone": [
+        "660-2075"
+      ],
+      "address": "Studley Park"
+    },
+    {
+      "name": "Canary Apartments",
+      "type": "hotel",
+      "email": [
+        "info@canaryapartment-tt.com"
+      ],
+      "extra_info": "email: Canary Apartments",
+      "phone": [
+        "660-8884"
+      ],
+      "address": "Buccoo Auchenskeoch Road\nMountgomery Junction, SouSou Land\nNew Grange\nFax: 660-8834"
+    },
+    {
+      "name": "Cinro Manor Villa & Spa",
+      "type": "hotel",
+      "phone": [
+        "774-4546"
+      ],
+      "address": "LP 195 Cinro Court, Old Milford Road\nHampden, Lowlands"
+    },
+    {
+      "name": "Coconut Inn",
+      "type": "hotel",
+      "email": [
+        "coconut@tstt.net.tt"
+      ],
+      "extra_info": "email: Coconut Inn",
+      "phone": [
+        "639-8493"
+      ],
+      "address": "Store Bay Local Road, Bon Accord\nFax: 639-0512"
+    },
+    {
+      "name": "Coco Reef Resort",
+      "type": "hotel",
+      "phone": [
+        "639-8571"
+      ],
+      "address": "Coconut Bay"
+    },
+    {
+      "name": "Cocrico Inn",
+      "type": "hotel",
+      "email": [
+        "reservations@cocrico-inn.com"
+      ],
+      "extra_info": "email: Cocrico Inn",
+      "phone": [
+        "678-1685",
+        "465 2499 ("
+      ],
+      "address": "Commissioner and North Streets\nPlymouth\nTel/Fax: 639-2961\nor 354-5750 (Michael)\nAnnie)"
+    },
+    {
+      "name": "Comfort Inn & Suites Tobago",
+      "type": "hotel",
+      "phone": [
+        "612-3835"
+      ],
+      "address": "30 Orange Hill\nScarborough"
+    },
+    {
+      "name": "Conrado Beach Resort Hotel",
+      "type": "hotel",
+      "phone": [
+        "639-0145"
+      ],
+      "address": "Pigeon Point\nFax: 639-0755"
+    },
+    {
+      "name": "Coral Ridge Studio Apartments",
+      "type": "hotel",
+      "phone": [
+        "639-0118"
+      ],
+      "address": "6-7 Road Reserve, Crown Point\nFax: 628-1240"
+    },
+    {
+      "name": "Crooks Apartment",
+      "type": "hotel",
+      "phone": [
+        "639-8492"
+      ],
+      "address": "Store Bay Local Road, Crown Point"
+    },
+    {
+      "name": "Crown Point Beach Hotel",
+      "type": "hotel",
+      "email": [
+        "crownpoint@trinidad.net"
+      ],
+      "extra_info": "email: Crown Point Beach Hotel",
+      "phone": [
+        "639-8781"
+      ],
+      "address": "Store Bay\nFax: 639-8731"
+    },
+    {
+      "name": "Cuffie River Nature Retreat",
+      "type": "hotel",
+      "email": [
+        "cuffiriv@tstt.net.tt"
+      ],
+      "extra_info": "email: Cuffie River Nature Retreat",
+      "phone": [
+        "678-9020"
+      ],
+      "address": "Runnemede Local Road, Runnemede"
+    },
+    {
+      "name": "Double Palm Inn",
+      "type": "hotel",
+      "phone": [
+        "344-3840"
+      ],
+      "address": "Roberts Street\nBon Accord"
+    },
+    {
+      "name": "Enchanted Waters",
+      "type": "hotel",
+      "phone": [
+        "639-9481"
+      ],
+      "address": "198-202 Shirvand Road, Buccoo\nFax: 639-9481"
+    },
+    {
+      "name": "Footprints Eco Resort Ltd.",
+      "type": "hotel",
+      "email": [
+        "footprints@trinidad.net"
+      ],
+      "extra_info": "email: Footprints Resort",
+      "phone": [
+        "660-0118"
+      ],
+      "address": "Culloden Bay Road\nFax: 639-0030"
+    },
+    {
+      "name": "Gleneagle Villa",
+      "type": "hotel",
+      "phone": [
+        "639-9058"
+      ],
+      "address": "31 Gleneagle Drive, Tobago"
+    },
+    {
+      "name": "Golden Thistle Hotel",
+      "type": "hotel",
+      "email": [
+        "clyde@trinidad.net"
+      ],
+      "extra_info": "email: GTHe",
+      "phone": [
+        "639-8521"
+      ],
+      "address": "Store Bay Road, Crown Point\nFax: 639-8521"
+    },
+    {
+      "name": "Golf View Appartments Ltd.",
+      "type": "hotel",
+      "email": [
+        "gulfview_apts@yahoo.com"
+      ],
+      "extra_info": "email: GulfView Apts.",
+      "phone": [
+        "639-0979"
+      ],
+      "address": "Old Grange, Mt. Irvine"
+    },
+    {
+      "name": "Grafton Beach Resort",
+      "type": "hotel",
+      "email": [
+        "graffton@trinidad.net"
+      ],
+      "extra_info": "email: Grafton Beach Resort",
+      "phone": [
+        "639-0191"
+      ],
+      "address": "Black Rock\nFax: 639-0030"
+    },
+    {
+      "name": "Grange Cottages",
+      "type": "hotel",
+      "email": [
+        "grange@wow.net"
+      ],
+      "extra_info": "email: Grange Cottages",
+      "phone": [
+        "622-6813"
+      ],
+      "address": "Grange Beach, Mt Irvine\nFax: 628-9238"
+    },
+    {
+      "name": "Grange Inn",
+      "type": "hotel",
+      "email": [
+        "grangeinn@trinidad.net"
+      ],
+      "extra_info": "email: Grange Inn",
+      "phone": [
+        "639-9395"
+      ],
+      "address": "Bucco Junction and Mt Irvine\nFax: 639-9395"
+    },
+    {
+      "name": "Green Acres Hotel Inn & Bar",
+      "type": "hotel",
+      "phone": [
+        "639-8287"
+      ],
+      "address": "Daniel & Allfield Trail, Carnbee"
+    },
+    {
+      "name": "Green Palm Boutique Hotel",
+      "type": "hotel",
+      "phone": [
+        "464-9873"
+      ],
+      "address": "#16-#17 Mt Pleasant Blvd, Bon Accord\nTel/What App#1: 464-9873\nTel/What App#2: 746 3357"
+    },
+    {
+      "name": "Harbourview Guest House",
+      "type": "hotel",
+      "phone": [
+        "639-6404"
+      ],
+      "address": "Milford Road, Scarborogh"
+    },
+    {
+      "name": "Hidden Cottage",
+      "type": "hotel",
+      "email": [
+        "enquiries@hiddencottagetobago.com"
+      ],
+      "extra_info": "email: Hidden Cottage",
+      "phone": [
+        "639-2376"
+      ],
+      "address": "Castara Village Street, Castara"
+    },
+    {
+      "name": "Hummingbird Hotel",
+      "type": "hotel",
+      "email": [
+        "watkinsonbuckle@tstt.net.tt"
+      ],
+      "extra_info": "email: Hummingbird Hotel",
+      "phone": [
+        "635-0241"
+      ],
+      "address": "128 Store Bay Local Road, Crown Point\nFax: 635-0241"
+    },
+    {
+      "name": "Inn on the Bay",
+      "type": "hotel",
+      "phone": [
+        "639-4347"
+      ],
+      "address": "Little Rockley Bay, Lambeau"
+    },
+    {
+      "name": "Island Investment Co. Ltd.",
+      "type": "hotel",
+      "email": [
+        "islreal@tstt.net.tt"
+      ],
+      "extra_info": "email: Island Investment",
+      "phone": [
+        "639-0929"
+      ],
+      "address": "30 Shirvan Road"
+    },
+    {
+      "name": "James Holiday Resort",
+      "type": "hotel",
+      "email": [
+        "jameshol@tstt.net.tt"
+      ],
+      "extra_info": "email: James Holiday Resprt",
+      "phone": [
+        "639-8084"
+      ],
+      "address": "Crown Point\nFax: 639-8084"
+    },
+    {
+      "name": "Jimmy's Holiday Resort",
+      "type": "hotel",
+      "email": [
+        "jimmy@tstt.net.tt"
+      ],
+      "extra_info": "email: Jimmy's Holiday Resort",
+      "phone": [
+        "639-8292"
+      ],
+      "address": "Store Beach Road, Crown Point\nFax: 639-3100"
+    },
+    {
+      "name": "Johnston Apartments",
+      "type": "hotel",
+      "phone": [
+        "639-8915"
+      ],
+      "address": "Store Bay"
+    },
+    {
+      "name": "Kariwak Village Hotel",
+      "type": "hotel",
+      "email": [
+        "kariwak@tstt.net.tt"
+      ],
+      "extra_info": "email: Kariwak Hotel",
+      "phone": [
+        "639-8442"
+      ],
+      "address": "Store Bay Local Road, Crown Point\nFax: 639-8441"
+    },
+    {
+      "name": "Le Grand Courlan Resort",
+      "type": "hotel",
+      "email": [
+        "legrand@trinidad.net"
+      ],
+      "extra_info": "email: Le Grand Courlan Resort",
+      "phone": [
+        "639-9667"
+      ],
+      "address": "Crown Point\nFax: 639-9292"
+    },
+    {
+      "name": "Man-O-War Bay Cottages",
+      "type": "hotel",
+      "phone": [
+        "660-4327"
+      ],
+      "address": "Charlotteville, East Tobago"
+    },
+    {
+      "name": "Magdalena Grand Beach Resort",
+      "type": "hotel",
+      "email": [
+        "info@magdalenagrand.com"
+      ],
+      "extra_info": "email: Magdalena Grand Beach Resort",
+      "phone": [
+        "660-8500"
+      ],
+      "address": "Lowlands"
+    },
+    {
+      "name": "Mount Irvine Bay Resort",
+      "type": "hotel",
+      "email": [
+        "mtirvine@tstt.net.tt"
+      ],
+      "extra_info": "email: Mt Irvine Hotel",
+      "phone": [
+        "639-8871"
+      ],
+      "address": "Mount Irvine"
+    },
+    {
+      "name": "Ocean Point Apartment Hotel",
+      "type": "hotel",
+      "phone": [
+        "761-8184",
+        "746-2326"
+      ],
+      "address": "Milford Road, Lowlands"
+    },
+    {
+      "name": "Palm Rings Cottages",
+      "type": "hotel",
+      "phone": [
+        "639-8851"
+      ],
+      "address": "Crown Point"
+    },
+    {
+      "name": "Palm Tree Village",
+      "type": "hotel",
+      "phone": [
+        "639-4347"
+      ],
+      "address": "Little Rockley Bay\nLambeau"
+    },
+    {
+      "name": "Pleasant Cove",
+      "type": "hotel",
+      "phone": [
+        "392-4213"
+      ],
+      "address": "Tobago Plantations\nLowlands"
+    },
+    {
+      "name": "Plantation Beach Villa Ltd.",
+      "type": "hotel",
+      "phone": [
+        "639-9377"
+      ],
+      "address": "Stone Haven bay Road, Tobago"
+    },
+    {
+      "name": "Rainbow Nature Resort",
+      "type": "hotel",
+      "phone": [
+        "660-4755"
+      ],
+      "address": "Goldsborough Farm\nFax: 639-9940"
+    },
+    {
+      "name": "Rainbow Resort",
+      "type": "hotel",
+      "phone": [
+        "639-9940"
+      ],
+      "address": "Milford Road\nCrown Point\nFax: 639-9940"
+    },
+    {
+      "name": "Richmond Great House Inn",
+      "type": "hotel",
+      "extra_info": "{Dr. Hollis Lynch}",
+      "phone": [
+        "660-4444"
+      ],
+      "address": "Belle Garden"
+    },
+    {
+      "name": "Rovanel's Resort",
+      "type": "hotel",
+      "phone": [
+        "639-9666"
+      ],
+      "address": "Store Bay Local Road, Crown Point"
+    },
+    {
+      "name": "Sandy Point Village",
+      "type": "hotel",
+      "phone": [
+        "639-8533"
+      ],
+      "address": "Crown Point"
+    },
+    {
+      "name": "Shaw Villa",
+      "type": "hotel",
+      "phone": [
+        "639-0815"
+      ],
+      "address": "7 Bon Accord Development, Crown Point"
+    },
+    {
+      "name": "Sherwood Park Apartments",
+      "type": "hotel",
+      "phone": [
+        "639-7151"
+      ],
+      "address": "Sherwood Park"
+    },
+    {
+      "name": "Spence Holiday Resort & Spence Terrace",
+      "type": "hotel",
+      "phone": [
+        "639-8082"
+      ],
+      "address": "Crown Point"
+    },
+    {
+      "name": "Speyside Inn",
+      "type": "hotel",
+      "email": [
+        "nabuccoresort@speysideinn.com"
+      ],
+      "extra_info": "email: Speyside Inn",
+      "phone": [
+        "660-4852"
+      ],
+      "address": "Windward Road, Speyside\nTel/Fax: 660-4852"
+    },
+    {
+      "name": "Stone Haven Villas",
+      "type": "hotel",
+      "phone": [
+        "639-0361"
+      ],
+      "address": "Grafton Estate, Black Rock"
+    },
+    {
+      "name": "Store Bay Holiday Resort",
+      "type": "hotel",
+      "email": [
+        "sbaymair@cablenett.net"
+      ],
+      "extra_info": "email: Store Bay Resort",
+      "phone": [
+        "639-8810"
+      ],
+      "address": "Store Bay Local Road, Crown Point\nFax: 639-9733"
+    },
+    {
+      "name": "Sunshine Holiday Apartment",
+      "type": "hotel",
+      "phone": [
+        "639-7495"
+      ],
+      "address": "Milford Road, Bon Accord"
+    },
+    {
+      "name": "Starfish Hotel",
+      "type": "hotel",
+      "phone": [
+        "639-2851"
+      ],
+      "address": "Turtle Beach, Courland Bay\nPlymouth"
+    },
+    {
+      "name": "Surf Side Hotel",
+      "type": "hotel",
+      "email": [
+        "surfside@trinidad.net"
+      ],
+      "extra_info": "email: Surf Side Hotel",
+      "phone": [
+        "639-2418"
+      ],
+      "address": "Crown Point\nFax: 639-0614"
+    },
+    {
+      "name": "Tobago Plantations Resort",
+      "type": "hotel",
+      "email": [
+        "sales@tobagoplantations.com"
+      ],
+      "extra_info": "email: Tobago Plantations Resort",
+      "phone": [
+        "639-8000",
+        "627-5582"
+      ],
+      "address": "Lowland"
+    },
+    {
+      "name": "Tobago Villa Agency",
+      "type": "hotel",
+      "phone": [
+        "639-8737"
+      ],
+      "address": "Tobago"
+    },
+    {
+      "name": "Toucan Inn",
+      "type": "hotel",
+      "email": [
+        "bonkers@trinidad.net"
+      ],
+      "extra_info": "email: Toucan Inn",
+      "phone": [
+        "639-7173"
+      ],
+      "address": "Crown Point\nFax: 639-8933"
+    },
+    {
+      "name": "Tropikist Beach Hotel & Resort Ltd.",
+      "type": "hotel",
+      "email": [
+        "tropikist@wow.net"
+      ],
+      "extra_info": "email: Tropikist Hotel",
+      "phone": [
+        "639-8512"
+      ],
+      "address": "Crown Point\nFax: 639-9605"
+    },
+    {
+      "name": "Turtle Beach Hotel",
+      "type": "hotel",
+      "phone": [
+        "639-2851"
+      ],
+      "address": "Courland Bay Road\nFax: 639-1495"
+    },
+    {
+      "name": "Twilight Innbr>email: Twilight Inn",
+      "type": "hotel",
+      "email": [
+        "twilightinn@tstt.net.tt"
+      ],
+      "phone": [
+        "639-0917"
+      ],
+      "address": "Church Street, Lowlands\nFax: 639-0917"
+    },
+    {
+      "name": "V I P Holiday Resorts",
+      "type": "hotel",
+      "phone": [
+        "639-9096"
+      ],
+      "address": "Store Bay Road, Crown Point"
+    },
+    {
+      "name": "Villa Being",
+      "type": "hotel",
+      "phone": [
+        "676-6165"
+      ],
+      "address": "Arnos Vale Trace\nArnos Vale"
+    },
+    {
+      "name": "Villas of Tobago",
+      "type": "hotel",
+      "phone": [
+        "639-9600"
+      ],
+      "address": "Main Road, Bon Accord"
+    },
+    {
+      "name": "Villas on the Green",
+      "type": "hotel",
+      "phone": [
+        "639-7948"
+      ],
+      "address": "Jacamar Drive, Mt. Irvine"
+    },
+    {
+      "name": "Woods Castle",
+      "type": "hotel",
+      "phone": [
+        "639-0803"
+      ],
+      "address": "Crown Point"
+    }
+  ]
+}

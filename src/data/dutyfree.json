@@ -1,0 +1,259 @@
+{
+  "source": "http://tntisland.com/dutyfree.html",
+  "page_title": "Trinidad & Tobago Duty Free Shopping",
+  "category": "shopping",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Dufrys Duty Free Shop",
+      "type": "duty_free",
+      "phone": [
+        "669-6169",
+        "669-6170"
+      ],
+      "address": "Piarco Airport, Piarco\n669-6169 (Tel1)\n669-6170 (Tel2)Gifts, Liquor, Wines, Cigarettes, Jewellery, Cosmetics & Fragrances"
+    },
+    {
+      "name": "Piarco Airport, Piarco",
+      "type": "duty_free",
+      "extra_info": "669-3328 (Tel)",
+      "address": "Cosmetics & Fragrances"
+    },
+    {
+      "name": "Excellent City",
+      "type": "duty_free",
+      "extra_info": "627-0160 (Tel)",
+      "address": "Sunglasses and Eyeware"
+    },
+    {
+      "name": "Long Circular Mall, St. James",
+      "type": "duty_free",
+      "extra_info": "622-7154 (Tel)",
+      "address": "Sunglasses and Eyeware"
+    },
+    {
+      "name": "West Mall, West Moorings",
+      "type": "duty_free",
+      "extra_info": "632-2201 (Tel)",
+      "address": "Sunglasses and Eyeware"
+    },
+    {
+      "name": "Gulf City",
+      "type": "duty_free",
+      "extra_info": "652-9049",
+      "address": "Sunglasses and Eyeware"
+    },
+    {
+      "name": "Federal Spices",
+      "type": "duty_free",
+      "phone": [
+        "662-1729"
+      ],
+      "address": "Piarco Airport, Piarco\n662-1729 (Tel)Spices"
+    },
+    {
+      "name": "Frederic's Fine Leather",
+      "type": "duty_free",
+      "phone": [
+        "669-2391"
+      ],
+      "address": "Piarco Airport, Piarco\n669-2391 (Tel)Leather accessories and gifts"
+    },
+    {
+      "name": "Glen's Jewellery Ltd.",
+      "type": "duty_free",
+      "phone": [
+        "633-7829"
+      ],
+      "address": "West Mall, West Moorings\n633-7829 (Tel)Jewellery"
+    },
+    {
+      "name": "Lagniappe Enterprises Ltd.",
+      "type": "duty_free",
+      "phone": [
+        "639-7516"
+      ],
+      "address": "Crown Point Airport, Tobago\n639-7516 (Tel)Leather accessories and gifts"
+    },
+    {
+      "name": "Duke & Frederick Streets, Port of Spain",
+      "type": "duty_free",
+      "extra_info": "623-1789 (Tel)",
+      "address": "Jewellery"
+    },
+    {
+      "name": "Long Circular Mall, St. James",
+      "type": "duty_free",
+      "extra_info": "628-8186",
+      "address": "Jewellery"
+    },
+    {
+      "name": "20 Frederick Street, Port of Spain",
+      "type": "duty_free",
+      "extra_info": "625-9184 (Tel)",
+      "address": "Jewellery"
+    },
+    {
+      "name": "Memory Bank Computers Ltd",
+      "type": "duty_free",
+      "phone": [
+        "669-2265"
+      ],
+      "address": "139 Long Circular Road, Maraval\n669-2265 (Tel)Computers and Electronics"
+    },
+    {
+      "name": "Millennium",
+      "type": "duty_free",
+      "phone": [
+        "669-2391"
+      ],
+      "address": "Coco Reef Resort, Crown Point, Tobago\n669-2391 (Tel)Leather accessories and gifts"
+    },
+    {
+      "name": "Noveltees Limited",
+      "type": "duty_free",
+      "phone": [
+        "669-4438"
+      ],
+      "address": "Piarco Airport, Piarco\n669-4438 (Tel)Novelty Gifts"
+    },
+    {
+      "name": "Rhyners Record Shop",
+      "type": "duty_free",
+      "phone": [
+        "669-3187"
+      ],
+      "address": "Piarco Airport, Piarco\n669-3187 (Tel)Music"
+    },
+    {
+      "name": "Piarco Airport, Piarco - DFPS",
+      "type": "duty_free",
+      "extra_info": "669-4793 (Tel)",
+      "address": "Fragrances Shop"
+    },
+    {
+      "name": "Piarco Airport, Piarco - DFGS669-1644 (Tel)",
+      "type": "duty_free",
+      "address": "Gift Shop"
+    },
+    {
+      "name": "Piarco Airport, Piarco - DFCWL",
+      "type": "duty_free",
+      "extra_info": "669-1639 (Tel)",
+      "address": "Cigar, Wine & Liquor Shop"
+    },
+    {
+      "name": "Crown Point Airport639-0303 (Tel)",
+      "type": "duty_free",
+      "address": "Fragrances Shop"
+    },
+    {
+      "name": "Cruise Ship Complex",
+      "type": "duty_free",
+      "extra_info": "627-8008 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Ellerslie Plaza",
+      "type": "duty_free",
+      "extra_info": "628-7232 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Long Circular Mall",
+      "type": "duty_free",
+      "extra_info": "622-0017 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "West Mall",
+      "type": "duty_free",
+      "extra_info": "632-05022 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Excellent City Centre",
+      "type": "duty_free",
+      "extra_info": "623-5912 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Gulf City Shopping Complex",
+      "type": "duty_free",
+      "extra_info": "657-6993 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Scarborough Mall",
+      "type": "duty_free",
+      "extra_info": "639-2377 (Tel)",
+      "address": "Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+    },
+    {
+      "name": "Piarco Airport, Piarco",
+      "type": "duty_free",
+      "extra_info": "669-4748",
+      "address": "Liquor & Cigarettes"
+    },
+    {
+      "name": "Fabi Cosmetique Et. Parfumerie Ltd.",
+      "type": "duty_free",
+      "locations": [
+        {
+          "phone": [
+            "633-4364"
+          ],
+          "address": "Westmall, Westmoorings\n633-4364 (Tel)Cosmetics & Fragrances"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Optics/Ray Cool.",
+      "type": "duty_free",
+      "locations": [
+        {
+          "phone": [
+            "669-5947"
+          ],
+          "address": "Piarco Airport, Piarco\n669-5947 (Tel)Sunglasses and Eyeware"
+        }
+      ]
+    },
+    {
+      "name": "Maraj and Sons",
+      "type": "duty_free",
+      "locations": [
+        {
+          "phone": [
+            "669-3062"
+          ],
+          "address": "Piarco Airport, Piarco\n669-3062 (Tel)Jewellery"
+        }
+      ]
+    },
+    {
+      "name": "Stechers Limited",
+      "type": "duty_free",
+      "locations": [
+        {
+          "phone": [
+            "628-7202"
+          ],
+          "address": "6 Rapsey Street\nMaraval, Port of Spain\n628-7202 (Tel)Gift shop\nFragrances Shop\nWines, Liquor & Cigarettes"
+        }
+      ]
+    },
+    {
+      "name": "T-WEE Liquor Store",
+      "type": "duty_free",
+      "locations": [
+        {
+          "phone": [
+            "622-0877"
+          ],
+          "address": "24 Panka Street\nSt. James, Port of Spain\n622-0877 (Tel)Liquor & Cigarettes"
+        }
+      ]
+    }
+  ]
+}

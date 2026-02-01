@@ -1,0 +1,198 @@
+{
+  "source": "http://tntisland.com/liquor.html",
+  "page_title": "Trinidad & Tobago Liquor Stores",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Ameerali's Liquor Store",
+      "type": "liquor_store",
+      "phone": [
+        "623-7612"
+      ],
+      "address": "32 Prince Street\nPort of Spain\n(Tel) 623-7612"
+    },
+    {
+      "name": "Apadoca's",
+      "type": "liquor_store",
+      "phone": [
+        "634-2080"
+      ],
+      "address": "Crews Inn Marina\nChaguaramas\n(Tel) 634-2080"
+    },
+    {
+      "name": "Bakie's Supermarket",
+      "type": "liquor_store",
+      "phone": [
+        "644-2374"
+      ],
+      "address": "High Street\nRio Claro\n(Tel) 644-2374"
+    },
+    {
+      "name": "Bottlestop Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "222-4229",
+        "639-6642"
+      ],
+      "address": "43A Saddle Road\nBoisierre Village, Maraval\n(Tel) 222-4229\nCerene's Price Rite SupermarketArnos Vale Road\nPlymouth, Tobago\n(Tel) 639-6642"
+    },
+    {
+      "name": "Chang Brothers Liquor Store & Supermarket",
+      "type": "liquor_store",
+      "phone": [
+        "658-1406"
+      ],
+      "address": "221 Southern Main Road\nMarabella\n(Tel) 658-1406"
+    },
+    {
+      "name": "D B L Liquor Mart & Soft Drink Centre",
+      "type": "liquor_store",
+      "phone": [
+        "622-3623"
+      ],
+      "address": "19 Delhi Street\nSt. James, Port of Spain\n(Tel) 622-3623"
+    },
+    {
+      "name": "Francis Supermarket",
+      "type": "liquor_store",
+      "phone": [
+        "639-8440"
+      ],
+      "address": "Crown Point Beach Hotel, Tobago\n(Tel) 639-8440"
+    },
+    {
+      "name": "Mc Ray Imports Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "222-6194"
+      ],
+      "address": "Maraval Plaza\n35 Saddle Road\nMaraval\n(Tel) 222-6194"
+    },
+    {
+      "name": "Penny Savers Supermarket",
+      "type": "liquor_store",
+      "phone": [
+        "639-5549"
+      ],
+      "address": "Wilson Road\nScarborough, Tobago\n(Tel) 639-5549"
+    },
+    {
+      "name": "Renuka's Liquor Mart",
+      "type": "liquor_store",
+      "phone": [
+        "654-1133"
+      ],
+      "address": "351 Rochard Douglas Road\nBarrackpore\n(Tel) 654-1133"
+    },
+    {
+      "name": "Stechers Limited",
+      "type": "liquor_store",
+      "phone": [
+        "628-7202"
+      ],
+      "address": "6 Rapsey Street\nMaraval, Port of Spain\n(Tel) 628-7202"
+    },
+    {
+      "name": "The Keg",
+      "type": "liquor_store",
+      "phone": [
+        "632-5347"
+      ],
+      "address": "Westmall\nWestmooring\n(Tel) 632-5347"
+    },
+    {
+      "name": "The Liquor Store",
+      "type": "liquor_store",
+      "phone": [
+        "645-7971"
+      ],
+      "address": "Grand Bazaar\nValsayn\n(Tel) 645-7971"
+    },
+    {
+      "name": "Tobago Supermarket (Maharaj)",
+      "type": "liquor_store",
+      "phone": [
+        "639-2291"
+      ],
+      "address": "Main & Burnett Streets\nScarborough, Tobago\n(Tel) 639-2291"
+    },
+    {
+      "name": "A S Bryden & Sons T'dad Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "623-2310"
+      ],
+      "address": "33 Indepedence Square\nPort of Spain\n(Tel) 623-2310"
+    },
+    {
+      "name": "Alstons Marketing Co. Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "671-2713"
+      ],
+      "address": "Uriah Butler Hwy & Endeavour Road\nChaguanas\n(Tel) 671-2713"
+    },
+    {
+      "name": "Hand Arnold Trinidad Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "674-8002"
+      ],
+      "address": "El Socorro Road Extension\nSam Juan\n(Tel) 674-8002"
+    },
+    {
+      "name": "Ramadhar Food & Liquor Centre Co. Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "673-0023"
+      ],
+      "address": "Mission Road\nFree Port\n(Tel) 673-0023"
+    },
+    {
+      "name": "Seuradge J R S Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "657-7197"
+      ],
+      "address": "68 Rushworth Street\nSan Fernando\n(Tel) 657-7197"
+    },
+    {
+      "name": "Superior Distribution Limited",
+      "type": "liquor_store",
+      "phone": [
+        "645-0165"
+      ],
+      "address": "Eastern Main Road\nTunapuna\n(Tel) 645-0165"
+    },
+    {
+      "name": "The Wine Pointe",
+      "type": "liquor_store",
+      "phone": [
+        "648-4911"
+      ],
+      "address": "5 Guapo Capde Ville Road\nPoint Fortin\n(Tel) 648-4911"
+    },
+    {
+      "name": "Trini Caribbean Marketing",
+      "type": "liquor_store",
+      "email": [
+        "trini.caribbean.marketing@gmail.com"
+      ],
+      "extra_info": "(Russian Mendeleev Vodka)\nemail: trini.caribbean.marketing@gmail.com",
+      "phone": [
+        "221-6616",
+        "375-1956"
+      ],
+      "address": "#64 Palms Drive\nFairview Park\nFreeport\n(Tel1) 221-6616\n(Tel2) 375-1956"
+    },
+    {
+      "name": "Trinidad Import & Export Co. Ltd.",
+      "type": "liquor_store",
+      "phone": [
+        "625-3710"
+      ],
+      "address": "1 Abercromby Street\nPort of Spain\n(Tel) 625-3710"
+    }
+  ]
+}

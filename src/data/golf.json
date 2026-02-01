@@ -1,0 +1,210 @@
+{
+  "source": "http://tntisland.com/golf.html",
+  "page_title": "Trinidad & Tobago Golf Courses",
+  "category": "sports",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Brechin Castle Golf Course (BC)",
+      "type": "golf",
+      "extra_info": "{9 holes}",
+      "phone": [
+        "685-3667"
+      ],
+      "address": "Couva\nTrinidad\n868-685-3667 (Tel)"
+    },
+    {
+      "name": "Chaguramas Golf Course (Chag)",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "phone": [
+        "634-4349"
+      ],
+      "address": "Bellerand Road\nChaguaramas\nTrinidad\n868-634-4349 (Tel)"
+    },
+    {
+      "name": "Leewards Golf Club (LGC)",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "address": "Tobago"
+    },
+    {
+      "name": "Millennium Lakes Golf & Country Club (MLGCC)",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "phone": [
+        "640-8337"
+      ],
+      "address": "Sunrise Park\nTrincity\n868-640-8337"
+    },
+    {
+      "name": "Mount Irvine Bay Resort Golf Course",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "phone": [
+        "639-8871",
+        "639-8800"
+      ],
+      "address": "Mt. Irvine Hotel\nMt Irvine\nTobago\n868-639-8871 (Tel)\n868-639-8800 (Fax)"
+    },
+    {
+      "name": "Pointe a Pierre Golf Course Ltd. (PAPGCL).",
+      "type": "golf",
+      "extra_info": "formerly Petrotrin Pointe-a-Pierre Golf Course (P.A.P)\n{18 holes}",
+      "phone": [
+        "658-4200"
+      ],
+      "address": "Pointe-a-Pierre\nTrinidad\n868-658-4200 Ext. 2403\nNote: The Golf range, swimming pool, gym, ballrooms and even the entire golf course is available for events, plus activities such as golf lessons, swimming lessons, karate, dancing, etc, all available to the public and kids are free."
+    },
+    {
+      "name": "St. Andrew's Golf Course (SAGC)",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "phone": [
+        "629-2314",
+        "629-0066",
+        "629-0411"
+      ],
+      "address": "Maraval, Port of Spain\nTrinidad\n868-629-2314 (Tel)\n868-629-0066 (Tel2)\n868-629-0411 (fax)"
+    },
+    {
+      "name": "Tobago Plantations Golf Club (TPGC)",
+      "type": "golf",
+      "extra_info": "{18 holes}",
+      "phone": [
+        "631-0875",
+        "639-0720",
+        "635-0043"
+      ],
+      "address": "Magdalena Grand Beach and Golf Resort\nHampden Road, Lowland\nTobago\n868-631-0875 (Tel1)\n868-639-0720 (Tel2)\n868-635-0043 (Fax)"
+    },
+    {
+      "name": "Usine, St. Madeline Golf Course (USM)",
+      "type": "golf",
+      "extra_info": "{9 holes}",
+      "address": "Manahambre Road\nSt. Madeline\nTrinidad"
+    },
+    {
+      "name": "Hole In One",
+      "type": "golf",
+      "phone": [
+        "629-4653"
+      ],
+      "address": "Moka Golf Course, Maraval629-4653 (Tel)"
+    },
+    {
+      "name": "Millennium Lakes Golf & Country Club Pro Shop",
+      "type": "golf",
+      "phone": [
+        "640-8337",
+        "640-9797"
+      ],
+      "address": "Sunrise Park\nTrincity868-640-8337 (Tel1)\n640-9797 (Tel2)"
+    },
+    {
+      "name": "1",
+      "type": "golf",
+      "address": "Scottie Scheffler (USA)"
+    },
+    {
+      "name": "2",
+      "type": "golf",
+      "address": "Rory McIlroy (Northern Ireland)"
+    },
+    {
+      "name": "3",
+      "type": "golf",
+      "address": "Tommy Fleetwood (England)"
+    },
+    {
+      "name": "4",
+      "type": "golf",
+      "address": "Xander Schauffele (USA)"
+    },
+    {
+      "name": "5",
+      "type": "golf",
+      "address": "Russell Henley (USA)"
+    },
+    {
+      "name": "6",
+      "type": "golf",
+      "address": "J.J. Spaun (USA)"
+    },
+    {
+      "name": "7",
+      "type": "golf",
+      "address": "Robert MacIntyre (Scotland)"
+    },
+    {
+      "name": "8",
+      "type": "golf",
+      "address": "Ben Griffin (USA)"
+    },
+    {
+      "name": "9",
+      "type": "golf",
+      "address": "Justin Thomas(USA)"
+    },
+    {
+      "name": "10",
+      "type": "golf",
+      "address": "Justin Rose (England)"
+    },
+    {
+      "name": "11",
+      "type": "golf",
+      "address": "Harris English (USA)"
+    },
+    {
+      "name": "12",
+      "type": "golf",
+      "address": "Sepp Straka (Austria)"
+    },
+    {
+      "name": "13",
+      "type": "golf",
+      "address": "Alex Noren (Sweden)"
+    },
+    {
+      "name": "14",
+      "type": "golf",
+      "address": "Keegan Bradley (USA)"
+    },
+    {
+      "name": "15",
+      "type": "golf",
+      "address": "Viktor Hovland (Norway)"
+    },
+    {
+      "name": "16",
+      "type": "golf",
+      "address": "Hideki Matsuyama (Japan)"
+    },
+    {
+      "name": "17",
+      "type": "golf",
+      "address": "Collin Morikawa (USA)"
+    },
+    {
+      "name": "18",
+      "type": "golf",
+      "address": "Ludvig Aberg (Sweden)"
+    },
+    {
+      "name": "19",
+      "type": "golf",
+      "address": "Cameron Young (USA)"
+    },
+    {
+      "name": "20",
+      "type": "golf",
+      "address": "Tyrrell Hatton (England)"
+    },
+    {
+      "name": "NR (not rank in top 100)",
+      "type": "golf",
+      "address": "Stephen Ames (T&T)"
+    }
+  ]
+}

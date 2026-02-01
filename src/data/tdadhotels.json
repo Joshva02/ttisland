@@ -1,0 +1,747 @@
+{
+  "source": "http://tntisland.com/tdadhotels.html",
+  "page_title": "Trinidad Hotels/Inns/Motels/Resorts",
+  "category": "accommodations",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Acajou Hotel",
+      "type": "hotel",
+      "email": [
+        "info@acajoutrinidad.com"
+      ],
+      "extra_info": "email: Acajou Hotel",
+      "phone": [
+        "670-3771",
+        "670-3772"
+      ],
+      "address": "29 Paria Main Road\nGrande Riviere\nFax: 670-3772\nCell: 760-3808"
+    },
+    {
+      "name": "Airport Suites Ltd",
+      "type": "hotel",
+      "email": [
+        "airportsuites@hotmail.com"
+      ],
+      "extra_info": "email: Airport Suites Ltd",
+      "phone": [
+        "669-4186"
+      ],
+      "address": "#7 Factory Road South\nGolden Grove\nPiarco\n868-669-0362 (Tel1)\n868-669-0257 (Tel2)\n868-669-1335 (Fax)\nAirport View GuesthouseSt. Helena Village\nPiarco"
+    },
+    {
+      "name": "Alicia's House",
+      "type": "hotel",
+      "phone": [
+        "623-2802"
+      ],
+      "address": "7 Coblentz Gardens\nSt. Anns, Port of Spain\nFax: 623-8560"
+    },
+    {
+      "name": "Ambassador Hotel",
+      "type": "hotel",
+      "phone": [
+        "628-9000"
+      ],
+      "address": "99A Long Circular Road\nSt. James, Port of Spain"
+    },
+    {
+      "name": "Asa Wright Nature Center Hotel",
+      "type": "hotel",
+      "phone": [
+        "667-4655"
+      ],
+      "address": "20 Farfan Street\nArima\nFax: 667-4655"
+    },
+    {
+      "name": "Bayview Beach Resort & Marina",
+      "type": "hotel",
+      "phone": [
+        "678-9001"
+      ],
+      "address": "Gaspar Grande Island\nChaguanas"
+    },
+    {
+      "name": "Blanchisseuse Laguna Mar Beach Hotel",
+      "type": "hotel",
+      "phone": [
+        "628-3731"
+      ],
+      "address": "Zolina Highway\nMaraval, Port of Spain\nFax: 628-3737"
+    },
+    {
+      "name": "Capri Isle",
+      "type": "hotel",
+      "phone": [
+        "622-7359"
+      ],
+      "address": "6 Rust Street\nSt. Clair, Port of Spain"
+    },
+    {
+      "name": "Cara Hotels. Pointe-a-Pierre",
+      "type": "hotel",
+      "phone": [
+        "659-2272"
+      ],
+      "address": "Southern Main Road\nClaxton Bay"
+    },
+    {
+      "name": "Carnetta's House & Inn",
+      "type": "hotel",
+      "phone": [
+        "628-2732"
+      ],
+      "address": "99 Saddle Road\nMaraval, Port of Spain\nFax: 628-7717"
+    },
+    {
+      "name": "Cedar Ridge Towers",
+      "type": "hotel",
+      "phone": [
+        "628-6526"
+      ],
+      "address": "56 Third Street\nMaraval, Port of Spain"
+    },
+    {
+      "name": "Chaconia Inn Resorts",
+      "type": "hotel",
+      "phone": [
+        "628-8603"
+      ],
+      "address": "106 Saddle Road\nMaraval, Port of Spain\nFax: 628-3214"
+    },
+    {
+      "name": "Chaguaramas Hotel & Convention Centre",
+      "type": "hotel",
+      "email": [
+        "chacc@tstt.net.tt"
+      ],
+      "extra_info": "email: Chaguaramas Hotel",
+      "phone": [
+        "634-2379"
+      ],
+      "address": "Western Main Road\nChaguaramas\nFax: 634-2377"
+    },
+    {
+      "name": "Chancellor Hotel The",
+      "type": "hotel",
+      "phone": [
+        "623-0883"
+      ],
+      "address": "5 St. Anns Avenue\nSt. Anns, Port of Spain"
+    },
+    {
+      "name": "Chaquacabana Resort and Beach Club",
+      "type": "hotel",
+      "phone": [
+        "634-4319"
+      ],
+      "address": "Western Main Road\nChaguaramas"
+    },
+    {
+      "name": "Coblentz Inn Boutique Hotel",
+      "type": "hotel",
+      "email": [
+        "coblentzinn@tstt.net.tt"
+      ],
+      "extra_info": "email: Coblentz Inn",
+      "phone": [
+        "621-0541"
+      ],
+      "address": "44 Coblentz Avenue\nCascade, Port of Spain\nFax: 868/624-7566"
+    },
+    {
+      "name": "Copper Kettle Hotel The",
+      "type": "hotel",
+      "phone": [
+        "625-4381"
+      ],
+      "address": "66-88 Edward Street\nPort of Spain"
+    },
+    {
+      "name": "Coral Cove Marina Hotel & Conference Centre",
+      "type": "hotel",
+      "phone": [
+        "634-2040"
+      ],
+      "address": "Western Main Road\nChaguaramas"
+    },
+    {
+      "name": "Courtyard Marriott",
+      "type": "hotel",
+      "phone": [
+        "627-5555"
+      ],
+      "address": "Invaders Bay\nAudrey Jeffers Highway\nPort of Spain\nTrinidad\nFax: 627-6317"
+    },
+    {
+      "name": "Crews Inn Hotel & Yachting Centre",
+      "type": "hotel",
+      "phone": [
+        "634-4384"
+      ],
+      "address": "Pointe Gourde\nChaguaramas"
+    },
+    {
+      "name": "Crystal Stream Hotel",
+      "type": "hotel",
+      "phone": [
+        "642-4310"
+      ],
+      "address": "Golden Grove Road\nArouca"
+    },
+    {
+      "name": "Juniper Drive",
+      "type": "hotel",
+      "extra_info": "Aranguez South\nTel: 290-2753\nEastern Main Road\nArouca\nTel: 299-3264\nMadras Road\nKelly Village\nTel: 296-7682\nTumpuna Road North\nArima\nTel: 299-3259\nTumpuna Road South\nArima\nTel: 367-1289\nShirvan Drive\nSangre Grande\nTel: 299-3268\nManzanilla Road\nMayaro\nTel: 391-1516\nPetersfield\nChagunas\nTel: 290 2736\nDerrick Road\nChase Village\nTel: 299-3279\nSoledad Road West\nClaxton Bay\nTel: 395-3526\nRobertson Street\nSan Fernando\nTel: 367-2836\nCaratal Road\nDuncan Village\nTel: 385-4623\nRailyway Road\nPrinces Town\nTel: 312-0687\nClarke Road\nPenal\nTel: 322-9970\nSolomon Drive\nRousillac\nTel: 361-0407\nJasper Street\nDiego Martin\nTel: 290-1835\nRoberts Street\nBon Accord\nTel: 344-3840\nDougie's Hotel",
+      "phone": [
+        "677-5114"
+      ],
+      "address": "67 Mucurapo Road\nSt. James, Port of Spain"
+    },
+    {
+      "name": "Errol Lau Hotel",
+      "type": "hotel",
+      "phone": [
+        "625-4381"
+      ],
+      "address": "66-68 Edward Street\nPort of Spain"
+    },
+    {
+      "name": "Esterel Hotel",
+      "type": "hotel",
+      "email": [
+        "stay@hotelesterel.com"
+      ],
+      "extra_info": "email: Esterel Hotel",
+      "phone": [
+        "670-4767"
+      ],
+      "address": "Cumana, Toco\nFax: 662-4084"
+    },
+    {
+      "name": "Fabiennes Guest House",
+      "type": "hotel",
+      "phone": [
+        "622-2773"
+      ],
+      "address": "15 Belle Smythe Street\nWoodbrook, Port of Spain"
+    },
+    {
+      "name": "Farrell House Hotel",
+      "type": "hotel",
+      "phone": [
+        "659-2271"
+      ],
+      "address": "Claxton Bay"
+    },
+    {
+      "name": "Grandville Beach Resort",
+      "type": "hotel",
+      "phone": [
+        "648-0154"
+      ],
+      "address": "Granville Beach Resort\nPoint Fortin"
+    },
+    {
+      "name": "Green Oak Tower Hotel",
+      "type": "hotel",
+      "phone": [
+        "675-1593"
+      ],
+      "address": "267 Santa Cruz Old Road\nSan Juan"
+    },
+    {
+      "name": "Halyconia Inn",
+      "type": "hotel",
+      "phone": [
+        "623-0008"
+      ],
+      "address": "7 First Avenue\nCascade, Port of Spain"
+    },
+    {
+      "name": "Harry's Guesthouse",
+      "type": "hotel",
+      "phone": [
+        "652-2038"
+      ],
+      "address": "Baywatch Boulevard\nMayaro"
+    },
+    {
+      "name": "Holiday Inn Express (Trinicity Trinidad Airport)",
+      "type": "hotel",
+      "phone": [
+        "669-6909"
+      ],
+      "address": "51-53 Long Circular Road\nPort of Spain\nFax: 692-4557"
+    },
+    {
+      "name": "Hosanna Hotel",
+      "type": "hotel",
+      "email": [
+        "info@hosannahoteltt.com"
+      ],
+      "extra_info": "email: Hosanna Hotel",
+      "phone": [
+        "662-5449"
+      ],
+      "address": "Santa Margarita Circular\nSt. Augustine\nFax: 662-5451"
+    },
+    {
+      "name": "Hotel California",
+      "type": "hotel",
+      "phone": [
+        "667-2209"
+      ],
+      "address": "19A Nelson Street\nArima"
+    },
+    {
+      "name": "Hotel Tokyo",
+      "type": "hotel",
+      "phone": [
+        "652-3257"
+      ],
+      "address": "43-45 St. James Street\nSan Fernando"
+    },
+    {
+      "name": "Hyatt Regency",
+      "type": "hotel",
+      "phone": [
+        "623-2222"
+      ],
+      "address": "#1 Wrightson Road\nPort-of-Spain"
+    },
+    {
+      "name": "Jammev Beach Resort",
+      "type": "hotel",
+      "phone": [
+        "681-2037"
+      ],
+      "address": "Galera Road\nPetit Trou, Toco"
+    },
+    {
+      "name": "Jasmines Ocean Resort",
+      "type": "hotel",
+      "email": [
+        "info@jasminesresort.com"
+      ],
+      "extra_info": "Email: JOR",
+      "phone": [
+        "670-4567"
+      ],
+      "address": "1 Simmons Drive\nRampanalagas Village, Balandra\nFax: 670-1076"
+    },
+    {
+      "name": "Kalke Hotel",
+      "type": "hotel",
+      "email": [
+        "kfrank@tstt.net.tt"
+      ],
+      "extra_info": "email: Kalke Hotel",
+      "phone": [
+        "657-4951"
+      ],
+      "address": "60 North Street\nSt. Joseph Village, San Fernando\nFax: 657-4951"
+    },
+    {
+      "name": "Kapok Hotel",
+      "type": "hotel",
+      "email": [
+        "kapok@trinidad.net"
+      ],
+      "extra_info": "email: Kapok Hotel",
+      "phone": [
+        "622-5765"
+      ],
+      "address": "16-18 Cotton Hill\nSt. Clair, Port of Spain\nFax: 622-9677"
+    },
+    {
+      "name": "L'Orchid�e - the Boutique Hotel",
+      "type": "hotel",
+      "email": [
+        "reservations@trinidadhosthomes.com",
+        "info@trinidadhosthomes.com"
+      ],
+      "extra_info": "email #1: L'Orchid�e - the Boutique Hotel\nemail #2: L'Orchid�e - the Boutique Hotel",
+      "phone": [
+        "621-0063",
+        "621-0613",
+        "750-6099"
+      ],
+      "address": "3 Coblentz Gardens\nSt. Anns\nTel4/Fax: 621-0618"
+    },
+    {
+      "name": "La Calypso",
+      "type": "hotel",
+      "phone": [
+        "622-4077"
+      ],
+      "address": "46 French Street\nWoodbrook, Port of Spain"
+    },
+    {
+      "name": "Le Chateau Hotel",
+      "type": "hotel",
+      "phone": [
+        "655-0559"
+      ],
+      "address": "19 Buen Intento Road\nPrinces Town"
+    },
+    {
+      "name": "Le Sportel Inn",
+      "type": "hotel",
+      "email": [
+        "cexcell@carib-link.net"
+      ],
+      "extra_info": "email: Kapok Hotel",
+      "phone": [
+        "663-3905"
+      ],
+      "address": "Macoya Road\nTunapuna\nFax: 663-3904"
+    },
+    {
+      "name": "Maracas Bay Hotel",
+      "type": "hotel",
+      "email": [
+        "maracasbay@tstt.net.tt"
+      ],
+      "extra_info": "email: Maracas Bay Hotel",
+      "phone": [
+        "669-1914"
+      ],
+      "address": "Bay Road\nMaracas\nFax: 669-1643"
+    },
+    {
+      "name": "Marakai Villas Mayaro",
+      "type": "hotel",
+      "phone": [
+        "781-3109"
+      ],
+      "address": "#161 Rabita Avenue\nPierreville, Mayaro"
+    },
+    {
+      "name": "McEachnie's Haven",
+      "type": "hotel",
+      "email": [
+        "mchaven80@tstt.net.tt"
+      ],
+      "extra_info": "email: McEachnie's Haven",
+      "phone": [
+        "670-1014"
+      ],
+      "address": "corner Bristol & Thomas Streets\nGrande Riviere Village\nToco"
+    },
+    {
+      "name": "Moniques GuestHouse",
+      "type": "hotel",
+      "phone": [
+        "628-3334"
+      ],
+      "address": "114-116 Saddle Road\nMaraval, Port of Spain"
+    },
+    {
+      "name": "Mt. Plasir Estate",
+      "type": "hotel",
+      "phone": [
+        "670-8381",
+        "680-4553"
+      ],
+      "address": "Hosang Street\nToco"
+    },
+    {
+      "name": "Par-May-La's Inn1",
+      "type": "hotel",
+      "email": [
+        "reservation@parmaylas.com"
+      ],
+      "extra_info": "email: Par-May-La's Inn",
+      "phone": [
+        "628-2008"
+      ],
+      "address": "53 Picton Street\nNewtown, Port of Spain\nFax: 628-4707"
+    },
+    {
+      "name": "Paria Suites",
+      "type": "hotel",
+      "email": [
+        "Info@PariaSuites.com"
+      ],
+      "extra_info": "email: Paria Suites",
+      "phone": [
+        "697-1442",
+        "697-1443"
+      ],
+      "address": "South Trunk Road\nLa Romain\nFax: 697-1445"
+    },
+    {
+      "name": "Pak Guest House",
+      "type": "hotel",
+      "phone": [
+        "662-4084",
+        "662-4084"
+      ],
+      "address": "Tunapuna"
+    },
+    {
+      "name": "Pelican Inn",
+      "type": "hotel",
+      "email": [
+        "theinn@pelicaninn.co.tt"
+      ],
+      "extra_info": "email: Pelican Inn",
+      "phone": [
+        "624-7486"
+      ],
+      "address": "2-4 Cobentz Avenue\nCascade, Port of Spain\nFax: 623-0978"
+    },
+    {
+      "name": "Piarco International Hotel",
+      "type": "hotel",
+      "email": [
+        "piarcohotel@mailcity.com"
+      ],
+      "extra_info": "email: Piarco Intl. Hotel",
+      "phone": [
+        "669-3030"
+      ],
+      "address": "8-10 Golden Grove Road\nPiarco\nFax: 669-1739"
+    },
+    {
+      "name": "R.A.S.H Beach Front Hotel",
+      "type": "hotel",
+      "phone": [
+        "630-7274"
+      ],
+      "address": "Church Road\nMayaro"
+    },
+    {
+      "name": "Radisson Hotel Trinidad",
+      "type": "hotel",
+      "phone": [
+        "625-3366"
+      ],
+      "address": "Wrightson Road\nPort of Spain"
+    },
+    {
+      "name": "Regent Star Hotel",
+      "type": "hotel",
+      "email": [
+        "info@regentstarhotel.com"
+      ],
+      "extra_info": "email: Regent Star Hotel",
+      "phone": [
+        "669-"
+      ],
+      "address": "118-119 BWIA Boulevard\nPiarco\nSTAR(7827)\nFax: 669-7000"
+    },
+    {
+      "name": "Royal Hotel1",
+      "type": "hotel",
+      "email": [
+        "info@royalgoteltt.com"
+      ],
+      "extra_info": "email: Royal Hotel",
+      "phone": [
+        "652-4881"
+      ],
+      "address": "46-54 Royal Road\nMon-Repos, San Fernando\nFax: 628-6042"
+    },
+    {
+      "name": "Royal Palm Suite Hotel",
+      "type": "hotel",
+      "email": [
+        "royalpalm@trinidad.net"
+      ],
+      "extra_info": "email: Royal Palm Hotel",
+      "phone": [
+        "628-5086"
+      ],
+      "address": "7 Saddle Road\nMaraval, Port of Spain\nFax: 628-6042"
+    },
+    {
+      "name": "Serenity Inn",
+      "type": "hotel",
+      "email": [
+        "serenityinn@tstt.net.tt"
+      ],
+      "extra_info": "email: Serenity Inn",
+      "phone": [
+        "676-2676"
+      ],
+      "address": "LP#6 La Pastora Road\nSanta Cruz\nFax: 676-2675"
+    },
+    {
+      "name": "Tecu Holiday Resort",
+      "type": "hotel",
+      "phone": [
+        "658-2514"
+      ],
+      "address": "Mayaro\nBalandria, Piarco"
+    },
+    {
+      "name": "The Brix Autograph Collection Hotel",
+      "type": "hotel",
+      "phone": [
+        "612-4000"
+      ],
+      "address": "2-4 Coblentz Avenue\nPort of Spain"
+    },
+    {
+      "name": "The Caribbean Lodge",
+      "type": "hotel",
+      "phone": [
+        "645-2937"
+      ],
+      "address": "32 St Augustine Circular Road\nTunapuna\nFax: 645-2358"
+    },
+    {
+      "name": "The Cascadia Hotel",
+      "type": "hotel",
+      "email": [
+        "info@cascadiahotel.com"
+      ],
+      "extra_info": "email: Cascadia Hotel",
+      "phone": [
+        "623-4208"
+      ],
+      "address": "Aripita Avenue\nSt Anns\nFax: 627-8046"
+    },
+    {
+      "name": "The Coconut Cove",
+      "type": "hotel",
+      "email": [
+        "Email:cove2b@yahoo.com",
+        "cove2b@yahoo.com"
+      ],
+      "extra_info": "email: Coconut Cove",
+      "phone": [
+        "691-5939",
+        "769-9510"
+      ],
+      "address": "#33-36 Calypso Road\nManzanilla\nFax: 665-0884"
+    },
+    {
+      "name": "The Cove",
+      "type": "hotel",
+      "phone": [
+        "634-4275"
+      ],
+      "address": "Western Main Road\nChaguaramas"
+    },
+    {
+      "name": "The Normandie Hotel",
+      "type": "hotel",
+      "phone": [
+        "624-1181"
+      ],
+      "address": "10 Nooks Avenue\nSt. Anns, Port of Spain\nFax: 624-0108"
+    },
+    {
+      "name": "The Villa Marie Inn",
+      "type": "hotel",
+      "phone": [
+        "625-8732"
+      ],
+      "address": "48A Perseverance Road\nMaraval, Port of Spain\nFax: 629-8641"
+    },
+    {
+      "name": "Tocopia Hotel & Lounge",
+      "type": "hotel",
+      "phone": [
+        "382-9790",
+        "382-8839"
+      ],
+      "address": "LP #26, Paria Main Road\nMission Village, Toco"
+    },
+    {
+      "name": "Trade Winds Hotel",
+      "type": "hotel",
+      "phone": [
+        "652-9463"
+      ],
+      "address": "38 London Street\nSan Fernando\nFax: 652-9643"
+    },
+    {
+      "name": "Trini River Lime Hotel",
+      "type": "hotel",
+      "phone": [
+        "757-6901"
+      ],
+      "address": "Orosco Road\nMatura"
+    },
+    {
+      "name": "Trinidad Hilton",
+      "type": "hotel",
+      "email": [
+        "hiltonpos@wow.net"
+      ],
+      "extra_info": "email: Trinidad Hotel",
+      "phone": [
+        "664-3211"
+      ],
+      "address": "Lady Young Road\nPort of Spain\nFax: 624-4485"
+    },
+    {
+      "name": "Trinidad Maracas Bay Hotel",
+      "type": "hotel",
+      "phone": [
+        "669-1914"
+      ],
+      "address": "Maracas Bay\nMaracas\nFax: 669-1643"
+    },
+    {
+      "name": "Tropical Hotel",
+      "type": "hotel",
+      "phone": [
+        "622-5815"
+      ],
+      "address": "6 Rookery Nook\nMaraval, Port of Spain"
+    },
+    {
+      "name": "Tropikist Beach Hotel & Resort Ltd.",
+      "type": "hotel",
+      "email": [
+        "tropikist@wow.net"
+      ],
+      "extra_info": "email: Tropikist Hotel",
+      "phone": [
+        "628-1625"
+      ],
+      "address": "1 Sweet Briar Road\nSt. Clair, Port of Spain\nFax: 628-9114"
+    },
+    {
+      "name": "Unique Hotel Hideaway & Bar",
+      "type": "hotel",
+      "phone": [
+        "672-3315"
+      ],
+      "address": "3 Dam Road\nLongdenville"
+    },
+    {
+      "name": "Valsayn Guest House",
+      "type": "hotel",
+      "phone": [
+        "645-1193"
+      ],
+      "address": "34 Gilwell Road\nValsayn\nFax: 645-1193"
+    },
+    {
+      "name": "Venus Hotel",
+      "type": "hotel",
+      "phone": [
+        "653-3847"
+      ],
+      "address": "22 Shah Street\nSan Fernando"
+    },
+    {
+      "name": "Double Palm Inn",
+      "type": "hotel",
+      "locations": [
+        {
+          "phone": [
+            "361-0409"
+          ],
+          "address": "Rambhaju Trace\nAranguez"
+        }
+      ]
+    }
+  ]
+}

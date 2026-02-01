@@ -1,0 +1,98 @@
+{
+  "source": "http://tntisland.com/localdishes.html",
+  "page_title": "Trinidad & Tobago Local Dishes",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "Benne balls",
+      "type": "local_dish",
+      "description": "A delightful (and somewhat jawbreaking) confection made of sesame seeds."
+    },
+    {
+      "name": "Blue food (cf. provision)",
+      "type": "local_dish",
+      "description": "Dasheen is one of the hearty root vegetables (or ground provisions, as we say) popular in local cuisine. It has a bluish tinge, and is usually eaten boiled. Other common ground provisions include cassava, eddoes, sweet potato, yam and tania."
+    },
+    {
+      "name": "Buljol",
+      "type": "local_dish",
+      "description": "Salted codfish shredded and seasoned with peppers, onions, tomatoes, and olive oil, often served in coconut bake."
+    },
+    {
+      "name": "Callaloo",
+      "type": "local_dish",
+      "description": "Made from spinach-like dasheen leaves and okra; other ingredients may include coconut, crab and pigtail."
+    },
+    {
+      "name": "Coconut Bake",
+      "type": "local_dish",
+      "description": "A type of bread made with grated coconut, often eaten at breakfast with buljol or cheese."
+    },
+    {
+      "name": "Cou-cou",
+      "type": "local_dish",
+      "description": "A mixture of cornmeal, okra and butter, boiled and stirred till firm enough to be sliced (similar to polenta). Usually served with steamed fish and callaloo."
+    },
+    {
+      "name": "Crab n� dumpling",
+      "type": "local_dish",
+      "description": "A filling, savoury dish in which the crab is stewed with curry and coconut milk and served over flat flour dumplings."
+    },
+    {
+      "name": "Doubles",
+      "type": "local_dish",
+      "description": "Curried channa (chickpeas) sandwiched between two baras (fried flour and split pea bread), usually eaten with a dollop of hot mango kucheela."
+    },
+    {
+      "name": "Oildown",
+      "type": "local_dish",
+      "description": "Breadfruit is the main ingredient here, combined with salted meat and boiled down in coconut milk. Called �rundown� in Jamaica."
+    },
+    {
+      "name": "Pacro Water",
+      "type": "local_dish",
+      "description": "An aphrodisiac made by boiling a local crustacean. Definitely an acquired taste."
+    },
+    {
+      "name": "Pastelles",
+      "type": "local_dish",
+      "description": "Meat-filled corn dumplings cooked in banana leaves. Vegetarian variations are filled with soya or lentil peas."
+    },
+    {
+      "name": "Pelau",
+      "type": "local_dish",
+      "description": "Pigeon peas and rice cooked with meat, sometimes flavoured with coconut milk."
+    },
+    {
+      "name": "Phulouri",
+      "type": "local_dish",
+      "description": "Small, deep-fried balls made from a mixture of ground split peas and flour, served with spicy chutney."
+    },
+    {
+      "name": "Pigeon peas",
+      "type": "local_dish",
+      "description": "Pigeon peas and rice is a popular dish for Christmas and New Year, said to bring luck and prosperity."
+    },
+    {
+      "name": "Roti",
+      "type": "local_dish",
+      "description": "A flour wrap, accompanied by curried meat (goat, chicken, lamb, beef, shrimp) or vegetables. Dhalpouri roti made with split peas, is a thin wrap; paratha roti (often called buss-up-shut) is served in fragments, used to scoop up the accompanying dishes; sada roti is slightly stiffer, usually served with choka � vegetables saut�ed Indian style."
+    },
+    {
+      "name": "Shark and bake",
+      "type": "local_dish",
+      "description": "Fried leavened bread (bake) filled with a well-seasoned shark fillet, dressed with a variety of spicy condiments, including pepper, garlic, and chadon beni (cilantro) sauces."
+    },
+    {
+      "name": "Snow Cone or Sno-cone",
+      "type": "local_dish",
+      "description": "Shaved ice, syrups made from guava, pineapple or kola and, if you ask for it, delicious, sinful condensed milk. Not just for kids."
+    },
+    {
+      "name": "Souse",
+      "type": "local_dish",
+      "description": "Pig trotters boiled and served cold with a salty sauce of lime, cucumber, pepper and onions."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source": "http://tntisland.com/foodcourts.html",
+  "page_title": "Trinidad & Tobago Food Hubs/Food Courts",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "139 Woodbrook Yard",
+      "type": "food_court",
+      "address": "139 Tragarete Road\nPort of Spain"
+    },
+    {
+      "name": "ANR Robinson International Airport Food Court (Tobago)",
+      "type": "food_court",
+      "address": "Airport Connector Road\nCrown Point, Tobago"
+    },
+    {
+      "name": "Barakah Grounds Food Court",
+      "type": "food_court",
+      "address": "Narsaloo Ramaya Marg Road\nSt. Charles, Chaguanas"
+    },
+    {
+      "name": "By The Samaan Tree",
+      "type": "food_court",
+      "address": "#378 Couva Main Road\nBalmain Village, Couva"
+    },
+    {
+      "name": "C3 Centre Food Court",
+      "type": "food_court",
+      "address": "Ground level, C3 Corinth Road\nSan Fernando,"
+    },
+    {
+      "name": "Debe Cross Food Court",
+      "type": "food_court",
+      "address": "Mahadeo Trace, S.S. Erin Road\nDebe"
+    },
+    {
+      "name": "Eddie Hart Food Village",
+      "type": "food_court",
+      "address": "Eddie Hart Savannah\nTacarigua"
+    },
+    {
+      "name": "Food at The Falls",
+      "type": "food_court",
+      "address": "The Falls at Westmall\nGuardian Drive\nPort of Spain"
+    },
+    {
+      "name": "Food Mall",
+      "type": "food_court",
+      "address": "Highland Plaza\nWestern Main Road\nDiego Martin"
+    },
+    {
+      "name": "Food Square",
+      "type": "food_court",
+      "address": "Corner of Ariapita Avenue and Rosalino Street\nWoodbrook, Port of Spain"
+    },
+    {
+      "name": "Gulf City Mall Food Court",
+      "type": "food_court",
+      "address": "Gulf City Mall\nGulf View Link Road\nLa Romaine, San Fernando"
+    },
+    {
+      "name": "Gulf City Mall Food Court (Tobago)",
+      "type": "food_court",
+      "address": "Claude Noel Hwy\nLowlands, Tobago"
+    },
+    {
+      "name": "Long Circular Mall Food Court",
+      "type": "food_court",
+      "address": "Long Circular Road\nSt. James, Port of Spain"
+    },
+    {
+      "name": "Maritime Centre Food Court",
+      "type": "food_court",
+      "address": "Maritime Plaza\nTenth Avenu\nBarataria"
+    },
+    {
+      "name": "Off The Avenue 'Street Food Vybz'",
+      "type": "food_court",
+      "address": "#39 Carlos Street\nPort of Spain"
+    },
+    {
+      "name": "Piarco International Airport Food Court",
+      "type": "food_court",
+      "address": "Piarco International Airport Parking Lot\nSt Helena"
+    },
+    {
+      "name": "Portmall Shopping Complex (Tobago)",
+      "type": "food_court",
+      "address": "Sangster Hill Road\nScarborough, Tobago"
+    },
+    {
+      "name": "Queen�s Park Savannah Food Strip",
+      "type": "food_court",
+      "address": "Queen's Park West (Queen's Park Savannah)\nPort of Spain"
+    },
+    {
+      "name": "Sangre Grande Food Hub",
+      "type": "food_court",
+      "email": [
+        "grandefoodhub@gmail.com"
+      ],
+      "extra_info": "email: Sangre Grande Food Hub",
+      "address": "14 Alphonso Street\nSangre Grande"
+    },
+    {
+      "name": "Shaw Park Food Hub (Tobago)",
+      "type": "food_court",
+      "address": "Shaw Park\nOld Governement Farm Road\nScarborough, Tobago"
+    },
+    {
+      "name": "The Oasis Food Court at Grand Bazaar",
+      "type": "food_court",
+      "address": "The City of Grand Bazaar\nCorner Churchill Roosevelt Highway and Uriah Butler Highway\nValsayn"
+    },
+    {
+      "name": "The Port TT Food Hub",
+      "type": "food_court",
+      "email": [
+        "theport868@gmail.com"
+      ],
+      "extra_info": "email: The Port TT Food Hub",
+      "address": "Southern Main Road\nCouva"
+    },
+    {
+      "name": "Trincity Mall Food Fair",
+      "type": "food_court",
+      "address": "Level 2 Food Court (Trincity Mall North Wing)\nTrincity Central Road\nTrincity"
+    },
+    {
+      "name": "Uptown Mall Food Court",
+      "type": "food_court",
+      "address": "Edward Street\nPort of Spain"
+    },
+    {
+      "name": "UWI Food Court",
+      "type": "food_court",
+      "address": "University Drive\nSt. Augustine"
+    },
+    {
+      "name": "Woodford Street Takeaway Foodocurt",
+      "type": "food_court",
+      "address": "Woodford Street\nPort of Spain"
+    }
+  ]
+}

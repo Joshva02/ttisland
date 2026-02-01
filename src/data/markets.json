@@ -1,0 +1,128 @@
+{
+  "source": "http://tntisland.com/markets.html",
+  "page_title": "Trinidad & Tobago Fruit/Vegetable Markets",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "CMA Produce Ltd.",
+      "type": "market",
+      "phone": [
+        "675-8411"
+      ],
+      "address": "El Socorro Ext No 1\nSan Juan\n675-8411 (Tel)"
+    },
+    {
+      "name": "D' Market Movers",
+      "type": "market",
+      "phone": [
+        "221-3555",
+        "753-7889"
+      ],
+      "address": "8th Street\nBarataria\n221-3555 (Tel1)\n753-7889 (Tel2 - whatapps)"
+    },
+    {
+      "name": "D Veggie Market",
+      "type": "market",
+      "phone": [
+        "289-6467",
+        "281-6023"
+      ],
+      "address": "Farfan Street\nArima\n289-6467 (Tel1)\n281-6023 (Tel2 - Whatsapp)"
+    },
+    {
+      "name": "Dee Green Fingers Vege Mart",
+      "type": "market",
+      "phone": [
+        "710-7754",
+        "774-1273"
+      ],
+      "address": "Corner of Glen Road and Wilson Road\nScarborough\n710-7754 (Tel1)\n774-1273 (Tel2)"
+    },
+    {
+      "name": "Farmer's Market",
+      "type": "market",
+      "phone": [
+        "639-4948"
+      ],
+      "address": "Bacolet Street\nScarborough\n639-4948 (Tel)"
+    },
+    {
+      "name": "Harvest Farmers Market",
+      "type": "market",
+      "email": [
+        "farmeventsmarket@gmail.com"
+      ],
+      "extra_info": "(open every Saturday and Sunday)\nemail: farmeventsmarket@gmail.com",
+      "phone": [
+        "320-8878"
+      ],
+      "address": "between Cyrus Road Gas Station Limited and the El Socorro walk over.\n(off the Churchill Roosevelt Highway)\nSan Juan\n320-8878 (Tel)"
+    },
+    {
+      "name": "Ibrahim's Poultry Fruit & Pet Supplies Ltd.",
+      "type": "market",
+      "phone": [
+        "642-3507"
+      ],
+      "address": "Reid Lane\nD'Abadie\n642-3507 (Tel)"
+    },
+    {
+      "name": "Jenny's Vegetable Mart",
+      "type": "market",
+      "phone": [
+        "637-7368"
+      ],
+      "address": "Four Roads\nDiego Martin\n637-7368 (Tel)"
+    },
+    {
+      "name": "Lutchman Vegetable Stall",
+      "type": "market",
+      "phone": [
+        "639-4210"
+      ],
+      "address": "Wilson Road\nScarborough\n639-4210 (Tel)"
+    },
+    {
+      "name": "Ruiz Marketplace Ltd.",
+      "type": "market",
+      "email": [
+        "info@ruizmarketplaceltd.com"
+      ],
+      "extra_info": "email: Ruiz Marketplace Ltd.",
+      "phone": [
+        "337-7849"
+      ],
+      "address": "279 Eastern Man Road\nEl Dorado\n337-7849 (Tel - Whatsapp)"
+    },
+    {
+      "name": "Sangre Grande Market",
+      "type": "market",
+      "address": "Cunapo Southern Main Road\nSangre Grande Market"
+    },
+    {
+      "name": "UpMarket",
+      "type": "market",
+      "phone": [
+        "703-2169"
+      ],
+      "address": "15-17 Hamilton Holder Street\nPort of Spain\n703-2169 (Tel)"
+    },
+    {
+      "name": "UPick Vegetable Farm",
+      "type": "market",
+      "phone": [
+        "271-2681"
+      ],
+      "address": "Tucker Valley\nMacqueripe Road\nChaguaramas\n271-2681 (Tel)"
+    },
+    {
+      "name": "Variety Foods Inc Ltd.",
+      "type": "market",
+      "phone": [
+        "663-3678"
+      ],
+      "address": "10 Orange Grove Road\nSt Augustine\n663-3678 (Tel)"
+    }
+  ]
+}

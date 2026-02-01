@@ -1,0 +1,754 @@
+{
+  "source": "http://tntisland.com/bakeries.html",
+  "page_title": "Trinidad & Tobago Bakeries Shops",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "M J's Pizzeria & Bakery",
+      "type": "bakery",
+      "phone": [
+        "639-1470"
+      ],
+      "address": "Main & Bacolet Streets\nScarborough\n639-1470 (Tel)"
+    },
+    {
+      "name": "Patricia's Bakery",
+      "type": "bakery",
+      "phone": [
+        "639-3261"
+      ],
+      "address": "Government House Road\nScarborough\n639-3261 (Tel)"
+    },
+    {
+      "name": "Tobago Baking Service Ltd.",
+      "type": "bakery",
+      "phone": [
+        "639-2445"
+      ],
+      "address": "Old Government Farm Road\nShaw Park\n639-2445 (Tel)"
+    },
+    {
+      "name": "Aaron's Bakery",
+      "type": "bakery",
+      "phone": [
+        "648-2033"
+      ],
+      "address": "2 Techier Main Road\nPoint Fortin\n648-2033 (Tel)"
+    },
+    {
+      "name": "Adams Bagels & Specialty Breads",
+      "type": "bakery",
+      "phone": [
+        "622-2435"
+      ],
+      "address": "15A Saddle Road\nMaraval\n622-2435 (Tel)"
+    },
+    {
+      "name": "Affan's Bakery",
+      "type": "bakery",
+      "phone": [
+        "652-3610"
+      ],
+      "address": "48 Irving Street\nSan Fernando\n652-3610 (Tel)"
+    },
+    {
+      "name": "Annie's Culinary Cuisine Ltd.",
+      "type": "bakery",
+      "phone": [
+        "683-4326"
+      ],
+      "address": "Hillside Terrace South\nEl Dorado\n683-4326 (Tel)"
+    },
+    {
+      "name": "Attong's Bakery",
+      "type": "bakery",
+      "email": [
+        "attongsbakery63@gmail.com"
+      ],
+      "extra_info": "email: Attong's Bakery",
+      "phone": [
+        "652-4780"
+      ],
+      "address": "63 Keate Street\nSan Fernando\n652-4780 (Tel)"
+    },
+    {
+      "name": "Bagatelle Barkery & Deli",
+      "type": "bakery",
+      "phone": [
+        "625-9107"
+      ],
+      "address": "Movietowne Shopping Complex\nPort of Spain\n625-9107 (Tel)"
+    },
+    {
+      "name": "City Gate",
+      "type": "bakery",
+      "extra_info": "Port Of Spain\n624-8362\nBakers Huts",
+      "phone": [
+        "627-5117"
+      ],
+      "address": "Frederick Street\nPort of Spain\n627-5117 (Tel)"
+    },
+    {
+      "name": "Bakery Stop",
+      "type": "bakery",
+      "address": "Arima Bus Layby\nArima"
+    },
+    {
+      "name": "Bakery Treatz",
+      "type": "bakery",
+      "phone": [
+        "672-9625"
+      ],
+      "address": "75 Rodney Road\nEndeavor, Chaguanas\n672-9625 (Tel)"
+    },
+    {
+      "name": "Benji's Bakery",
+      "type": "bakery",
+      "phone": [
+        "668-2682"
+      ],
+      "address": "Guaico Tamana Road\nSangre Grande\n668-2682 (Tel)"
+    },
+    {
+      "name": "Best Bite Bakery",
+      "type": "bakery",
+      "phone": [
+        "657-9161"
+      ],
+      "address": "25 Cipero Street\nSan Fernando\n657-9161 (Tel)"
+    },
+    {
+      "name": "Better Deal Bakery",
+      "type": "bakery",
+      "phone": [
+        "675-8415"
+      ],
+      "address": "70 Aranguez Road\nSan Juan\n675-8415 (Tel)"
+    },
+    {
+      "name": "Big Bite Bakeries Ltd.",
+      "type": "bakery",
+      "phone": [
+        "673-4040"
+      ],
+      "address": "St Mary's Junction\nFreeport\n673-4040 (Tel)"
+    },
+    {
+      "name": "Blue Kitchen",
+      "type": "bakery",
+      "email": [
+        "bluekitchen.tt@gmail.com"
+      ],
+      "extra_info": "email: Blue Kitchen",
+      "phone": [
+        "393-7399"
+      ],
+      "address": "San Fernando\n393-7399 (Tel)"
+    },
+    {
+      "name": "Bread Basket",
+      "type": "bakery",
+      "phone": [
+        "624-7384"
+      ],
+      "address": "7 Street Anns Road\nSt Anns\n624-7384 (Tel)"
+    },
+    {
+      "name": "Bread On Line",
+      "type": "bakery",
+      "phone": [
+        "636-3626"
+      ],
+      "address": "99A Alexander Village\nCouva\n636-3626 (Tel)"
+    },
+    {
+      "name": "Butterflake Bakery",
+      "type": "bakery",
+      "phone": [
+        "650-0365"
+      ],
+      "address": "31 Ben Lomond Village\nWilliamsville\n650-0365 (Tel)"
+    },
+    {
+      "name": "Chee Mooke Bakery Ltd.",
+      "type": "bakery",
+      "phone": [
+        "623-4607"
+      ],
+      "address": "14 Independence Square\nPort of Spain\n623-4607 (Tel)"
+    },
+    {
+      "name": "Chez George Bakery & Caterers",
+      "type": "bakery",
+      "phone": [
+        "633-2206"
+      ],
+      "address": "Valpark Shopping Plaza\nValsayn\n633-2206 (Tel)"
+    },
+    {
+      "name": "Chin Chuck's Bakery",
+      "type": "bakery",
+      "phone": [
+        "675-0438"
+      ],
+      "address": "1 Saddle Road\nSan Juan\n675-0438 (Tel)"
+    },
+    {
+      "name": "Movietowne Shopping Complex",
+      "type": "bakery",
+      "extra_info": "Port of Spain\n222-8746 (Tel)\nPiarco Airport\nPiarco\n669-2996 (Tel)\nTrincity Mall\nTrincity\n640-8641 (Tel)\nWest Mall\nWestmoorings\n223-8307 (Tel)\nClassic Bakes Bakery",
+      "phone": [
+        "653-2032"
+      ],
+      "address": "86 Cipero Road\nRetrench Village\nSan Fernando\n653-2032 (Tel)"
+    },
+    {
+      "name": "Corbie's Sweet Bites Bakery Ltd.",
+      "type": "bakery",
+      "phone": [
+        "648-6065"
+      ],
+      "address": "99 Main Rd\nPoint Fortin\n648-6065 (Tel)"
+    },
+    {
+      "name": "D & S Maharaj Bakery",
+      "type": "bakery",
+      "phone": [
+        "652-2036"
+      ],
+      "address": "22 Coffee Street\nSan Fernando\n652-2036 (Tel)"
+    },
+    {
+      "name": "Daily Bread Bakery",
+      "type": "bakery",
+      "phone": [
+        "640-1106"
+      ],
+      "address": "418 Eastern Main Road\nTacarigua\n640-1106 (Tel)"
+    },
+    {
+      "name": "De Edwards Bread",
+      "type": "bakery",
+      "email": [
+        "deedwardsbread@gmail.com"
+      ],
+      "extra_info": "email: De Edwards Bread",
+      "phone": [
+        "482-7147",
+        "710-9941",
+        "464-0349"
+      ],
+      "address": "Trinidad\n482-7147 (Rhona)\n710-9941 (Denzyl)\n464-0349 (Duane)"
+    },
+    {
+      "name": "De La Fouet",
+      "type": "bakery",
+      "email": [
+        "delafouet@gmail.com"
+      ],
+      "extra_info": "email: De La Fouet",
+      "phone": [
+        "488-3128"
+      ],
+      "address": "Port of Spain\n488-3128 (Tel)"
+    },
+    {
+      "name": "Debbie's Bakery",
+      "type": "bakery",
+      "phone": [
+        "633-2055"
+      ],
+      "address": "Sandale Avenue\nDiego Martin\n633-2055 (Tel)"
+    },
+    {
+      "name": "Deo's Homestyle Bakery",
+      "type": "bakery",
+      "address": "Southern Main Road\nAripero Village, Rousillac"
+    },
+    {
+      "name": "Derek & Steve's Bakery",
+      "type": "bakery",
+      "phone": [
+        "652-3133"
+      ],
+      "address": "139 Coffee Street\nSan Fernando\n652-3133 (Tel)"
+    },
+    {
+      "name": "Dollybake Bakery",
+      "type": "bakery",
+      "phone": [
+        "638-3596"
+      ],
+      "address": "Lower El Socorro Main Road\nSan Juan\n638-3596 (Tel)"
+    },
+    {
+      "name": "Doughneato Bakery",
+      "type": "bakery",
+      "phone": [
+        "754-1649"
+      ],
+      "address": "Diego Martin\n754-1649 (Tel)"
+    },
+    {
+      "name": "Dove's Dirt Oven Delights",
+      "type": "bakery",
+      "extra_info": "Open on Fridays, Saturdays, Sundays and Mondays BY ORDERS ONLY",
+      "phone": [
+        "391-1156"
+      ],
+      "address": "Food Crop Road Extension\nLa Brea Village, Guayaguayare\n391-1156 (Tel)"
+    },
+    {
+      "name": "Edwards & Sons Bakery",
+      "type": "bakery",
+      "phone": [
+        "636-1040"
+      ],
+      "address": "Southern Main Road\nCalifornia\n636-1040 (Tel)"
+    },
+    {
+      "name": "Freddie's Bread Basket",
+      "type": "bakery",
+      "phone": [
+        "622-0817"
+      ],
+      "address": "Church & Mooneram Streets\nSt. James\n622-0817 (Tel)"
+    },
+    {
+      "name": "Freshbake Food Ltd.",
+      "type": "bakery",
+      "phone": [
+        "665-6928"
+      ],
+      "address": "93 Ramsaran Street\nChaguanas\n665-6928 (Tel)"
+    },
+    {
+      "name": "Gafoor's Bakery Ltd",
+      "type": "bakery",
+      "phone": [
+        "638-9408"
+      ],
+      "address": "LP #2\nEl Socorro Road\nSan Juan\n638-9408 (Tel)"
+    },
+    {
+      "name": "Gasparillo Village Bakery",
+      "type": "bakery",
+      "phone": [
+        "650-2112"
+      ],
+      "address": "42 Bonne Avenue Road\nGasparillo\n650-2112 (Tel)"
+    },
+    {
+      "name": "Golden Gate Bakery",
+      "type": "bakery",
+      "phone": [
+        "653-3176"
+      ],
+      "address": "Bamboo Junction, La Romain\nSan Fernando\n653-3176 (Tel)"
+    },
+    {
+      "name": "Guadeloupe & Company Ltd.",
+      "type": "bakery",
+      "phone": [
+        "628-5400"
+      ],
+      "address": "2 Saddle Road\nMaraval\n628-5400 (Tel)"
+    },
+    {
+      "name": "J & J Essentials (Bakery)",
+      "type": "bakery",
+      "phone": [
+        "662-1326"
+      ],
+      "address": "3 Caura Royal Road\nCaura\n662-1326 (Tel)"
+    },
+    {
+      "name": "J & S Bakery",
+      "type": "bakery",
+      "phone": [
+        "665-8954"
+      ],
+      "address": "Chin Chin Road\nCunupia\n665-8954 (Tel)"
+    },
+    {
+      "name": "Jardines Plaza",
+      "type": "bakery",
+      "phone": [
+        "623-1208"
+      ],
+      "address": "96 Charlotte Street\nPort of Spain\n623-1208 (Tel)"
+    },
+    {
+      "name": "Jenny's Bakery",
+      "type": "bakery",
+      "phone": [
+        "636-0815"
+      ],
+      "address": "Opposite Macaulay Grounds\nCalifornia\n636-0815 (Tel)"
+    },
+    {
+      "name": "Jodelle's Baking Service Ltd.",
+      "type": "bakery",
+      "phone": [
+        "663-3463"
+      ],
+      "address": "24 Freeling Street\nTunapuna\n663-3463 (Tel)"
+    },
+    {
+      "name": "John's Baking Products",
+      "type": "bakery",
+      "phone": [
+        "628-2481"
+      ],
+      "address": "57 Western Main Road\nSt. James\n628-2481 (Tel)"
+    },
+    {
+      "name": "K.L.'s Bakery",
+      "type": "bakery",
+      "phone": [
+        "652-5286",
+        "652-4515"
+      ],
+      "address": "202 Naparima Mayaro Road\nPalmyra Village, San Fernando\n652-5286 (Tel1)\n652-4515 (Tel2)"
+    },
+    {
+      "name": "Kiss Baking Company Ltd.",
+      "type": "bakery",
+      "phone": [
+        "665-5047"
+      ],
+      "address": "12-14 Gaston Street\nChaguanas\n665-5047 (Tel)"
+    },
+    {
+      "name": "Lagniappe The Patisserie & Catering Shopped Ltd.",
+      "type": "bakery",
+      "phone": [
+        "622-9764"
+      ],
+      "address": "13 Ariapita Avenue\nWoodbrook\n622-9764 (Tel)"
+    },
+    {
+      "name": "23-25 Saddle Road",
+      "type": "bakery",
+      "extra_info": "Maraval\n622-6475 (Tel)\nLucky Bakery",
+      "phone": [
+        "623-6953"
+      ],
+      "address": "Charlotte Street & Independence Square\nPort of Spain\n623-6953 (Tel)"
+    },
+    {
+      "name": "67 Third Avenue",
+      "type": "bakery",
+      "extra_info": "Barataria\n638-1353 (Tel)\nM & M Bakery",
+      "phone": [
+        "672-4039"
+      ],
+      "address": "10 Longdenville Old Road\nChaguanas\n672-4039 (Tel)"
+    },
+    {
+      "name": "Marcia's Cakes",
+      "type": "bakery",
+      "phone": [
+        "291-3384"
+      ],
+      "address": "Edinburgh 500\nChaguanas\n291-3384 (Tel)"
+    },
+    {
+      "name": "Maria's Bakery",
+      "type": "bakery",
+      "phone": [
+        "221-2460",
+        "223-5050"
+      ],
+      "address": "#5 Pole Carew Street\nPort of Spain\n221-2460 (Tel1)\n223-5050 (Tel2)"
+    },
+    {
+      "name": "Mothers Pride Bakery",
+      "type": "bakery",
+      "phone": [
+        "653-2346"
+      ],
+      "address": "7 Elizabeth Street\nMarabella\n653-2346 (Tel)"
+    },
+    {
+      "name": "New Taste Bakery",
+      "type": "bakery",
+      "phone": [
+        "788-2775"
+      ],
+      "address": "1B Settlement Road\nCalcutta #1, Freeport\n788-2775 (Tel)"
+    },
+    {
+      "name": "Papa's Bakery",
+      "type": "bakery",
+      "phone": [
+        "645-4583"
+      ],
+      "address": "Grand Bazaar\n645-4583 (Tel)"
+    },
+    {
+      "name": "Paradis De La Cr�me",
+      "type": "bakery",
+      "phone": [
+        "624-6378"
+      ],
+      "address": "Movie Towne\nPort of Spain\n624-6378 (Tel)"
+    },
+    {
+      "name": "Tumpuna Road",
+      "type": "bakery",
+      "extra_info": "Arima\nFive Rivers\nDiego Martin\nCharlotte Street & Belmont\nPort of Spain\nPuff 'N' Suff Bakery",
+      "phone": [
+        "657-5920"
+      ],
+      "address": "40 Circular Road\nSan Fernando\n657-5920 (Tel)"
+    },
+    {
+      "name": "Pumpernickel Bakery & Cafe",
+      "type": "bakery",
+      "phone": [
+        "222-2253",
+        "610-2253"
+      ],
+      "address": "26A Coffee Street\nSan Fernando\n222-2253 (Tel1)\n610-2253 (Tel2)"
+    },
+    {
+      "name": "Punch & Pie Bakery",
+      "type": "bakery",
+      "phone": [
+        "380-3684"
+      ],
+      "address": "48 Tragerete Road\nPort of Spain\n380-3684 (Tel)"
+    },
+    {
+      "name": "Sacred Heart Pastry Making Cake Decorating & Culinary Institute",
+      "type": "bakery",
+      "phone": [
+        "638-1114"
+      ],
+      "address": "320 Hillsdale Crescent\nMount Hope\n638-1114 (Tel)"
+    },
+    {
+      "name": "Sea-Way Bakeries Ltd.",
+      "type": "bakery",
+      "phone": [
+        "668-2721"
+      ],
+      "address": "Michael Street & Eastern Main Road\nSangre Grande\n668-2721 (Tel)"
+    },
+    {
+      "name": "Shannon's Pastry Palace",
+      "type": "bakery",
+      "phone": [
+        "674-8050"
+      ],
+      "address": "73 Eastern Main Road\nSan Juan\n674-8050 (Tel)"
+    },
+    {
+      "name": "Soft Bite Bakery",
+      "type": "bakery",
+      "phone": [
+        "727-5810"
+      ],
+      "address": "Oropouche Road\nHarris Village, Fyzabad\n727-5810 (Tel)"
+    },
+    {
+      "name": "Sophia�s Pastry Shop",
+      "type": "bakery",
+      "phone": [
+        "631-5380"
+      ],
+      "address": "Crown Point, Tobago\n631-5380 (Tel)"
+    },
+    {
+      "name": "St Francis Bakery",
+      "type": "bakery",
+      "phone": [
+        "663-4308"
+      ],
+      "address": "189 Eastern Main Road\nTunapuna\n663-4308 (Tel)"
+    },
+    {
+      "name": "St Mary's Bakery",
+      "type": "bakery",
+      "phone": [
+        "663-6036"
+      ],
+      "address": "Eastern Main Road & Sellier Street\nCurepe\n663-6036 (Tel)"
+    },
+    {
+      "name": "Steve's Bakery",
+      "type": "bakery",
+      "phone": [
+        "668-4776"
+      ],
+      "address": "Eastern Main Road\nTacarigua\n668-4776 (Tel)"
+    },
+    {
+      "name": "Sylvester's Bakery & Ice Cream Parlour",
+      "type": "bakery",
+      "phone": [
+        "675-7349"
+      ],
+      "address": "2 Goose Lane\nSan Juan\n675-7349 (Tel)"
+    },
+    {
+      "name": "Tannie's Treats Bakery",
+      "type": "bakery",
+      "phone": [
+        "495-3780"
+      ],
+      "address": "Eastern Trinidad\n495-3780 (Tel)"
+    },
+    {
+      "name": "The Bagelry Ltd.",
+      "type": "bakery",
+      "phone": [
+        "622-2435"
+      ],
+      "address": "15A Saddle Road\nMaraval\n622-2435 (Tel)"
+    },
+    {
+      "name": "The Cherry on Top Bakeshop",
+      "type": "bakery",
+      "address": "Drag Mall\nFrederick Street\nPort of Spain"
+    },
+    {
+      "name": "The Angry Guppy Dessert Shop",
+      "type": "bakery",
+      "phone": [
+        "775-0671"
+      ],
+      "address": "Austin Street\nSt Augustine\n775-0671 (Tel)"
+    },
+    {
+      "name": "The Parlour Royale",
+      "type": "bakery",
+      "phone": [
+        "349-1467"
+      ],
+      "address": "#38, Royal Road\nSan Fernando\n349-1467 (Tel)"
+    },
+    {
+      "name": "The Sugar Art Cake Studio",
+      "type": "bakery",
+      "email": [
+        "Krissy.singh18@outlook.com"
+      ],
+      "extra_info": "email: The Sugar Art Cake Studio",
+      "phone": [
+        "358-7334"
+      ],
+      "address": "Barrackpore\n358-7334 (Tel)"
+    },
+    {
+      "name": "The Sugar Hive",
+      "type": "bakery",
+      "phone": [
+        "322-3851"
+      ],
+      "address": "Princes Town\n322-3851 (Tel)"
+    },
+    {
+      "name": "Unicakery",
+      "type": "bakery",
+      "email": [
+        "theunicakery@gmail.com"
+      ],
+      "extra_info": "email: Unicakery",
+      "phone": [
+        "764-6210"
+      ],
+      "address": "Johnny King Road\nAranguez, San Juan\n764-6210 (Tel)"
+    },
+    {
+      "name": "Uptown Treats Bakery",
+      "type": "bakery",
+      "phone": [
+        "493-1939"
+      ],
+      "address": "Diego Martin\n493-1939 (Tel)"
+    },
+    {
+      "name": "V G's Bakery",
+      "type": "bakery",
+      "phone": [
+        "667-7843"
+      ],
+      "address": "Railway Road\nArima\n667-7843 (Tel)"
+    },
+    {
+      "name": "Yummy's Bakery Ltd & Minimart",
+      "type": "bakery",
+      "phone": [
+        "667-0695"
+      ],
+      "address": "31 Guanapo Strret\nArima\n667-0695 (Tel)"
+    },
+    {
+      "name": "Baker's Delight Ltd.",
+      "type": "bakery",
+      "locations": [
+        {
+          "phone": [
+            "637-1600"
+          ],
+          "address": "78 Morne Coco Road\nPetit Valley\n637-1600 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Cinnabon",
+      "type": "bakery",
+      "locations": [
+        {
+          "phone": [
+            "223-6985"
+          ],
+          "address": "Gulf City Mall\nLa Romain\n223-6985 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Linda's Bakery",
+      "type": "bakery",
+      "locations": [
+        {
+          "phone": [
+            "279-0675"
+          ],
+          "address": "Park Street\nPort of Spain\n279-0675 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Lucky Bakery",
+      "type": "bakery",
+      "locations": [
+        {
+          "phone": [
+            "623-6953"
+          ],
+          "address": "Charlotte Street & Independence Square\nPort of Spain\n623-6953 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Pascal's Bakery",
+      "type": "bakery",
+      "locations": [
+        {
+          "phone": [
+            "624-1357"
+          ],
+          "address": "19 Eastern Main Road\nLaventille\n624-1357 (Tel)"
+        }
+      ],
+      "email": [
+        "sales@pascalsbakery.com"
+      ],
+      "extra_info": "email: Pascal's Bakery"
+    }
+  ]
+}

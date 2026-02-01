@@ -1,0 +1,1744 @@
+{
+  "source": "http://tntisland.com/supermarkets.html",
+  "page_title": "Trinidad & Tobago Supermarkets",
+  "category": "restaurants_food",
+  "scraped_at": "2026-02-01",
+  "data": [
+    {
+      "name": "A&A Elahie Foodmart",
+      "type": "supermarket",
+      "phone": [
+        "636-4077"
+      ],
+      "address": "Couva\n636-4077 (Tel)"
+    },
+    {
+      "name": "Abu's Grocery",
+      "type": "supermarket",
+      "phone": [
+        "632-1550"
+      ],
+      "address": "Diamond Vale\nDiego Martin\n632-1550 (Tel)"
+    },
+    {
+      "name": "Aeromart Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "669-5104"
+      ],
+      "address": "St. Helena Junction\nPiarco\n669-5104 (Tel)"
+    },
+    {
+      "name": "Ainsbury Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "671-9020"
+      ],
+      "address": "2 Caroni Savannah Road\nCharlieville\n671-9020 (Tel)"
+    },
+    {
+      "name": "Aioli Marketplace",
+      "type": "supermarket",
+      "phone": [
+        "222-3291"
+      ],
+      "address": "Ellerslie Plaza\nMaraval\n222-3291 (Tel)"
+    },
+    {
+      "name": "3 Guapo Road & Butler Avenue",
+      "type": "supermarket",
+      "extra_info": "Fyzabad\n677-3681 (Tel1)\n677-6416 (Tel2)\nDuncan Village, San Fernando\n657-0392 (Tel)\nTropical Plaza\nPointe-a-Pierre\n238-2217 (Tel)\nCharlie King Junction\nFyzabad\n226-4527 (Tel)\n150 Cipero Road\nVictoria Village, San Fernando\nAnn & Spike Grocery",
+      "phone": [
+        "633-4746"
+      ],
+      "address": "4 Covigne Road\nDiego Martin\n633-4746 (Tel)"
+    },
+    {
+      "name": "Awesome Food and Drinks Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "219-9765"
+      ],
+      "address": "corner of Olton Road and Eastern Main Road\nArima\n219-9765 (Tel)"
+    },
+    {
+      "name": "B & A Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "652-2616"
+      ],
+      "address": "338 Southern Main Road\nLa Romain\n652-2616 (Tel)"
+    },
+    {
+      "name": "B R Suchit Supermarket & Green Grocer",
+      "type": "supermarket",
+      "phone": [
+        "628-4901"
+      ],
+      "address": "56 Bournes Road\nSt. James\n628-4901 (Tel)"
+    },
+    {
+      "name": "Beddoe's Bread Basket",
+      "type": "supermarket",
+      "phone": [
+        "674-4992"
+      ],
+      "address": "Saddle Road\nSanta Cruz\n674-4992 (Tel)"
+    },
+    {
+      "name": "Belmont Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "621-1245"
+      ],
+      "address": "69 Belmont Circular Road\nBelmont\n621-1245 (Tel)"
+    },
+    {
+      "name": "Best Price Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "673-3334"
+      ],
+      "address": "Mission Road\nFreeport\n673-3334 (Tel)"
+    },
+    {
+      "name": "50 Dyette Street",
+      "type": "supermarket",
+      "extra_info": "Cunupia, Chaguanas\n665-3374 (Tel)\nBlue Gardenia Supermarket",
+      "phone": [
+        "655-2591"
+      ],
+      "address": "Cacique Street\nPrinces Town\n655-2591 (Tel)"
+    },
+    {
+      "name": "Bodega",
+      "type": "supermarket",
+      "phone": [
+        "645-2483"
+      ],
+      "address": "Anderson Street\nCurepe"
+    },
+    {
+      "name": "Bone's Price Cutters Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "657-6894"
+      ],
+      "address": "St Clement Junction\nSan Fernando\n657-6894 (Tel)"
+    },
+    {
+      "name": "Bonne Aventure Food Basket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "650-0235"
+      ],
+      "address": "13 Bonne Aventure Main Road\nGasparillo\n650-0235 (Tel)"
+    },
+    {
+      "name": "Boodansingh Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "668-0288"
+      ],
+      "address": "Eastern Main Road\nSangre Grande\n668-0288 (Tel)"
+    },
+    {
+      "name": "Boodoosingh's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "622-5251"
+      ],
+      "address": "3 Upper Bournes Road\nSt James\n622-5251 (Tel)"
+    },
+    {
+      "name": "Tumpuna Park",
+      "type": "supermarket",
+      "extra_info": "Arima\n643-6637 (Tel)\nIndustry Lane\nArima\n662-4460 (Tel)\nBumpers Food Fair",
+      "phone": [
+        "644-3714"
+      ],
+      "address": "High Street\nRio Claro\n644-3714 (Tel)"
+    },
+    {
+      "name": "Carew Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "662-0854"
+      ],
+      "address": "13 Southern Main Road\nCurepe\n662-0854 (Tel)"
+    },
+    {
+      "name": "Carlos Quick Toppe",
+      "type": "supermarket",
+      "phone": [
+        "645-4456"
+      ],
+      "address": "Southern Main Road\nCurepe\n645-4456 (Tel)"
+    },
+    {
+      "name": "Chattergoon Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "636-2155"
+      ],
+      "address": "56 Main Road Curepe\n636-2155 (Tel)"
+    },
+    {
+      "name": "Chang's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "648-3157"
+      ],
+      "address": "39 Main Road\nPoint Fortin\n648-3157 (Tel)"
+    },
+    {
+      "name": "Chen's Pick N Pay Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "622-5768"
+      ],
+      "address": "14e Saddle Road\nMaraval\n622-5768 (Tel)"
+    },
+    {
+      "name": "Chin's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "636-2484"
+      ],
+      "address": "13 Waterloo Road\nCouva\n636-2484 (Tel)"
+    },
+    {
+      "name": "China Rose Supermarket",
+      "type": "supermarket",
+      "address": "1Southern Main Road\nEnterprise, Chaguanas"
+    },
+    {
+      "name": "Chung Kiu Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "627-2637"
+      ],
+      "address": "14-16 Charlotte Street\nPort of Spain\n627-2637 (Tel)"
+    },
+    {
+      "name": "Chunilal Manieram",
+      "type": "supermarket",
+      "phone": [
+        "649-5819"
+      ],
+      "address": "Lorensotte Village\nPalo Seco\n649-5819 (Tel)"
+    },
+    {
+      "name": "Cocoyea Supermart Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "653-2945"
+      ],
+      "address": "Cocoyea Village\nSan Fernando\n653-2945 (Tel)"
+    },
+    {
+      "name": "Cost Price Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "624-1433"
+      ],
+      "address": "Queen & George Streets\nPort of Spain\n624-1433 (Tel)"
+    },
+    {
+      "name": "Croisee Supermarket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "673-4179"
+      ],
+      "address": "2 Calcutta Road, No 2\nFreeport\n673-4179 (Tel)"
+    },
+    {
+      "name": "George Street",
+      "type": "supermarket",
+      "extra_info": "Sangre Grande\n668-2802 (Tel)\nMadras Settlement\nChin Chin Road\nCunupia\n234-7646 (Tel)\nS.S. Erin Road\nPenal\n221-0123 (Tel)\nPlymouth Road\nScarborough, Tobago\n639-3552 (Tel)\nCross-Mart",
+      "phone": [
+        "653-4945"
+      ],
+      "address": "Cross Crossing Shopping Centre\nSan Fernando\n653-4945 (Tel)"
+    },
+    {
+      "name": "D Aranguez Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "674-2767"
+      ],
+      "address": "Henry Street\nPort Of Spain\n674-2767 (Tel)"
+    },
+    {
+      "name": "D Food Terminal",
+      "type": "supermarket",
+      "phone": [
+        "655-9516"
+      ],
+      "address": "15 Cacique Street\nPrinces Town\n655-9516 (Tel)"
+    },
+    {
+      "name": "D Market Movers",
+      "type": "supermarket",
+      "phone": [
+        "221-3555",
+        "753-7889"
+      ],
+      "address": "8th Street\nBarataria\n221-3555 (Tel1)\n753-7889 (Tel2 - whatapps)"
+    },
+    {
+      "name": "D Palm Liquor Mart & Grocery",
+      "type": "supermarket",
+      "phone": [
+        "668-4591"
+      ],
+      "address": "16 Ojoe Road & Sukhram Road\nSangre Grande\n668-4591 (Tel)"
+    },
+    {
+      "name": "D River Bank Mini Mart",
+      "type": "supermarket",
+      "phone": [
+        "648-0038"
+      ],
+      "address": "128 Main Roadd\nPoint Fortin\n648-0038 (Tel)"
+    },
+    {
+      "name": "D & H Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "676-7420"
+      ],
+      "address": "Akal Trace & Saddle Road\nSanta Cruz\n676-7420 (Tel)"
+    },
+    {
+      "name": "D & S Maharaj Supermarket & Variety Store",
+      "type": "supermarket",
+      "phone": [
+        "648-7252"
+      ],
+      "address": "Vessigny Village\nLa Brea\n648-7252 (Tel)"
+    },
+    {
+      "name": "Daljitsingh Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "662-5960"
+      ],
+      "address": "Streatham Lodge Road\nTunapuna\n662-5960 (Tel)"
+    },
+    {
+      "name": "Dalipsingh Ranjit & Sons",
+      "type": "supermarket",
+      "phone": [
+        "667-3247"
+      ],
+      "address": "21 Farfan Street\nArima\n667-3247 (Tel)"
+    },
+    {
+      "name": "Daniel Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "634-2124"
+      ],
+      "address": "Western Main Road\nChaguaramas\n634-2124 (Tel)"
+    },
+    {
+      "name": "Debe Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "647-8471"
+      ],
+      "address": "182 Siparia Erin Road\nDebe\n647-8471 (Tel)"
+    },
+    {
+      "name": "Diego Martin Meat Cottage & Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "637-2074"
+      ],
+      "address": "St Lucien Road\nDiego Martin\n637-2074 (Tel)"
+    },
+    {
+      "name": "Diskomart",
+      "type": "supermarket",
+      "phone": [
+        "645-6855"
+      ],
+      "address": "Eastern Main Road\nTunapuna\n645-6855 (Tel)"
+    },
+    {
+      "name": "Dollar Value Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "665-7306"
+      ],
+      "address": "19 Montrose Main Road\nChaguanas\n665-7306 (Tel)"
+    },
+    {
+      "name": "Eaton's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "642-3229"
+      ],
+      "address": "Eastern Main Road\nD'Abadie\n642-3229 (Tel)"
+    },
+    {
+      "name": "Economy Supermarket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "668-2038"
+      ],
+      "address": "Econo Mall\nSangre Grande\n668-2038 (Tel)"
+    },
+    {
+      "name": "El Dorado Consumers Co-op Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "663-1949"
+      ],
+      "address": "Eastern Main Road\nEl Dorado\n663-1949 (Tel)"
+    },
+    {
+      "name": "El Pecos On The Gril",
+      "type": "supermarket",
+      "phone": [
+        "628-9908",
+        "622-9713"
+      ],
+      "address": "84A Ariapita Avenue\nWoodbrook"
+    },
+    {
+      "name": "6 Charlotte Streer",
+      "type": "supermarket",
+      "extra_info": "Port of Spain\n627-6053 (Tel)\nF M Enterprises Co Ltd",
+      "phone": [
+        "665-5640"
+      ],
+      "address": "71-73 Southern Main Road\nWarrenville\n 665-5640 (Tel)"
+    },
+    {
+      "name": "High Street",
+      "type": "supermarket",
+      "extra_info": "Prince Town\n655-4911 (Tel)\nFitt St. Market",
+      "address": "27 Fitt Street\nWoodbrook\n218-FITT(3488)"
+    },
+    {
+      "name": "Penal Junction",
+      "type": "supermarket",
+      "extra_info": "Penal\n647-8865 (Tel)\n79-81 Coffee Street\nSan Fernando\n657-5855 (Tel)\nSouth Trunk Road\nLa Romain\n653-6647 (Tel)\nFood Giant Supermarket",
+      "phone": [
+        "674-9179"
+      ],
+      "address": "Maritime Centre Barataria\n674-9179 (Tel)"
+    },
+    {
+      "name": "Food Masters",
+      "type": "supermarket",
+      "phone": [
+        "645-6855"
+      ],
+      "address": "128 Eastern Main Road\nTunapuna\n645-6855 (Tel)"
+    },
+    {
+      "name": "34 Southern Main Road",
+      "type": "supermarket",
+      "extra_info": "Sangre Grande\n663-9642 (Tel)\nFresh Street Market",
+      "phone": [
+        "240-7612"
+      ],
+      "address": "#3 Andrew Lane\nD'Abadie\n240-7612 (Tel)"
+    },
+    {
+      "name": "FuJian Supermarket",
+      "type": "supermarket",
+      "address": "Ste Madeleine"
+    },
+    {
+      "name": "G N Foodcentre Super Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "647-7938"
+      ],
+      "address": "SS Erin Road\nPenal\n647-7938 (Tel)"
+    },
+    {
+      "name": "Geeta's Photo Service & Mini Mart",
+      "type": "supermarket",
+      "phone": [
+        "667-4408"
+      ],
+      "address": "32 Cocorite Street\nArima\n667-4408 (Tel)"
+    },
+    {
+      "name": "Giant Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "623-0358"
+      ],
+      "address": "8 Charlotte Street\nPort of Spain\n623-0358 (Tel)"
+    },
+    {
+      "name": "Honey Bee Super Market",
+      "type": "supermarket",
+      "phone": [
+        "674-3217"
+      ],
+      "address": "El Socorro Road\nSan Juan\n674-3217 (Tel)"
+    },
+    {
+      "name": "I Elahie's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "636-6724"
+      ],
+      "address": "36 Preysal Village\nCouva\n636-6724 (Tel)"
+    },
+    {
+      "name": "J G S Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "642-0339"
+      ],
+      "address": "Piarco Old Rod D'Abadie\n642-0339 (Tel)"
+    },
+    {
+      "name": "J & D Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "645-2118"
+      ],
+      "address": "21 St Johns Road\nSt. Augustine\n645-2118 (Tel)"
+    },
+    {
+      "name": "J & E Discount Mart",
+      "type": "supermarket",
+      "phone": [
+        "625-0183"
+      ],
+      "address": "26 Independence Square\nPort Of Spain\n625-0183 (Tel)"
+    },
+    {
+      "name": "Jaglal's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "673-0005"
+      ],
+      "address": "Southern Main Road\nChaguanas\n673-0005 (Tel)"
+    },
+    {
+      "name": "Jenny's Vegetable Mart",
+      "type": "supermarket",
+      "phone": [
+        "637-7368"
+      ],
+      "address": "Four Roads\nDiego Martin\n637-7368 (Tel)"
+    },
+    {
+      "name": "Jhallo's Mini Mart Ltd",
+      "type": "supermarket",
+      "phone": [
+        "638-3739"
+      ],
+      "address": "37-39 Eastern Main Road\nBarataria\n638-3739 (Tel)"
+    },
+    {
+      "name": "John Mar Grocery",
+      "type": "supermarket",
+      "phone": [
+        "624-8755"
+      ],
+      "address": "51-53 Queen Street\nPort of Spain\n624-8755 (Tel)"
+    },
+    {
+      "name": "John's Supermarket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "622-5251"
+      ],
+      "address": "1-3 Upper Bournes Road\nSt James\n622-5251 (Tel)"
+    },
+    {
+      "name": "Johnny's Supermarket & Liquor Store",
+      "type": "supermarket",
+      "phone": [
+        "637-3091"
+      ],
+      "address": "St Lucien Road, Lot 2\nDiego Martin\n637-3091 (Tel)"
+    },
+    {
+      "name": "Joseph Randall & Sons",
+      "type": "supermarket",
+      "phone": [
+        "623-2300"
+      ],
+      "address": "31 Central Market\nPort of Spain\n623-2300 (Tel)"
+    },
+    {
+      "name": "36 Isaac Junction",
+      "type": "supermarket",
+      "extra_info": "Couva Shopping Complex\nCouva\n636-2446 (Tel)\nAllums Shopping Centre\nSouthern Main Road\nMarabella\n658-1425 (Tel)\nC3 Centre\nCorinth Road\nCorinth\nSan Fernando\n223-9989 (Tel)\nCarlton Centre\n61 St James Street\nSan Fernando\n652-3611 (Tel)\nJumbo Foods (RP 1979) Ltd",
+      "phone": [
+        "638-4816"
+      ],
+      "address": "119-121 Eastern Main Road\nBarataria\n638-4816 (Tel)"
+    },
+    {
+      "name": "Just In Time Family Mart Ltd",
+      "type": "supermarket",
+      "phone": [
+        "610-6022"
+      ],
+      "address": "14 Cipero Street\nSan Fernando\n610-6022 (Tel)"
+    },
+    {
+      "name": "Jwalla Persad Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "647-6797"
+      ],
+      "address": "52 Rami Trace\nDebe\n647-6797 (Tel)"
+    },
+    {
+      "name": "K Mars & Sons Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "628-4900"
+      ],
+      "address": "117 Tragarete Road\nWoodbrook\n628-4900 (Tel)"
+    },
+    {
+      "name": "Kam-Wah Market",
+      "type": "supermarket",
+      "phone": [
+        "628-8888",
+        "628-4783"
+      ],
+      "address": "Royal Palm Plaza\nSaddle Road\nMaraval"
+    },
+    {
+      "name": "Kelly's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "633-4444"
+      ],
+      "address": "Diego Martin Main Road\nDiego Martin\n633-4444 (Tel)"
+    },
+    {
+      "name": "Kelmart Ltd",
+      "type": "supermarket",
+      "phone": [
+        "633-5718",
+        "637-4318"
+      ],
+      "address": "Diego Martin Main Rd Diego Martin\n633-5718, 637-4318 (Tel)"
+    },
+    {
+      "name": "Khalid's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "655-9211"
+      ],
+      "address": "High St Princes Town, Princes Town\n655-9211 (Tel)"
+    },
+    {
+      "name": "Kong Ting's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "662-4075"
+      ],
+      "address": "Harris Street\nCurepe\n662-4075 (Tel)"
+    },
+    {
+      "name": "L B's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "640-4208"
+      ],
+      "address": "Eastern Main Road\nArouca\n640-4208 (Tel)"
+    },
+    {
+      "name": "L & L Grocery & Bar",
+      "type": "supermarket",
+      "phone": [
+        "663-4121"
+      ],
+      "address": "24 Mangroo Street, Bamboo Settlement\nValsayn\n663-4121 (Tel)"
+    },
+    {
+      "name": "Len Hap & Co Ltd (Supermarket)",
+      "type": "supermarket",
+      "phone": [
+        "652-2420"
+      ],
+      "address": "Duncan Village\nSan Fernando\n652-2420 (Tel)"
+    },
+    {
+      "name": "Lena's Shop & Save",
+      "type": "supermarket",
+      "phone": [
+        "665-9112"
+      ],
+      "address": "Caroni Savannah Road\nChaguanas\n 665-9112 (Tel)"
+    },
+    {
+      "name": "M S Foodcity Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "647-7993"
+      ],
+      "address": "Siparia Erin Road\nDebe\n647-7993 (Tel)"
+    },
+    {
+      "name": "Mahabir's Wholesale & Retail",
+      "type": "supermarket",
+      "phone": [
+        "662-7341"
+      ],
+      "address": "Bharath & Pasea Main Roads\nTunapuna\n662-7341 (Tel)"
+    },
+    {
+      "name": "Maharaj Better Deal Ltd Supermarket & Wholesalers",
+      "type": "supermarket",
+      "phone": [
+        "675-8415"
+      ],
+      "address": "70 Aranguez Road\nSan Juan\n675-8415 (Tel)"
+    },
+    {
+      "name": "Maharaj West Side Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "667-6977"
+      ],
+      "address": "King & Lopez Streets\nArima\n667-6977 (Tel)"
+    },
+    {
+      "name": "Maheepat Food Mart Company Ltd",
+      "type": "supermarket",
+      "phone": [
+        "672-3515"
+      ],
+      "address": "Chin Chin Road\nChaguanas\n672-3515 (Tel)"
+    },
+    {
+      "name": "Markey's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "671-2696"
+      ],
+      "address": "Main Road\nChaguanas\n671-2696 (Tel)"
+    },
+    {
+      "name": "East Region",
+      "type": "supermarket",
+      "extra_info": "Shops of Arima - Tumpuna Road North\n609-2320 (Tel)\nArima - Broadway\n609-2120 (Tel)\nEl Dorado - Eastern Main Road\n609-2150 (Tel)\nSt. Augustine - Eastern Main Road\n609-2110 (Tel)\nTrincity - Trincity Industrial Estate\ncorner of Tissue Drive and Churchill Roosevelt Highway\nTacarigua\n609-2020 (Tel)\nMandalay Gardens - Buena Vista Estate\nArima\n609-2250 (Tel)\nCentral Region\nChaguanas - Mid Centre Mall\nSouther Main Road\n609-2230 (Tel)\nFreeport - Highway Plaza at Calcutta No 1 (parallel to the Solomon Hochoy Highway)\n609-2340 (Tel)\nSouth Region\nGulf View - corner South Trunk Road and Bamboo Bay Road\nLa Romain\n609-2010 (Tel)\nMarabella - Marabella Roundabout\n609-2040 (Tel)\nPoint Fortin - cor. Guapo Cap-De-Ville and Point Fortin Main Road\n609-2140 (Tel)\nSiparia - High Street\n609-2310 (Tel)\nWest Region\nAlyce Glen - Morne Coco Road, Petit Valley\n609-2050 (Tel)\nDiego Martin - Starlite Shopping Plaza\nFour Road\n609-2180 (Tel)\nMoka - Sadlle Road\n609-2300 (Tel)\nWoodbrook - French Street\n609-2200 (Tel)\nGlencoe - Highland Plaza\nWestern Main Road\n609-2270 (Tel)\nMaraval- Saddle Road\n609-2220 (Tel)\nSt. Ann's - 104 Cascade Road\n609-2210 (Tel)\nWestmoorings - Western Main Road\n609-2170 (Tel)\nMohammad Kazim A",
+      "phone": [
+        "644-2349"
+      ],
+      "address": "Naparima Mayaro Road\nRio Claro\n644-2349 (Tel)"
+    },
+    {
+      "name": "Mr Food Limited",
+      "type": "supermarket",
+      "phone": [
+        "674-6840"
+      ],
+      "address": "2 Real Street\nSan Juan\n674-6840 (Tel)"
+    },
+    {
+      "name": "MS Food City",
+      "type": "supermarket",
+      "phone": [
+        "647-7993"
+      ],
+      "address": "1124 S.S. Erin Road\nDebe\n647-7993 (Tel)"
+    },
+    {
+      "name": "N & H Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "655-8617"
+      ],
+      "address": "St Croix Road\nPrinces Town\n655-8617 (Tel)"
+    },
+    {
+      "name": "Naipaul's Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "665-7550"
+      ],
+      "address": "14 Main Road\nChaguanas\n665-7550 (Tel)"
+    },
+    {
+      "name": "Paray Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "630-4615"
+      ],
+      "address": "Pierreville\nMayaro\n630-4615 (Tel)"
+    },
+    {
+      "name": "Park View Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "653-2970"
+      ],
+      "address": "Lot B, SS Erin Road\nSan Fernando\n653-2970 (Tel)"
+    },
+    {
+      "name": "Charlotte Street",
+      "type": "supermarket",
+      "extra_info": "Port of Spain\n623-9149 (Tel)\nPeiping Supermarket",
+      "phone": [
+        "648-2165"
+      ],
+      "address": "Frisco Junction\nPoint Fortin\n 648-2165 (Tel)"
+    },
+    {
+      "name": "Persad Food Store Ltd",
+      "type": "supermarket",
+      "phone": [
+        "630-3113"
+      ],
+      "address": "Manzanilla Road\nMayaro\n630-3113 (Tel)"
+    },
+    {
+      "name": "Persad S Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "663-1765"
+      ],
+      "address": "Pasea Main Road\nTunapuna\n663-1765 (Tel)"
+    },
+    {
+      "name": "Persad's Food Stores Ltd",
+      "type": "supermarket",
+      "phone": [
+        "655-4544"
+      ],
+      "address": "Naparima Mayaro Road\nNew Grant\n655-4544 (Tel)"
+    },
+    {
+      "name": "Persad's Superstore Ltd",
+      "type": "supermarket",
+      "phone": [
+        "655-5749"
+      ],
+      "address": "High Street\nPrinces Town\n655-5749 (Tel)"
+    },
+    {
+      "name": "Plaza Complex Stop N Shop Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "649-2492"
+      ],
+      "address": "56 High Street\nSiparia\n649-2492 (Tel)"
+    },
+    {
+      "name": "Pocket Smart Supermarket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "745-3139"
+      ],
+      "address": "19 6A Forres Venue\nCocoyea, San Fernando\n745-3139 (Tel)"
+    },
+    {
+      "name": "Presto Market",
+      "type": "supermarket",
+      "phone": [
+        "685-5441"
+      ],
+      "address": "Tumpuna Road\nArima\n685-5441 (Tel)"
+    },
+    {
+      "name": "Price Club",
+      "type": "supermarket",
+      "phone": [
+        "665-7777"
+      ],
+      "address": "Center Pointe Mall\nChaguanas\n665-7777 (Tel)"
+    },
+    {
+      "name": "Prices Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "662-7624"
+      ],
+      "address": "327 Eastern Main Road\nEl Dorado\n662-7624 (Tel)"
+    },
+    {
+      "name": "Primo�s Mini Mart",
+      "type": "supermarket",
+      "phone": [
+        "663-2242"
+      ],
+      "address": "Eastern Main Road (opposite WASA)\nSt. Joseph\n663-2242 (Tel)"
+    },
+    {
+      "name": "Quality Cash And Carry",
+      "type": "supermarket",
+      "phone": [
+        "636-2712",
+        "649-0691"
+      ],
+      "address": "Couva Car Park\nCouva\n636-2712\nQuality Food MartGeoge Street & Coora Road\nSiparia\n649-0691\nback to the top"
+    },
+    {
+      "name": "R S Supercentre Ltd",
+      "type": "supermarket",
+      "phone": [
+        "609-5473"
+      ],
+      "address": "Lot 3, Rochard Douglas Road\nBarrackpore\n609-5473 (Tel)"
+    },
+    {
+      "name": "R & F Elahie's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "636-6724"
+      ],
+      "address": "Preysal Village\nCouva\n636-6724 (Tel)"
+    },
+    {
+      "name": "R & M Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "645-2741"
+      ],
+      "address": "116 Maracas Royal Road\nSt Joseph\n645-2741 (Tel)"
+    },
+    {
+      "name": "Raj Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "671-5767"
+      ],
+      "address": "72 Rodney Road\nEndeavour\n671-5767 (Tel)"
+    },
+    {
+      "name": "Ramish & Leela Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "638-2442"
+      ],
+      "address": "50 Eastern Main Road\nSan Juan\n638-2442 (Tel)"
+    },
+    {
+      "name": "Ramkissoon's Food Masters Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "679-2127"
+      ],
+      "address": "McBean Village\nCouva\n679-2127 (Tel)"
+    },
+    {
+      "name": "Ramroop's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "672-8640"
+      ],
+      "address": "Yard Street\nChaguanas\n672-8640 (Tel)"
+    },
+    {
+      "name": "Ramsackal's Central Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "665-3374"
+      ],
+      "address": "50 Dyette Street\nChaguanas\n665-3374 (Tel)"
+    },
+    {
+      "name": "Real Valu Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "638-2143"
+      ],
+      "address": "Mt Lambert Junction & Eastern Main Road\nMt Lambert\n638-2143 (Tel)"
+    },
+    {
+      "name": "Red Castle Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "642-3772"
+      ],
+      "address": "Old Piarco Branch Road\nD'Abadie\n642-3772 (Tel)"
+    },
+    {
+      "name": "Redhill Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "642-3772"
+      ],
+      "address": "Old Piarco Branch Road\nD'Abadie\n642-3772 (Tel)"
+    },
+    {
+      "name": "Rex Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "625-7285"
+      ],
+      "address": "Lady Young Road & Busby Street\nMorvant\n625-7285 (Tel)"
+    },
+    {
+      "name": "Robby's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "653-2862"
+      ],
+      "address": "12 Manahambre Road\nSte Madeleine\n653-2862 (Tel)"
+    },
+    {
+      "name": "Rodney's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "667-6843"
+      ],
+      "address": "Cocorite Road\nArima\n667-6843 (Tel)"
+    },
+    {
+      "name": "Rodrigues Supermarket (1990) Ltd",
+      "type": "supermarket",
+      "phone": [
+        "623-6444"
+      ],
+      "address": "76 Duke Street\nPort of Spain\n623-6444"
+    },
+    {
+      "name": "Royal Foods Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "662-5757"
+      ],
+      "address": "Pasea Main Road\n662-5757 (Tel)"
+    },
+    {
+      "name": "Rudy's Westside Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "647-8857"
+      ],
+      "address": "Penal Junction\nPenal\n647-8857 (Tel)"
+    },
+    {
+      "name": "S & L Faizul Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "650-1217"
+      ],
+      "address": "126 Bonne Aventure Main Road\nGasparillo\n650-1217 (Tel)"
+    },
+    {
+      "name": "#24 St. Ann's",
+      "type": "supermarket",
+      "extra_info": "Mayaro\n226-4777 (Tel) 353-0910\n(Customer Service Hotline)\n#3 Guayaguayare Road, Mayaro Junction\nMayaro\n223-9916 (Tel)\n353-0910 (Customer Service Hotline)\n#5 Southern Main Road, St. Mary's Junction\nFreeport\n229-5646 (Tel)\n353-0910 (Customer Service Hotline)\nS N S R Food Centre",
+      "phone": [
+        "655-2249"
+      ],
+      "address": "63High Street\nPrinces Town\n655-2249 (Tel)"
+    },
+    {
+      "name": "S T & S Wholesale & Retail Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "652-6076"
+      ],
+      "address": "Papourie Road\nDuncan Village\n652-6076 (Tel)"
+    },
+    {
+      "name": "Safeway Supermarket Co Ltd",
+      "type": "supermarket",
+      "phone": [
+        "625-1556"
+      ],
+      "address": "29 Charles Street\nPort of Spain\n625-1556 (Tel)"
+    },
+    {
+      "name": "Saver's Choice Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "627-1002"
+      ],
+      "address": "19 Charlotte Street\nPort of Spain\n627-1002 (Tel)"
+    },
+    {
+      "name": "Shane's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "646-1855"
+      ],
+      "address": "113 Eastern Main Road\nArouca\n 646-1855 (Tel)"
+    },
+    {
+      "name": "Shoppers Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "675-7581"
+      ],
+      "address": "16 Saddle Road\nSan Juan\n675-7581 (Tel)"
+    },
+    {
+      "name": "26A Charlotte Street",
+      "type": "supermarket",
+      "extra_info": "Port of Spain\n623-8680 (Tel)\nSimple Supermarket Ltd",
+      "phone": [
+        "342-9555"
+      ],
+      "address": "LP# 1367 Southern Main Road\nDow Village, South Oropouche\n342-9555 (Tel)"
+    },
+    {
+      "name": "Singh's Mini Mart",
+      "type": "supermarket",
+      "phone": [
+        "649-0883"
+      ],
+      "address": "Thick Village\nSiparia\n649-0883 (Tel)"
+    },
+    {
+      "name": "Sookhoo's Shopping Mart",
+      "type": "supermarket",
+      "phone": [
+        "658-2878"
+      ],
+      "address": "72 Union Road\nMarabella\n658-2878"
+    },
+    {
+      "name": "229B St Charles Junction",
+      "type": "supermarket",
+      "extra_info": "Princes Town\n655-9649 (Tel)\nSouthern Meats",
+      "phone": [
+        "657-9284"
+      ],
+      "address": "Lady Hailes Avenue\nSan Fernando\n657-9284 (Tel)"
+    },
+    {
+      "name": "Southern Supermarket & Poultry Ltd",
+      "type": "supermarket",
+      "phone": [
+        "647-8381"
+      ],
+      "address": "Siparia Erin Road\nDebe\n647-8381 (Tel)"
+    },
+    {
+      "name": "St Mary's Food Basket",
+      "type": "supermarket",
+      "phone": [
+        "656-6025"
+      ],
+      "address": "Moruga Road\nPrinces Town\n656-6025 (Tel)"
+    },
+    {
+      "name": "Stingrae Retail Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "235-3571"
+      ],
+      "address": "59 John Street\nChaguanas\n235-3571 (Tel)"
+    },
+    {
+      "name": "Suares Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "637-3223"
+      ],
+      "address": "Four Roads Junction\nDiego Martin\n637-3223 (Tel)"
+    },
+    {
+      "name": "Suchit Supermarket & Green Grocery",
+      "type": "supermarket",
+      "phone": [
+        "628-4901"
+      ],
+      "address": "6 Bournes Road\nSt James\n628-4901 (Tel)"
+    },
+    {
+      "name": "Super Quality",
+      "type": "supermarket",
+      "phone": [
+        "672-7787"
+      ],
+      "address": "Trinity Industrial Estate\nTrinity\n 672-7787 (Tel)"
+    },
+    {
+      "name": "Superfoods Supermarket (1985) Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "659-2219"
+      ],
+      "address": "Southern Main Road & Cedar Hill Road\nClaxton Bay\n659-2219 (Tel)"
+    },
+    {
+      "name": "Tang Hap Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "648-4885"
+      ],
+      "address": "Main Road\nLa Brea\n648-4885 (Tel)"
+    },
+    {
+      "name": "Tang Poy's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "648-7440"
+      ],
+      "address": "Majuba Village\nLa Brea\n648-7440 (Tel)"
+    },
+    {
+      "name": "The Family Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "672-0581"
+      ],
+      "address": "Caparo Main Road\nCaparo\n672-0581 (Tel)"
+    },
+    {
+      "name": "Toolsie's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "679-3508"
+      ],
+      "address": "LP#56\nGrant Street Extension\nCouva\n679-3508 (Tel)"
+    },
+    {
+      "name": "Total Food Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "667-8317"
+      ],
+      "address": "Valencia Junction Road\nValencia\n667-8317 (Tel)"
+    },
+    {
+      "name": "Triple M Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "629-2152"
+      ],
+      "address": "111 Saddle Road\nMaraval\n629-2152 (Tel)"
+    },
+    {
+      "name": "United Wholsale Dealers Ltd",
+      "type": "supermarket",
+      "phone": [
+        "652-3020"
+      ],
+      "address": "53 Keate Street\nSan Fernando\n652-3020 (Tel)"
+    },
+    {
+      "name": "V's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "630-4343"
+      ],
+      "address": "Pierreville\nMayaro\n630-4343 (Tel)"
+    },
+    {
+      "name": "V & S Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "679-8381"
+      ],
+      "address": "Southern Main Road\nCouva\n679-8381 (Tel)"
+    },
+    {
+      "name": "V-jay's Foodmart",
+      "type": "supermarket",
+      "phone": [
+        "623-5893"
+      ],
+      "address": "27 George Street\nPort Of Spain\n623-5893 (Tel)"
+    },
+    {
+      "name": "Valley Supermarket & Variety Store",
+      "type": "supermarket",
+      "phone": [
+        "632-0260"
+      ],
+      "address": "10-10a Morne Coco Road\nPetit Valley\n632-0260 (Tel)"
+    },
+    {
+      "name": "Wing Sing & Co Grocery",
+      "type": "supermarket",
+      "address": "Trincity Mall\nTrincity"
+    },
+    {
+      "name": "3 Saut D'Eau Road",
+      "type": "supermarket",
+      "extra_info": "Maraval\n629-3245 (Tel)\nWest Point Mini Mart",
+      "phone": [
+        "634-4007"
+      ],
+      "address": "Lot 5, Peake Marine Compound\nChaguaramas\n634-4007 (Tel)"
+    },
+    {
+      "name": "Wishful Supermarket",
+      "type": "supermarket",
+      "address": "New Colonial Road\nBarrackpore"
+    },
+    {
+      "name": "Won-time Value Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "647-7694"
+      ],
+      "address": "36 Clarke Road\nPenal\n647-7694 (Tel)"
+    },
+    {
+      "name": "You-We Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "645-0384"
+      ],
+      "address": "Watt Street\nSt Augustine\n645-0384 (Tel)"
+    },
+    {
+      "name": "Your Door Supermarket",
+      "type": "supermarket",
+      "address": "Mission Road\nFreeport"
+    },
+    {
+      "name": "All In 1 Tobago",
+      "type": "supermarket",
+      "phone": [
+        "639-5994"
+      ],
+      "address": "Glen Road\nScarborough\n639-5994 (Tel)"
+    },
+    {
+      "name": "Bayview Shopping Mart",
+      "type": "supermarket",
+      "phone": [
+        "660-6069"
+      ],
+      "address": "Spring Street\nCharlotteville\n660-6069 (Tel)"
+    },
+    {
+      "name": "Bethany Econo Mart",
+      "type": "supermarket",
+      "phone": [
+        "660-8322"
+      ],
+      "address": "Bethany\nMt. Pleasant\n660-8322 (Tel)"
+    },
+    {
+      "name": "Best Buys Supermarket Co. Ltd.",
+      "type": "supermarket",
+      "extra_info": "(Guy's Supermarket)",
+      "phone": [
+        "660-7194"
+      ],
+      "address": "Shelbourne Street\nPlymouth\n660-7194 (Tel)"
+    },
+    {
+      "name": "Cerene's Supermarket Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "639-9745"
+      ],
+      "address": "Milford Road\nCanaan\n639-9745 (Tel)"
+    },
+    {
+      "name": "Dalmore Edward's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "635-1287"
+      ],
+      "address": "Northside Road\nMason Hall\n635-1287 (Tel)"
+    },
+    {
+      "name": "Dario's Mini Mart",
+      "type": "supermarket",
+      "phone": [
+        "660-5882"
+      ],
+      "address": "Loius D'or Local Road\nDelaford\n660-5882 (Tel)"
+    },
+    {
+      "name": "Double B Enterprises",
+      "type": "supermarket",
+      "phone": [
+        "639-2971"
+      ],
+      "address": "Government House Road\nScarborough\n639-2971 (Tel)"
+    },
+    {
+      "name": "Edward's Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "639-6664"
+      ],
+      "address": "Northside Road\nMason Hall\n639-6664 (Tel)"
+    },
+    {
+      "name": "Embees Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "639-8440"
+      ],
+      "address": "Northside Road\nMason Hall\n639-8440 (Tel)"
+    },
+    {
+      "name": "Food Town Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "635-0620"
+      ],
+      "address": "Grafton Road\nBlack Rock\n635-0620 (Tel)"
+    },
+    {
+      "name": "Francis Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "639-8440"
+      ],
+      "address": "Crown Point\n639-8440 (Tel)"
+    },
+    {
+      "name": "K Mart Supermarket Ltd",
+      "type": "supermarket",
+      "phone": [
+        "639-3295"
+      ],
+      "address": "Wilson Rd Scarborough, Scarborough\n639-3295 (Tel)"
+    },
+    {
+      "name": "Kalamazoo Foods Ltd.",
+      "type": "supermarket",
+      "phone": [
+        "639-4042"
+      ],
+      "address": "Orange Hill Road\nScarborough\n639-4042 (Tel)"
+    },
+    {
+      "name": "Kalonji Ltd",
+      "type": "supermarket",
+      "phone": [
+        "660-4628"
+      ],
+      "address": "Main Road\nRoxborough\n660-4628 (Tel)"
+    },
+    {
+      "name": "Lydia Robinson (Food Basket)",
+      "type": "supermarket",
+      "phone": [
+        "639-4315"
+      ],
+      "address": "Scarborough Market\nScarborough\n639-4315 (Tel)"
+    },
+    {
+      "name": "Argyle Main Road",
+      "type": "supermarket",
+      "extra_info": "Argyle\n660-4014 (Tel)\nPenny Savers Supermarket",
+      "phone": [
+        "639-5549"
+      ],
+      "address": "Wilson Road\nScarborough\n639-5549 (Tel)"
+    },
+    {
+      "name": "Salandy's Discount Mart Ltd",
+      "type": "supermarket",
+      "phone": [
+        "639-4204"
+      ],
+      "address": "Bay 1\nNipdec Warehouse\nShaw Park\nScarborough\n639-4204 (Tel)"
+    },
+    {
+      "name": "Simmons' Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "639-6148"
+      ],
+      "address": "Scarborough\n639-6148 (Tel)"
+    },
+    {
+      "name": "Standard Supermarket",
+      "type": "supermarket",
+      "phone": [
+        "639-4513"
+      ],
+      "address": "Carrington & Burnett Streets\nScarborough\n639-4513 (Tel)"
+    },
+    {
+      "name": "Tobago Supermarket (Maharaj)",
+      "type": "supermarket",
+      "phone": [
+        "639-2291"
+      ],
+      "address": "Main & Castries Streets\nScarborough\n639-2291 (Tel)"
+    },
+    {
+      "name": "Tops Eco-Mart",
+      "type": "supermarket",
+      "phone": [
+        "660-4428"
+      ],
+      "address": "Main Road\nRoxborough\n660-4428 (Tel)"
+    },
+    {
+      "name": "Anand Low Price Supermarket and Liquor Store",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "297-3401",
+            "297-3403"
+          ],
+          "address": "Belle View Estate\nOropouche\n297-3401 (Tel1)\n297-3403 (Tel2)"
+        }
+      ]
+    },
+    {
+      "name": "Better Deal Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "675-8415",
+            "675-7686"
+          ],
+          "address": "70 Aranguez Road\nSan Juan\n675-8415 (Tel1)\n675-7686 (Tel2)"
+        }
+      ]
+    },
+    {
+      "name": "Budget Foods 1997 Ltd.",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "633-6637"
+          ],
+          "address": "Alyce Glen\nArima\n633-6637 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Coss Cutters",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "645-9356"
+          ],
+          "address": "corner Caura and Eastern Main Roads\nEl Dorado\n645-9356 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "F H S United Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "624-2058"
+          ],
+          "address": "34 Independence Square\nPort of Spain\n624-2058 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Family Mart Ltd",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "654-3642"
+          ],
+          "address": "New Colonial Road\nBarrackpore\n654-3642 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Fong's Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "657-2708"
+          ],
+          "address": "31 Cipero Street\nSan Fernando\n657-2708 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Fresh Cut Meats & Supermarket Ltd",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "668-2040"
+          ],
+          "address": "Eastern Main Rd\nSangre Grande\n668-2040 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "JTA Supermarkets Ltd.",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "657-9074"
+          ],
+          "address": "Cross Crossing\nSan Fernando\n657-9074 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Low Cost Supermarket (Cunupia) Ltd",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "665-3469"
+          ],
+          "address": "Southern Main Road Cunupia\n665-3469 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Massy Stores",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "627-4456"
+          ],
+          "address": "39A Wrightson Road\nPort of Spain\n627-4456 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Payless Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "624-6895"
+          ],
+          "address": "St Vincent Street\nPort of Spain\n624-6895 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "S&S Persad Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "223-9050",
+            "353-0910"
+          ],
+          "address": "#91 High Street\nRio Claro\n223-9050 (Tel) 353-0910\n(Customer Service Hotline)"
+        }
+      ]
+    },
+    {
+      "name": "Sing Chong Grocery",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "625-3068"
+          ],
+          "address": "33 Charlotte Street\nPort of Spain\n625-3068 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Southern Food Basket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "653-4808"
+          ],
+          "address": "99-101 Coffee Street\nSan Fernando\n653-4808 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Tru Valu Supermarket Ltd",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "622-0577"
+          ],
+          "address": "One Woodbrook Plaza\nDamian Street\nWoodbrook\n622-0577 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Valu Buys Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "650-1345"
+          ],
+          "address": "35 Bonne Aventure Road\nGasparillo\n650-1345 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Woo Ling's Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "622-1036"
+          ],
+          "address": "16 Western Main Road\nSt James\n 622-1036 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Xtra Foods Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "285-9872",
+            "665-7550"
+          ],
+          "address": "Narsaloo Ramaya Marg Road\nSt. Charles, Endeavour, Chagunas\n285-9872 (Tel1)\n665-7550 (Tel2)"
+        }
+      ]
+    },
+    {
+      "name": "Pablo's Market Stall",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "639-6755"
+          ],
+          "address": "Scarborough Market\nScarborough\n639-6755 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Penny Savers Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "639-5549"
+          ],
+          "address": "Wilson Road\nScarborough\n639-5549 (Tel)"
+        }
+      ]
+    },
+    {
+      "name": "Viewport Supermarket",
+      "type": "supermarket",
+      "locations": [
+        {
+          "phone": [
+            "639-6653"
+          ],
+          "address": "Carrington Street\nScarborough\n639-6653 (Tel)"
+        }
+      ]
+    }
+  ]
+}
